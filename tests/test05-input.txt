@@ -1,0 +1,114 @@
+001:insert:PEK:Capital:Beijing:China:40:116:1
+002:insert:DXB:Dubai International:Dubai:United Arab Emirates:25:55:1
+003:insert:NRT:New Tokyo International:Tokyo:Japan:35:140:1
+004:insert:LHR:Heathrow:London:Engalnd:51:0:1
+005:insert:PVG:Shanghai Pudong International Airport:Shanghai:China:31:121:1
+006:insert:CDG:Charles De Gaulle:Paris:France:49:2:1
+007:insert:AMS:Schiphol:Amsterdam:Netherlands:52:4:1
+008:insert:HKG:Hong Kong International:Hong Kong:China:22:113:1
+009:insert:DFW:Dallas Fort Worth International:Dallas:USA:32:-97:1
+010:insert:CAN:Baiyun:Guangzhou:China:23:113:1
+011:preorder
+012:insert:ICN:Incheon International Airport:Incheon:South Korea:37:126:1
+013:insert:ATL:The William B Hartsfield Atlanta International:Atlanta:USA:33:-84:1
+014:insert:JFK:John F Kennedy International:New York:USA:40:-73:1
+015:insert:FRA:Frankfurt Main:Frankfurt:Germany:50:8:1
+016:insert:DEL:Indira Gandhi International:Delhi:India:28:77:1
+017:insert:SIN:Singapore Changi:Singapore:Singapore:1:103:1
+018:insert:BKK:Bangkok International:Bangkok:Thailand:13:100:1
+019:insert:ORD:Chicago OHare International:Chicago:USA:41:-87:1
+020:insert:IAD:Washington Dulles International:Washington:USA:38:-77:1
+021:insert:LAX:Los Angeles International:Los Angeles:USA:33:-118:1
+022:insert:DCA:Ronald Reagan Washington National:Washington:USA:38:-77:1
+023:insert:SFO:San Francisco International:San Francisco:USA:37:-122:1
+024:insert:BWI:Baltimore Washington International:Baltimore:USA:39:-76:1
+025:preorder
+026:find:PEK
+027:find:NRT
+028:find-up:LHR
+029:find-up:YYZ
+030:find-up:DEN
+031:find-down:DFW
+032:find-down:CAN
+033:find-down:MAD
+034:find-down:BOM
+035:find:DCA
+036:find:CAN
+037:find-up:IAC
+038:find-down:IAE
+039:get-min
+040:get-max
+041:delete:PEK
+042:delete:NRT
+043:delete:LHR
+044:delete:CDG
+045:delete:AMS
+046:delete:DFW
+047:preorder
+048:delete:CAN
+049:delete:FRA
+050:delete:BKK
+051:delete:DCA
+052:delete:SFO
+053:delete:BWI
+054:preorder
+055:clear
+056:find:PEK
+057:find-up:LHR
+058:find-up:DEN
+059:find-down:BOM
+060:find-up:IAC
+061:find-down:IAE
+062:get-min
+063:get-max
+064:preorder
+065:insert:AMS:Schiphol:Amsterdam:Netherlands:52:4:1
+066:insert:SIN:Singapore Changi:Singapore:Singapore:1:103:1
+067:insert:ATL:The William B Hartsfield Atlanta International:Atlanta:USA:33:-84:1
+068:insert:SFO:San Francisco International:San Francisco:USA:37:-122:1
+069:insert:BKK:Bangkok International:Bangkok:Thailand:13:100:1
+070:insert:PVG:Shanghai Pudong International Airport:Shanghai:China:31:121:1
+071:insert:BWI:Baltimore Washington International:Baltimore:USA:39:-76:1
+072:insert:PEK:Capital:Beijing:China:40:116:1
+073:insert:CAN:Baiyun:Guangzhou:China:23:113:1
+074:insert:ORD:Chicago OHare International:Chicago:USA:41:-87:1
+075:insert:CDG:Charles De Gaulle:Paris:France:49:2:1
+076:insert:NRT:New Tokyo International:Tokyo:Japan:35:140:1
+077:insert:DCA:Ronald Reagan Washington National:Washington:USA:38:-77:1
+078:insert:LHR:Heathrow:London:Engalnd:51:0:1
+079:insert:DEL:Indira Gandhi International:Delhi:India:28:77:1
+080:insert:LAX:Los Angeles International:Los Angeles:USA:33:-118:1
+081:insert:DFW:Dallas Fort Worth International:Dallas:USA:32:-97:1
+082:insert:JFK:John F Kennedy International:New York:USA:40:-73:1
+083:insert:DXB:Dubai International:Dubai:United Arab Emirates:25:55:1
+084:insert:ICN:Incheon International Airport:Incheon:South Korea:37:126:1
+085:insert:FRA:Frankfurt Main:Frankfurt:Germany:50:8:1
+086:insert:IAD:Washington Dulles International:Washington:USA:38:-77:1
+087:insert:HKG:Hong Kong International:Hong Kong:China:22:113:1
+088:preorder
+089:find:PEK
+090:find:NRT
+091:find-up:LHR
+092:find-up:YYZ
+093:find-up:DEN
+094:find-down:DFW
+095:find-down:CAN
+096:find-down:MAD
+097:find-down:BOM
+098:find:DCA
+099:find:CAN
+100:find-up:IAC
+101:find-down:IAE
+102:preorder
+103:clear
+104:find:PEK
+105:clear
+106:find-up:LHR
+107:clear
+108:find-up:DEN
+109:find-down:BOM
+110:find-up:IAC
+111:find-down:IAE
+112:get-min
+113:get-max
+114:preorder

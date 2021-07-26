@@ -1,0 +1,300 @@
+insert(FOC): successful {foc_bD1iMnvu9qlNS8nxfQ, foc_jvNRcH, RwOST2i, (14.922989,-13.411667)} wt: 612.0
+insert(NWN): successful {nwn_4t IMXiu62 AV, nwn_5uAJ, ln-5R, (-44.98845,-29.131664)} wt: 1370.0
+insert(NJP): successful {njp_aZrjy-24pS9Yadq8Rm31K, njp_n2H, addp28alm, (111.480255,-72.52627)} wt: 123.0
+insert(GKC): successful {gkc_7ngRMa, gkc_eaIApDjjo, MK-itgyBYCSGxh, (-64.91229,66.76254)} wt: 1965.0
+insert(ZVP): successful {zvp_EzLOBDrsu7znHaNZNkmnmu1, zvp_Ti, -3TtDQPoZi, (-83.72591,73.66693)} wt: 1934.0
+insert(XGM): successful {xgm_44sWmCiuA2GxuLCDVK, xgm_Q3z3v, 1JpU0f, (-140.90468,72.6996)} wt: 14.0
+insert(LPM): successful {lpm_f0N3cP3, lpm_BD0c4yBMR, wmYtYq, (104.3515,-25.230896)} wt: 1485.0
+insert(HJO): successful {hjo_71B-rl5CN42Vs7O82O, hjo_nxJt, m7RsAO, (-168.02348,37.018112)} wt: 243.0
+insert(CSH): successful {csh_ieqrSCO, csh_9mAyB, aqxOzlCJfs9, (87.38797,77.07355)} wt: 862.0
+insert(MCB): successful {mcb_9ixu4kLBAx8I, mcb_F, T2PQU2E, (15.986954,-8.909958)} wt: 1886.0
+insert(JIX): successful {jix_kYJDJ81nAEedcJC7hy6aY2naN, jix_aZO60, 3ei7XNCCIlu3, (-163.58621,89.53848)} wt: 1406.0
+insert(UXH): successful {uxh_a8Qdhwlsz aoce1XWxc9Yb, uxh_kMyU8v, nJ9MqW3U, (145.2605,-87.778336)} wt: 407.0
+insert(LJH): successful {ljh_gLZtxbvsgSdiuuYgD, ljh_oZLzAfA, 0AY5e, (133.04791,-67.92566)} wt: 1423.0
+insert(ZNC): successful {znc_cYUo7L0OFerj7Fa7pANg9G, znc_Nes-, Ac Wt4X, (-81.55821,87.4393)} wt: 876.0
+insert(QWN): successful {qwn_PVKri juue3, qwn_gkIz-LUi3V, 52d0Q89Cdt, (87.023315,24.911308)} wt: 1224.0
+insert(BAR): successful {bar_BOPLCaz, bar_IBfL6Ovg, AfEs0xHqLL1dL, (-154.34195,-19.275452)} wt: 1740.0
+insert(IIE): successful {iie_bZnJM1Splx41lgG9qoHh82MzB, iie_3nEVTzFQCF, -DamXvtw, (-79.09847,3.7761002)} wt: 966.0
+insert(VHT): successful {vht_hFyFrQAcnlpsbGO, vht_jQKD-8J, 2PM 6-Y, (122.40045,62.29944)} wt: 1786.0
+insert(OGE): successful {oge_axudIjbjj9o, oge_wcAwrPSn, Hz2CGjr9s6CZ, (-170.52275,18.769264)} wt: 1040.0
+insert(VRM): successful {vrm_7LeI4jnMCa, vrm_1WArw6Xp8, FuxgGg0m, (-153.5893,-17.398415)} wt: 1004.0
+Preorder list:
+  (MCB) wt: 22366.0
+  (HJO) wt: 10702.0
+  (GKC) wt: 5179.0
+  (FOC) wt: 3214.0
+  (CSH) wt: 2602.0
+  [BAR bar_IBfL6Ovg] wt: 1740.0
+  [CSH csh_9mAyB] wt: 862.0
+  [FOC foc_jvNRcH] wt: 612.0
+  [GKC gkc_eaIApDjjo] wt: 1965.0
+  (LPM) wt: 5523.0
+  (JIX) wt: 4038.0
+  (IIE) wt: 1209.0
+  [HJO hjo_nxJt] wt: 243.0
+  [IIE iie_3nEVTzFQCF] wt: 966.0
+  (LJH) wt: 2829.0
+  [JIX jix_aZO60] wt: 1406.0
+  [LJH ljh_oZLzAfA] wt: 1423.0
+  [LPM lpm_BD0c4yBMR] wt: 1485.0
+  (QWN) wt: 11664.0
+  (NJP) wt: 4419.0
+  [MCB mcb_F] wt: 1886.0
+  (NWN) wt: 2533.0
+  [NJP njp_n2H] wt: 123.0
+  (OGE) wt: 2410.0
+  [NWN nwn_5uAJ] wt: 1370.0
+  [OGE oge_wcAwrPSn] wt: 1040.0
+  (ZVP) wt: 7245.0
+  (UXH) wt: 5311.0
+  [QWN qwn_gkIz-LUi3V] wt: 1224.0
+  (ZNC) wt: 4087.0
+  (XGM) wt: 3211.0
+  (VHT) wt: 3197.0
+  [UXH uxh_kMyU8v] wt: 407.0
+  (VRM) wt: 2790.0
+  [VHT vht_jQKD-8J] wt: 1786.0
+  [VRM vrm_1WArw6Xp8] wt: 1004.0
+  [XGM xgm_Q3z3v] wt: 14.0
+  [ZNC znc_Nes-] wt: 876.0
+  [ZVP zvp_Ti] wt: 1934.0
+Tree structure:
+  | | | | | [BAR bar_IBfL6Ovg] wt: 1740.0
+  | | | | (CSH) wt: 2602.0
+  | | | | | [CSH csh_9mAyB] wt: 862.0
+  | | | (FOC) wt: 3214.0
+  | | | | [FOC foc_jvNRcH] wt: 612.0
+  | | (GKC) wt: 5179.0
+  | | | [GKC gkc_eaIApDjjo] wt: 1965.0
+  | (HJO) wt: 10702.0
+  | | | | | [HJO hjo_nxJt] wt: 243.0
+  | | | | (IIE) wt: 1209.0
+  | | | | | [IIE iie_3nEVTzFQCF] wt: 966.0
+  | | | (JIX) wt: 4038.0
+  | | | | | [JIX jix_aZO60] wt: 1406.0
+  | | | | (LJH) wt: 2829.0
+  | | | | | [LJH ljh_oZLzAfA] wt: 1423.0
+  | | (LPM) wt: 5523.0
+  | | | [LPM lpm_BD0c4yBMR] wt: 1485.0
+  (MCB) wt: 22366.0
+  | | | [MCB mcb_F] wt: 1886.0
+  | | (NJP) wt: 4419.0
+  | | | | [NJP njp_n2H] wt: 123.0
+  | | | (NWN) wt: 2533.0
+  | | | | | [NWN nwn_5uAJ] wt: 1370.0
+  | | | | (OGE) wt: 2410.0
+  | | | | | [OGE oge_wcAwrPSn] wt: 1040.0
+  | (QWN) wt: 11664.0
+  | | | | [QWN qwn_gkIz-LUi3V] wt: 1224.0
+  | | | (UXH) wt: 5311.0
+  | | | | | | | [UXH uxh_kMyU8v] wt: 407.0
+  | | | | | | (VHT) wt: 3197.0
+  | | | | | | | | [VHT vht_jQKD-8J] wt: 1786.0
+  | | | | | | | (VRM) wt: 2790.0
+  | | | | | | | | [VRM vrm_1WArw6Xp8] wt: 1004.0
+  | | | | | (XGM) wt: 3211.0
+  | | | | | | [XGM xgm_Q3z3v] wt: 14.0
+  | | | | (ZNC) wt: 4087.0
+  | | | | | [ZNC znc_Nes-] wt: 876.0
+  | | (ZVP) wt: 7245.0
+  | | | [ZVP zvp_Ti] wt: 1934.0
+insert(RNF): successful {rnf_9Spv1b, rnf_k, Uve0mcznP4UoD4, (37.16632,66.60826)} wt: 1284.0
+insert(MQI): successful {mqi_Sw1Jcfusi5bU9UqLc, mqi_5lxN9SeLEj, h2g-wQ, (112.968994,-16.381798)} wt: 1101.0
+insert(WQZ): successful {wqz_Rnoeuy, wqz_3r qmm, NoiBT4AF1KeHN, (-80.39705,27.222298)} wt: 689.0
+insert(MTS): successful {mts_JgyrnDeuqKTcT2gJ-glcBzH6, mts_k, FToqGTnZHQyN, (144.56088,-31.46051)} wt: 1544.0
+insert(ZPB): successful {zpb_SRFzUzTCje, zpb_g, -zyCA , (66.41252,-27.13741)} wt: 1152.0
+Preorder list:
+  (MCB) wt: 28136.0
+  (HJO) wt: 10702.0
+  (GKC) wt: 5179.0
+  (FOC) wt: 3214.0
+  (CSH) wt: 2602.0
+  [BAR bar_IBfL6Ovg] wt: 1740.0
+  [CSH csh_9mAyB] wt: 862.0
+  [FOC foc_jvNRcH] wt: 612.0
+  [GKC gkc_eaIApDjjo] wt: 1965.0
+  (LPM) wt: 5523.0
+  (JIX) wt: 4038.0
+  (IIE) wt: 1209.0
+  [HJO hjo_nxJt] wt: 243.0
+  [IIE iie_3nEVTzFQCF] wt: 966.0
+  (LJH) wt: 2829.0
+  [JIX jix_aZO60] wt: 1406.0
+  [LJH ljh_oZLzAfA] wt: 1423.0
+  [LPM lpm_BD0c4yBMR] wt: 1485.0
+  (QWN) wt: 17434.0
+  (NJP) wt: 7064.0
+  (MQI) wt: 4531.0
+  [MCB mcb_F] wt: 1886.0
+  (MTS) wt: 2645.0
+  [MQI mqi_5lxN9SeLEj] wt: 1101.0
+  [MTS mts_k] wt: 1544.0
+  (NWN) wt: 2533.0
+  [NJP njp_n2H] wt: 123.0
+  (OGE) wt: 2410.0
+  [NWN nwn_5uAJ] wt: 1370.0
+  [OGE oge_wcAwrPSn] wt: 1040.0
+  (VRM) wt: 10370.0
+  (UXH) wt: 4701.0
+  (RNF) wt: 2508.0
+  [QWN qwn_gkIz-LUi3V] wt: 1224.0
+  [RNF rnf_k] wt: 1284.0
+  (VHT) wt: 2193.0
+  [UXH uxh_kMyU8v] wt: 407.0
+  [VHT vht_jQKD-8J] wt: 1786.0
+  (ZVP) wt: 5669.0
+  (XGM) wt: 3735.0
+  (WQZ) wt: 1693.0
+  [VRM vrm_1WArw6Xp8] wt: 1004.0
+  [WQZ wqz_3r qmm] wt: 689.0
+  (ZNC) wt: 2042.0
+  [XGM xgm_Q3z3v] wt: 14.0
+  (ZPB) wt: 2028.0
+  [ZNC znc_Nes-] wt: 876.0
+  [ZPB zpb_g] wt: 1152.0
+  [ZVP zvp_Ti] wt: 1934.0
+Tree structure:
+  | | | | | [BAR bar_IBfL6Ovg] wt: 1740.0
+  | | | | (CSH) wt: 2602.0
+  | | | | | [CSH csh_9mAyB] wt: 862.0
+  | | | (FOC) wt: 3214.0
+  | | | | [FOC foc_jvNRcH] wt: 612.0
+  | | (GKC) wt: 5179.0
+  | | | [GKC gkc_eaIApDjjo] wt: 1965.0
+  | (HJO) wt: 10702.0
+  | | | | | [HJO hjo_nxJt] wt: 243.0
+  | | | | (IIE) wt: 1209.0
+  | | | | | [IIE iie_3nEVTzFQCF] wt: 966.0
+  | | | (JIX) wt: 4038.0
+  | | | | | [JIX jix_aZO60] wt: 1406.0
+  | | | | (LJH) wt: 2829.0
+  | | | | | [LJH ljh_oZLzAfA] wt: 1423.0
+  | | (LPM) wt: 5523.0
+  | | | [LPM lpm_BD0c4yBMR] wt: 1485.0
+  (MCB) wt: 28136.0
+  | | | | [MCB mcb_F] wt: 1886.0
+  | | | (MQI) wt: 4531.0
+  | | | | | [MQI mqi_5lxN9SeLEj] wt: 1101.0
+  | | | | (MTS) wt: 2645.0
+  | | | | | [MTS mts_k] wt: 1544.0
+  | | (NJP) wt: 7064.0
+  | | | | [NJP njp_n2H] wt: 123.0
+  | | | (NWN) wt: 2533.0
+  | | | | | [NWN nwn_5uAJ] wt: 1370.0
+  | | | | (OGE) wt: 2410.0
+  | | | | | [OGE oge_wcAwrPSn] wt: 1040.0
+  | (QWN) wt: 17434.0
+  | | | | | [QWN qwn_gkIz-LUi3V] wt: 1224.0
+  | | | | (RNF) wt: 2508.0
+  | | | | | [RNF rnf_k] wt: 1284.0
+  | | | (UXH) wt: 4701.0
+  | | | | | [UXH uxh_kMyU8v] wt: 407.0
+  | | | | (VHT) wt: 2193.0
+  | | | | | [VHT vht_jQKD-8J] wt: 1786.0
+  | | (VRM) wt: 10370.0
+  | | | | | | [VRM vrm_1WArw6Xp8] wt: 1004.0
+  | | | | | (WQZ) wt: 1693.0
+  | | | | | | [WQZ wqz_3r qmm] wt: 689.0
+  | | | | (XGM) wt: 3735.0
+  | | | | | | [XGM xgm_Q3z3v] wt: 14.0
+  | | | | | (ZNC) wt: 2042.0
+  | | | | | | | [ZNC znc_Nes-] wt: 876.0
+  | | | | | | (ZPB) wt: 2028.0
+  | | | | | | | [ZPB zpb_g] wt: 1152.0
+  | | | (ZVP) wt: 5669.0
+  | | | | [ZVP zvp_Ti] wt: 1934.0
+delete(MQI): successful
+delete(DEL): failure - nonexistent code
+delete(HJO): successful
+delete(OGE): successful
+delete(FOC): successful
+delete(ZVP): successful
+find(BAR): found [bar_IBfL6Ovg]
+find(ZVP): not found
+find(LPM): found [lpm_BD0c4yBMR]
+find(ABC): not found
+find(ZYX): not found
+find-up(BAR): found [bar_IBfL6Ovg]
+find-up(ZVP): not found
+find-up(LPM): found [lpm_BD0c4yBMR]
+find-up(ABC): found [bar_IBfL6Ovg]
+find-up(ZYX): not found
+find-down(BAR): found [bar_IBfL6Ovg]
+find-down(ZVP): found [zpb_g]
+find-down(LPM): found [lpm_BD0c4yBMR]
+find-down(ABC): not found
+find-down(ZYX): found [zpb_g]
+get-min: found [bar_IBfL6Ovg]
+get-max: found [zpb_g]
+delete(IIE): successful
+delete(NWN): successful
+delete(MCB): successful
+delete(RNF): successful
+delete(WQZ): successful
+delete(MTS): successful
+delete(GKC): successful
+delete(ZNC): successful
+delete(XGM): successful
+delete(LJH): successful
+delete(QWN): successful
+delete(LPM): successful
+delete(BAR): successful
+delete(CSH): successful
+Preorder list:
+  (MCB) wt: 5878.0
+  [JIX jix_aZO60] wt: 1406.0
+  (VHT) wt: 4472.0
+  (NWN) wt: 530.0
+  [NJP njp_n2H] wt: 123.0
+  [UXH uxh_kMyU8v] wt: 407.0
+  (ZNC) wt: 3942.0
+  (VRM) wt: 2790.0
+  [VHT vht_jQKD-8J] wt: 1786.0
+  [VRM vrm_1WArw6Xp8] wt: 1004.0
+  [ZPB zpb_g] wt: 1152.0
+Tree structure:
+  | [JIX jix_aZO60] wt: 1406.0
+  (MCB) wt: 5878.0
+  | | | [NJP njp_n2H] wt: 123.0
+  | | (NWN) wt: 530.0
+  | | | [UXH uxh_kMyU8v] wt: 407.0
+  | (VHT) wt: 4472.0
+  | | | | [VHT vht_jQKD-8J] wt: 1786.0
+  | | | (VRM) wt: 2790.0
+  | | | | [VRM vrm_1WArw6Xp8] wt: 1004.0
+  | | (ZNC) wt: 3942.0
+  | | | [ZPB zpb_g] wt: 1152.0
+delete(NJP): successful
+delete(VRM): successful
+delete(ZPB): successful
+delete(JIX): successful
+delete(UXH): successful
+Preorder list:
+  [VHT vht_jQKD-8J] wt: 1786.0
+Tree structure:
+  [VHT vht_jQKD-8J] wt: 1786.0
+clear: successful
+insert(FOC): successful {foc_bD1iMnvu9qlNS8nxfQ, foc_jvNRcH, RwOST2i, (14.922989,-13.411667)} wt: 612.0
+insert(NWN): successful {nwn_4t IMXiu62 AV, nwn_5uAJ, ln-5R, (-44.98845,-29.131664)} wt: 1370.0
+insert(NJP): successful {njp_aZrjy-24pS9Yadq8Rm31K, njp_n2H, addp28alm, (111.480255,-72.52627)} wt: 123.0
+get-min: found [foc_jvNRcH]
+get-max: found [nwn_5uAJ]
+Preorder list:
+  (NWN) wt: 2105.0
+  (NJP) wt: 735.0
+  [FOC foc_jvNRcH] wt: 612.0
+  [NJP njp_n2H] wt: 123.0
+  [NWN nwn_5uAJ] wt: 1370.0
+Tree structure:
+  | | [FOC foc_jvNRcH] wt: 612.0
+  | (NJP) wt: 735.0
+  | | [NJP njp_n2H] wt: 123.0
+  (NWN) wt: 2105.0
+  | [NWN nwn_5uAJ] wt: 1370.0
+delete(NWN): successful
+delete(NJP): successful
+delete(FOC): successful
+get-min: not found
+get-max: not found
+Preorder list:
+Tree structure:

@@ -1,0 +1,395 @@
+...Inserting IAD wt: 1.0
+...Tree after insertion and before rebalancing IAD
+...[IAD Washington] wt: 1.0
+...Tree after rebalancing IAD
+...[IAD Washington] wt: 1.0
+insert(IAD): successful {Washington Dulles International, Washington, USA, (38.0,-77.0)} wt: 1.0
+...Inserting BWI wt: 1.0
+...Tree after insertion and before rebalancing BWI
+...| [BWI Baltimore] wt: 1.0
+...(IAD) wt: 2.0 maxWt: 1.0
+...| [IAD Washington] wt: 1.0
+...Checking node IAD balance-ratio = 0.5 max-ratio = 0.5 is balanced
+...Tree after rebalancing BWI
+...| [BWI Baltimore] wt: 1.0
+...(IAD) wt: 2.0 maxWt: 1.0
+...| [IAD Washington] wt: 1.0
+insert(BWI): successful {Baltimore Washington International, Baltimore, USA, (39.0,-76.0)} wt: 1.0
+...Inserting LAX wt: 2.0
+...Tree after insertion and before rebalancing LAX
+...| [BWI Baltimore] wt: 1.0
+...(IAD) wt: 4.0 maxWt: 2.0
+...| | [IAD Washington] wt: 1.0
+...| (LAX) wt: 3.0 maxWt: 2.0
+...| | [LAX Los Angeles] wt: 2.0
+...Checking node IAD balance-ratio = 0.75 max-ratio = 0.5 is balanced
+...Checking node LAX balance-ratio = 0.6666667 max-ratio = 0.6666667 is balanced
+...Tree after rebalancing LAX
+...| [BWI Baltimore] wt: 1.0
+...(IAD) wt: 4.0 maxWt: 2.0
+...| | [IAD Washington] wt: 1.0
+...| (LAX) wt: 3.0 maxWt: 2.0
+...| | [LAX Los Angeles] wt: 2.0
+insert(LAX): successful {Los Angeles International, Los Angeles, USA, (33.0,-118.0)} wt: 2.0
+...Inserting DCA wt: 1.0
+...Tree after insertion and before rebalancing DCA
+...| | [BWI Baltimore] wt: 1.0
+...| (DCA) wt: 2.0 maxWt: 1.0
+...| | [DCA Washington] wt: 1.0
+...(IAD) wt: 5.0 maxWt: 2.0
+...| | [IAD Washington] wt: 1.0
+...| (LAX) wt: 3.0 maxWt: 2.0
+...| | [LAX Los Angeles] wt: 2.0
+...Checking node IAD balance-ratio = 0.6 max-ratio = 0.4 is balanced
+...Checking node DCA balance-ratio = 0.5 max-ratio = 0.5 is balanced
+...Tree after rebalancing DCA
+...| | [BWI Baltimore] wt: 1.0
+...| (DCA) wt: 2.0 maxWt: 1.0
+...| | [DCA Washington] wt: 1.0
+...(IAD) wt: 5.0 maxWt: 2.0
+...| | [IAD Washington] wt: 1.0
+...| (LAX) wt: 3.0 maxWt: 2.0
+...| | [LAX Los Angeles] wt: 2.0
+insert(DCA): successful {Ronald Reagan Washington National, Washington, USA, (38.0,-77.0)} wt: 1.0
+...Inserting JFK wt: 2.0
+...Tree after insertion and before rebalancing JFK
+...| | [BWI Baltimore] wt: 1.0
+...| (DCA) wt: 2.0 maxWt: 1.0
+...| | [DCA Washington] wt: 1.0
+...(IAD) wt: 7.0 maxWt: 2.0
+...| | | [IAD Washington] wt: 1.0
+...| | (JFK) wt: 3.0 maxWt: 2.0
+...| | | [JFK New York] wt: 2.0
+...| (LAX) wt: 5.0 maxWt: 2.0
+...| | [LAX Los Angeles] wt: 2.0
+...Checking node IAD balance-ratio = 0.71428573 max-ratio = 0.2857143 is balanced
+...Checking node LAX balance-ratio = 0.6 max-ratio = 0.4 is balanced
+...Checking node JFK balance-ratio = 0.6666667 max-ratio = 0.6666667 is balanced
+...Tree after rebalancing JFK
+...| | [BWI Baltimore] wt: 1.0
+...| (DCA) wt: 2.0 maxWt: 1.0
+...| | [DCA Washington] wt: 1.0
+...(IAD) wt: 7.0 maxWt: 2.0
+...| | | [IAD Washington] wt: 1.0
+...| | (JFK) wt: 3.0 maxWt: 2.0
+...| | | [JFK New York] wt: 2.0
+...| (LAX) wt: 5.0 maxWt: 2.0
+...| | [LAX Los Angeles] wt: 2.0
+insert(JFK): successful {John F Kennedy International, New York, USA, (40.0,-73.0)} wt: 2.0
+...Inserting ATL wt: 1.0
+...Tree after insertion and before rebalancing ATL
+...| | | [ATL Atlanta] wt: 1.0
+...| | (BWI) wt: 2.0 maxWt: 1.0
+...| | | [BWI Baltimore] wt: 1.0
+...| (DCA) wt: 3.0 maxWt: 1.0
+...| | [DCA Washington] wt: 1.0
+...(IAD) wt: 8.0 maxWt: 2.0
+...| | | [IAD Washington] wt: 1.0
+...| | (JFK) wt: 3.0 maxWt: 2.0
+...| | | [JFK New York] wt: 2.0
+...| (LAX) wt: 5.0 maxWt: 2.0
+...| | [LAX Los Angeles] wt: 2.0
+...Checking node IAD balance-ratio = 0.625 max-ratio = 0.25 is balanced
+...Checking node DCA balance-ratio = 0.6666667 max-ratio = 0.33333334 is balanced
+...Checking node BWI balance-ratio = 0.5 max-ratio = 0.5 is balanced
+...Tree after rebalancing ATL
+...| | | [ATL Atlanta] wt: 1.0
+...| | (BWI) wt: 2.0 maxWt: 1.0
+...| | | [BWI Baltimore] wt: 1.0
+...| (DCA) wt: 3.0 maxWt: 1.0
+...| | [DCA Washington] wt: 1.0
+...(IAD) wt: 8.0 maxWt: 2.0
+...| | | [IAD Washington] wt: 1.0
+...| | (JFK) wt: 3.0 maxWt: 2.0
+...| | | [JFK New York] wt: 2.0
+...| (LAX) wt: 5.0 maxWt: 2.0
+...| | [LAX Los Angeles] wt: 2.0
+insert(ATL): successful {The William B Hartsfield Atlanta International, Atlanta, USA, (33.0,-84.0)} wt: 1.0
+...Inserting SFO wt: 2.0
+...Tree after insertion and before rebalancing SFO
+...| | | [ATL Atlanta] wt: 1.0
+...| | (BWI) wt: 2.0 maxWt: 1.0
+...| | | [BWI Baltimore] wt: 1.0
+...| (DCA) wt: 3.0 maxWt: 1.0
+...| | [DCA Washington] wt: 1.0
+...(IAD) wt: 10.0 maxWt: 2.0
+...| | | [IAD Washington] wt: 1.0
+...| | (JFK) wt: 3.0 maxWt: 2.0
+...| | | [JFK New York] wt: 2.0
+...| (LAX) wt: 7.0 maxWt: 2.0
+...| | | [LAX Los Angeles] wt: 2.0
+...| | (SFO) wt: 4.0 maxWt: 2.0
+...| | | [SFO San Francisco] wt: 2.0
+...Checking node IAD balance-ratio = 0.7 max-ratio = 0.2 !!! Fails balance conditions !!!
+...Rebuilding subtree at node IAD
+...Rebuilt subtree:
+...| | | [ATL Atlanta] wt: 1.0
+...| | (BWI) wt: 2.0 maxWt: 1.0
+...| | | [BWI Baltimore] wt: 1.0
+...| (DCA) wt: 4.0 maxWt: 1.0
+...| | | [DCA Washington] wt: 1.0
+...| | (IAD) wt: 2.0 maxWt: 1.0
+...| | | [IAD Washington] wt: 1.0
+...(JFK) wt: 10.0 maxWt: 2.0
+...| | [JFK New York] wt: 2.0
+...| (LAX) wt: 6.0 maxWt: 2.0
+...| | | [LAX Los Angeles] wt: 2.0
+...| | (SFO) wt: 4.0 maxWt: 2.0
+...| | | [SFO San Francisco] wt: 2.0
+...Tree after rebalancing SFO
+...| | | [ATL Atlanta] wt: 1.0
+...| | (BWI) wt: 2.0 maxWt: 1.0
+...| | | [BWI Baltimore] wt: 1.0
+...| (DCA) wt: 4.0 maxWt: 1.0
+...| | | [DCA Washington] wt: 1.0
+...| | (IAD) wt: 2.0 maxWt: 1.0
+...| | | [IAD Washington] wt: 1.0
+...(JFK) wt: 10.0 maxWt: 2.0
+...| | [JFK New York] wt: 2.0
+...| (LAX) wt: 6.0 maxWt: 2.0
+...| | | [LAX Los Angeles] wt: 2.0
+...| | (SFO) wt: 4.0 maxWt: 2.0
+...| | | [SFO San Francisco] wt: 2.0
+insert(SFO): successful {San Francisco International, San Francisco, USA, (37.0,-122.0)} wt: 2.0
+Preorder list:
+  (JFK) wt: 10.0
+  (DCA) wt: 4.0
+  (BWI) wt: 2.0
+  [ATL Atlanta] wt: 1.0
+  [BWI Baltimore] wt: 1.0
+  (IAD) wt: 2.0
+  [DCA Washington] wt: 1.0
+  [IAD Washington] wt: 1.0
+  (LAX) wt: 6.0
+  [JFK New York] wt: 2.0
+  (SFO) wt: 4.0
+  [LAX Los Angeles] wt: 2.0
+  [SFO San Francisco] wt: 2.0
+Tree structure:
+  | | | [ATL Atlanta] wt: 1.0
+  | | (BWI) wt: 2.0
+  | | | [BWI Baltimore] wt: 1.0
+  | (DCA) wt: 4.0
+  | | | [DCA Washington] wt: 1.0
+  | | (IAD) wt: 2.0
+  | | | [IAD Washington] wt: 1.0
+  (JFK) wt: 10.0
+  | | [JFK New York] wt: 2.0
+  | (LAX) wt: 6.0
+  | | | [LAX Los Angeles] wt: 2.0
+  | | (SFO) wt: 4.0
+  | | | [SFO San Francisco] wt: 2.0
+find(LAX): found [Los Angeles]
+find(JFK): found [New York]
+find(JJJ): not found
+find(ATL): found [Atlanta]
+find(SFO): found [San Francisco]
+find(AAA): not found
+find(ZZZ): not found
+find(MMM): not found
+Tree: Deleting BWI
+...Tree after deletion and before rebalancing BWI
+...| | [ATL Atlanta] wt: 1.0
+...| (DCA) wt: 3.0 maxWt: 1.0
+...| | | [DCA Washington] wt: 1.0
+...| | (IAD) wt: 2.0 maxWt: 1.0
+...| | | [IAD Washington] wt: 1.0
+...(JFK) wt: 9.0 maxWt: 2.0
+...| | [JFK New York] wt: 2.0
+...| (LAX) wt: 6.0 maxWt: 2.0
+...| | | [LAX Los Angeles] wt: 2.0
+...| | (SFO) wt: 4.0 maxWt: 2.0
+...| | | [SFO San Francisco] wt: 2.0
+...Checking node JFK balance-ratio = 0.6666667 max-ratio = 0.22222222 is balanced
+...Checking node DCA balance-ratio = 0.6666667 max-ratio = 0.33333334 is balanced
+...Tree after rebalancing BWI
+...| | [ATL Atlanta] wt: 1.0
+...| (DCA) wt: 3.0 maxWt: 1.0
+...| | | [DCA Washington] wt: 1.0
+...| | (IAD) wt: 2.0 maxWt: 1.0
+...| | | [IAD Washington] wt: 1.0
+...(JFK) wt: 9.0 maxWt: 2.0
+...| | [JFK New York] wt: 2.0
+...| (LAX) wt: 6.0 maxWt: 2.0
+...| | | [LAX Los Angeles] wt: 2.0
+...| | (SFO) wt: 4.0 maxWt: 2.0
+...| | | [SFO San Francisco] wt: 2.0
+delete(BWI): successful
+Preorder list:
+  (JFK) wt: 9.0
+  (DCA) wt: 3.0
+  [ATL Atlanta] wt: 1.0
+  (IAD) wt: 2.0
+  [DCA Washington] wt: 1.0
+  [IAD Washington] wt: 1.0
+  (LAX) wt: 6.0
+  [JFK New York] wt: 2.0
+  (SFO) wt: 4.0
+  [LAX Los Angeles] wt: 2.0
+  [SFO San Francisco] wt: 2.0
+Tree structure:
+  | | [ATL Atlanta] wt: 1.0
+  | (DCA) wt: 3.0
+  | | | [DCA Washington] wt: 1.0
+  | | (IAD) wt: 2.0
+  | | | [IAD Washington] wt: 1.0
+  (JFK) wt: 9.0
+  | | [JFK New York] wt: 2.0
+  | (LAX) wt: 6.0
+  | | | [LAX Los Angeles] wt: 2.0
+  | | (SFO) wt: 4.0
+  | | | [SFO San Francisco] wt: 2.0
+Tree: Deleting DCA
+...Tree after deletion and before rebalancing DCA
+...| | [ATL Atlanta] wt: 1.0
+...| (DCA) wt: 2.0 maxWt: 1.0
+...| | [IAD Washington] wt: 1.0
+...(JFK) wt: 8.0 maxWt: 2.0
+...| | [JFK New York] wt: 2.0
+...| (LAX) wt: 6.0 maxWt: 2.0
+...| | | [LAX Los Angeles] wt: 2.0
+...| | (SFO) wt: 4.0 maxWt: 2.0
+...| | | [SFO San Francisco] wt: 2.0
+...Checking node JFK balance-ratio = 0.75 max-ratio = 0.25 !!! Fails balance conditions !!!
+...Rebuilding subtree at node JFK
+...Rebuilt subtree:
+...| | | [ATL Atlanta] wt: 1.0
+...| | (IAD) wt: 2.0 maxWt: 1.0
+...| | | [IAD Washington] wt: 1.0
+...| (JFK) wt: 4.0 maxWt: 2.0
+...| | [JFK New York] wt: 2.0
+...(LAX) wt: 8.0 maxWt: 2.0
+...| | [LAX Los Angeles] wt: 2.0
+...| (SFO) wt: 4.0 maxWt: 2.0
+...| | [SFO San Francisco] wt: 2.0
+...Tree after rebalancing DCA
+...| | | [ATL Atlanta] wt: 1.0
+...| | (IAD) wt: 2.0 maxWt: 1.0
+...| | | [IAD Washington] wt: 1.0
+...| (JFK) wt: 4.0 maxWt: 2.0
+...| | [JFK New York] wt: 2.0
+...(LAX) wt: 8.0 maxWt: 2.0
+...| | [LAX Los Angeles] wt: 2.0
+...| (SFO) wt: 4.0 maxWt: 2.0
+...| | [SFO San Francisco] wt: 2.0
+delete(DCA): successful
+Preorder list:
+  (LAX) wt: 8.0
+  (JFK) wt: 4.0
+  (IAD) wt: 2.0
+  [ATL Atlanta] wt: 1.0
+  [IAD Washington] wt: 1.0
+  [JFK New York] wt: 2.0
+  (SFO) wt: 4.0
+  [LAX Los Angeles] wt: 2.0
+  [SFO San Francisco] wt: 2.0
+Tree structure:
+  | | | [ATL Atlanta] wt: 1.0
+  | | (IAD) wt: 2.0
+  | | | [IAD Washington] wt: 1.0
+  | (JFK) wt: 4.0
+  | | [JFK New York] wt: 2.0
+  (LAX) wt: 8.0
+  | | [LAX Los Angeles] wt: 2.0
+  | (SFO) wt: 4.0
+  | | [SFO San Francisco] wt: 2.0
+Tree: Deleting ATL
+...Tree after deletion and before rebalancing ATL
+...| | [IAD Washington] wt: 1.0
+...| (JFK) wt: 3.0 maxWt: 2.0
+...| | [JFK New York] wt: 2.0
+...(LAX) wt: 7.0 maxWt: 2.0
+...| | [LAX Los Angeles] wt: 2.0
+...| (SFO) wt: 4.0 maxWt: 2.0
+...| | [SFO San Francisco] wt: 2.0
+...Checking node LAX balance-ratio = 0.5714286 max-ratio = 0.2857143 is balanced
+...Checking node JFK balance-ratio = 0.6666667 max-ratio = 0.6666667 is balanced
+...Tree after rebalancing ATL
+...| | [IAD Washington] wt: 1.0
+...| (JFK) wt: 3.0 maxWt: 2.0
+...| | [JFK New York] wt: 2.0
+...(LAX) wt: 7.0 maxWt: 2.0
+...| | [LAX Los Angeles] wt: 2.0
+...| (SFO) wt: 4.0 maxWt: 2.0
+...| | [SFO San Francisco] wt: 2.0
+delete(ATL): successful
+Preorder list:
+  (LAX) wt: 7.0
+  (JFK) wt: 3.0
+  [IAD Washington] wt: 1.0
+  [JFK New York] wt: 2.0
+  (SFO) wt: 4.0
+  [LAX Los Angeles] wt: 2.0
+  [SFO San Francisco] wt: 2.0
+Tree structure:
+  | | [IAD Washington] wt: 1.0
+  | (JFK) wt: 3.0
+  | | [JFK New York] wt: 2.0
+  (LAX) wt: 7.0
+  | | [LAX Los Angeles] wt: 2.0
+  | (SFO) wt: 4.0
+  | | [SFO San Francisco] wt: 2.0
+Tree: Deleting IAD
+...Tree after deletion and before rebalancing IAD
+...| [JFK New York] wt: 2.0
+...(LAX) wt: 6.0 maxWt: 2.0
+...| | [LAX Los Angeles] wt: 2.0
+...| (SFO) wt: 4.0 maxWt: 2.0
+...| | [SFO San Francisco] wt: 2.0
+...Checking node LAX balance-ratio = 0.6666667 max-ratio = 0.33333334 is balanced
+...Tree after rebalancing IAD
+...| [JFK New York] wt: 2.0
+...(LAX) wt: 6.0 maxWt: 2.0
+...| | [LAX Los Angeles] wt: 2.0
+...| (SFO) wt: 4.0 maxWt: 2.0
+...| | [SFO San Francisco] wt: 2.0
+delete(IAD): successful
+Preorder list:
+  (LAX) wt: 6.0
+  [JFK New York] wt: 2.0
+  (SFO) wt: 4.0
+  [LAX Los Angeles] wt: 2.0
+  [SFO San Francisco] wt: 2.0
+Tree structure:
+  | [JFK New York] wt: 2.0
+  (LAX) wt: 6.0
+  | | [LAX Los Angeles] wt: 2.0
+  | (SFO) wt: 4.0
+  | | [SFO San Francisco] wt: 2.0
+Tree: Deleting JFK
+...Tree after deletion and before rebalancing JFK
+...| [LAX Los Angeles] wt: 2.0
+...(SFO) wt: 4.0 maxWt: 2.0
+...| [SFO San Francisco] wt: 2.0
+...Checking node SFO balance-ratio = 0.5 max-ratio = 0.5 is balanced
+...Tree after rebalancing JFK
+...| [LAX Los Angeles] wt: 2.0
+...(SFO) wt: 4.0 maxWt: 2.0
+...| [SFO San Francisco] wt: 2.0
+delete(JFK): successful
+Preorder list:
+  (SFO) wt: 4.0
+  [LAX Los Angeles] wt: 2.0
+  [SFO San Francisco] wt: 2.0
+Tree structure:
+  | [LAX Los Angeles] wt: 2.0
+  (SFO) wt: 4.0
+  | [SFO San Francisco] wt: 2.0
+Tree: Deleting LAX
+...Tree after deletion and before rebalancing LAX
+...[SFO San Francisco] wt: 2.0
+...Tree after rebalancing LAX
+...[SFO San Francisco] wt: 2.0
+delete(LAX): successful
+Preorder list:
+  [SFO San Francisco] wt: 2.0
+Tree structure:
+  [SFO San Francisco] wt: 2.0
+Tree: Deleting SFO
+...Tree after deletion and before rebalancing SFO
+null
+...Tree after rebalancing SFO
+null
+delete(SFO): successful
+Preorder list:
+Tree structure:

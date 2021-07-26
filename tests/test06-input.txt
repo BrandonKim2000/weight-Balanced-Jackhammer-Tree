@@ -1,0 +1,84 @@
+001:insert:FOC:foc_bD1iMnvu9qlNS8nxfQ:foc_jvNRcH:RwOST2i:14.922989:-13.411667:612
+002:insert:NWN:nwn_4t IMXiu62 AV:nwn_5uAJ:ln-5R:-44.98845:-29.131664:1370
+003:insert:NJP:njp_aZrjy-24pS9Yadq8Rm31K:njp_n2H:addp28alm:111.480255:-72.52627:123
+004:insert:GKC:gkc_7ngRMa:gkc_eaIApDjjo:MK-itgyBYCSGxh:-64.91229:66.76254:1965
+005:insert:ZVP:zvp_EzLOBDrsu7znHaNZNkmnmu1:zvp_Ti:-3TtDQPoZi:-83.72591:73.66693:1934
+006:insert:XGM:xgm_44sWmCiuA2GxuLCDVK:xgm_Q3z3v:1JpU0f:-140.90468:72.6996:14
+007:insert:LPM:lpm_f0N3cP3:lpm_BD0c4yBMR:wmYtYq:104.3515:-25.230896:1485
+008:insert:HJO:hjo_71B-rl5CN42Vs7O82O:hjo_nxJt:m7RsAO:-168.02348:37.018112:243
+009:insert:CSH:csh_ieqrSCO:csh_9mAyB:aqxOzlCJfs9:87.38797:77.07355:862
+010:insert:MCB:mcb_9ixu4kLBAx8I:mcb_F:T2PQU2E:15.986954:-8.909958:1886
+011:insert:JIX:jix_kYJDJ81nAEedcJC7hy6aY2naN:jix_aZO60:3ei7XNCCIlu3:-163.58621:89.53848:1406
+012:insert:UXH:uxh_a8Qdhwlsz aoce1XWxc9Yb:uxh_kMyU8v:nJ9MqW3U:145.2605:-87.778336:407
+013:insert:LJH:ljh_gLZtxbvsgSdiuuYgD:ljh_oZLzAfA:0AY5e:133.04791:-67.92566:1423
+014:insert:ZNC:znc_cYUo7L0OFerj7Fa7pANg9G:znc_Nes-:Ac Wt4X:-81.55821:87.4393:876
+015:insert:QWN:qwn_PVKri juue3:qwn_gkIz-LUi3V:52d0Q89Cdt:87.023315:24.911308:1224
+016:insert:BAR:bar_BOPLCaz:bar_IBfL6Ovg:AfEs0xHqLL1dL:-154.34195:-19.275452:1740
+017:insert:IIE:iie_bZnJM1Splx41lgG9qoHh82MzB:iie_3nEVTzFQCF:-DamXvtw:-79.09847:3.7761002:966
+018:insert:VHT:vht_hFyFrQAcnlpsbGO:vht_jQKD-8J:2PM 6-Y:122.40045:62.29944:1786
+019:insert:OGE:oge_axudIjbjj9o:oge_wcAwrPSn:Hz2CGjr9s6CZ:-170.52275:18.769264:1040
+020:insert:VRM:vrm_7LeI4jnMCa:vrm_1WArw6Xp8:FuxgGg0m:-153.5893:-17.398415:1004
+021:preorder
+022:insert:RNF:rnf_9Spv1b:rnf_k:Uve0mcznP4UoD4:37.16632:66.60826:1284
+023:insert:MQI:mqi_Sw1Jcfusi5bU9UqLc:mqi_5lxN9SeLEj:h2g-wQ:112.968994:-16.381798:1101
+024:insert:WQZ:wqz_Rnoeuy:wqz_3r qmm:NoiBT4AF1KeHN:-80.39705:27.222298:689
+025:insert:MTS:mts_JgyrnDeuqKTcT2gJ-glcBzH6:mts_k:FToqGTnZHQyN:144.56088:-31.46051:1544
+026:insert:ZPB:zpb_SRFzUzTCje:zpb_g:-zyCA :66.41252:-27.13741:1152
+027:preorder
+028:delete:MQI
+029:delete:DEL
+030:delete:HJO
+031:delete:OGE
+032:delete:FOC
+033:delete:ZVP
+034:find:BAR
+035:find:ZVP
+036:find:LPM
+037:find:ABC
+038:find:ZYX
+039:find-up:BAR
+040:find-up:ZVP
+041:find-up:LPM
+042:find-up:ABC
+043:find-up:ZYX
+044:find-down:BAR
+045:find-down:ZVP
+046:find-down:LPM
+047:find-down:ABC
+048:find-down:ZYX
+049:get-min
+050:get-max
+051:delete:IIE
+052:delete:NWN
+053:delete:MCB
+054:delete:RNF
+055:delete:WQZ
+056:delete:MTS
+057:delete:GKC
+058:delete:ZNC
+059:delete:XGM
+060:delete:LJH
+061:delete:QWN
+062:delete:LPM
+063:delete:BAR
+064:delete:CSH
+065:preorder
+066:delete:NJP
+067:delete:VRM
+068:delete:ZPB
+069:delete:JIX
+070:delete:UXH
+071:preorder
+072:clear
+073:insert:FOC:foc_bD1iMnvu9qlNS8nxfQ:foc_jvNRcH:RwOST2i:14.922989:-13.411667:612
+074:insert:NWN:nwn_4t IMXiu62 AV:nwn_5uAJ:ln-5R:-44.98845:-29.131664:1370
+075:insert:NJP:njp_aZrjy-24pS9Yadq8Rm31K:njp_n2H:addp28alm:111.480255:-72.52627:123
+076:get-min
+077:get-max
+078:preorder
+079:delete:NWN
+080:delete:NJP
+081:delete:FOC
+082:get-min
+083:get-max
+084:preorder

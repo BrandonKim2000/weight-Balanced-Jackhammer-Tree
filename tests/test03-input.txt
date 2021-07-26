@@ -1,0 +1,47 @@
+01:insert:BWI:Baltimore Washington International:Baltimore:USA:39:-76:1
+02:insert:ATL:The William B Hartsfield Atlanta International:Atlanta:USA:33:-84:1
+03:insert:DCA:Ronald Reagan Washington National:Washington:USA:38:-77:1
+04:insert:IAD:Washington Dulles International:Washington:USA:38:-77:1
+05:insert:LAX:Los Angeles International:Los Angeles:USA:33:-118:1
+06:preorder
+07:find:SFO
+08:insert:JFK:John F Kennedy International:New York:USA:40:-73:1
+09:preorder
+10:insert:ORD:Chicago OHare International:Chicago:USA:41:-87:1
+11:insert:SFO:San Francisco International:San Francisco:USA:37:-122:1
+12:preorder
+13:find:LAX
+14:find:JFK
+15:find:JJJ
+16:find:ATL
+17:find:SFO
+18:find:AAA
+19:find:ZZZ
+20:find:MMM
+21:find-down:BWI
+22:find-down:ATL
+23:find-down:SFO
+24:find-down:AAA
+25:find-down:ZZZ
+26:find-down:MMM
+27:find-up:IAD
+28:find-up:LAX
+29:find-up:SFO
+30:find-up:ATL
+31:find-up:AAA
+32:find-up:ZZZ
+33:find-up:MMM
+34:delete:LAX
+35:preorder
+36:find-up:LAX
+37:find-down:LAX
+38:get-min
+39:get-max
+40:delete:ATL
+41:preorder
+42:find:LAX
+43:find:SFO
+44:delete:SFO
+45:preorder
+46:find-down:LAX
+47:find-up:ORD

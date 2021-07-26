@@ -1,0 +1,3155 @@
+...Inserting FOC wt: 612.0
+...Tree after insertion and before rebalancing FOC
+...[FOC foc_jvNRcH] wt: 612.0
+...Tree after rebalancing FOC
+...[FOC foc_jvNRcH] wt: 612.0
+insert(FOC): successful {foc_bD1iMnvu9qlNS8nxfQ, foc_jvNRcH, RwOST2i, (14.922989,-13.411667)} wt: 612.0
+...Inserting NWN wt: 1370.0
+...Tree after insertion and before rebalancing NWN
+...| [FOC foc_jvNRcH] wt: 612.0
+...(NWN) wt: 1982.0 maxWt: 1370.0
+...| [NWN nwn_5uAJ] wt: 1370.0
+...Checking node NWN balance-ratio = 0.691221 max-ratio = 0.691221 is balanced
+...Tree after rebalancing NWN
+...| [FOC foc_jvNRcH] wt: 612.0
+...(NWN) wt: 1982.0 maxWt: 1370.0
+...| [NWN nwn_5uAJ] wt: 1370.0
+insert(NWN): successful {nwn_4t IMXiu62 AV, nwn_5uAJ, ln-5R, (-44.98845,-29.131664)} wt: 1370.0
+...Inserting NJP wt: 123.0
+...Tree after insertion and before rebalancing NJP
+...| | [FOC foc_jvNRcH] wt: 612.0
+...| (NJP) wt: 735.0 maxWt: 612.0
+...| | [NJP njp_n2H] wt: 123.0
+...(NWN) wt: 2105.0 maxWt: 1370.0
+...| [NWN nwn_5uAJ] wt: 1370.0
+...Checking node NWN balance-ratio = 0.65083134 max-ratio = 0.65083134 is balanced
+...Checking node NJP balance-ratio = 0.83265305 max-ratio = 0.83265305 is balanced
+...Tree after rebalancing NJP
+...| | [FOC foc_jvNRcH] wt: 612.0
+...| (NJP) wt: 735.0 maxWt: 612.0
+...| | [NJP njp_n2H] wt: 123.0
+...(NWN) wt: 2105.0 maxWt: 1370.0
+...| [NWN nwn_5uAJ] wt: 1370.0
+insert(NJP): successful {njp_aZrjy-24pS9Yadq8Rm31K, njp_n2H, addp28alm, (111.480255,-72.52627)} wt: 123.0
+...Inserting GKC wt: 1965.0
+...Tree after insertion and before rebalancing GKC
+...| | | [FOC foc_jvNRcH] wt: 612.0
+...| | (GKC) wt: 2577.0 maxWt: 1965.0
+...| | | [GKC gkc_eaIApDjjo] wt: 1965.0
+...| (NJP) wt: 2700.0 maxWt: 1965.0
+...| | [NJP njp_n2H] wt: 123.0
+...(NWN) wt: 4070.0 maxWt: 1965.0
+...| [NWN nwn_5uAJ] wt: 1370.0
+...Checking node NWN balance-ratio = 0.66339064 max-ratio = 0.482801 is balanced
+...Checking node NJP balance-ratio = 0.95444447 max-ratio = 0.7277778 is balanced
+...Checking node GKC balance-ratio = 0.76251453 max-ratio = 0.76251453 is balanced
+...Tree after rebalancing GKC
+...| | | [FOC foc_jvNRcH] wt: 612.0
+...| | (GKC) wt: 2577.0 maxWt: 1965.0
+...| | | [GKC gkc_eaIApDjjo] wt: 1965.0
+...| (NJP) wt: 2700.0 maxWt: 1965.0
+...| | [NJP njp_n2H] wt: 123.0
+...(NWN) wt: 4070.0 maxWt: 1965.0
+...| [NWN nwn_5uAJ] wt: 1370.0
+insert(GKC): successful {gkc_7ngRMa, gkc_eaIApDjjo, MK-itgyBYCSGxh, (-64.91229,66.76254)} wt: 1965.0
+...Inserting ZVP wt: 1934.0
+...Tree after insertion and before rebalancing ZVP
+...| | | [FOC foc_jvNRcH] wt: 612.0
+...| | (GKC) wt: 2577.0 maxWt: 1965.0
+...| | | [GKC gkc_eaIApDjjo] wt: 1965.0
+...| (NJP) wt: 2700.0 maxWt: 1965.0
+...| | [NJP njp_n2H] wt: 123.0
+...(NWN) wt: 6004.0 maxWt: 1965.0
+...| | [NWN nwn_5uAJ] wt: 1370.0
+...| (ZVP) wt: 3304.0 maxWt: 1934.0
+...| | [ZVP zvp_Ti] wt: 1934.0
+...Checking node NWN balance-ratio = 0.5502998 max-ratio = 0.3272818 is balanced
+...Checking node ZVP balance-ratio = 0.5853511 max-ratio = 0.5853511 is balanced
+...Tree after rebalancing ZVP
+...| | | [FOC foc_jvNRcH] wt: 612.0
+...| | (GKC) wt: 2577.0 maxWt: 1965.0
+...| | | [GKC gkc_eaIApDjjo] wt: 1965.0
+...| (NJP) wt: 2700.0 maxWt: 1965.0
+...| | [NJP njp_n2H] wt: 123.0
+...(NWN) wt: 6004.0 maxWt: 1965.0
+...| | [NWN nwn_5uAJ] wt: 1370.0
+...| (ZVP) wt: 3304.0 maxWt: 1934.0
+...| | [ZVP zvp_Ti] wt: 1934.0
+insert(ZVP): successful {zvp_EzLOBDrsu7znHaNZNkmnmu1, zvp_Ti, -3TtDQPoZi, (-83.72591,73.66693)} wt: 1934.0
+...Inserting XGM wt: 14.0
+...Tree after insertion and before rebalancing XGM
+...| | | [FOC foc_jvNRcH] wt: 612.0
+...| | (GKC) wt: 2577.0 maxWt: 1965.0
+...| | | [GKC gkc_eaIApDjjo] wt: 1965.0
+...| (NJP) wt: 2700.0 maxWt: 1965.0
+...| | [NJP njp_n2H] wt: 123.0
+...(NWN) wt: 6018.0 maxWt: 1965.0
+...| | | [NWN nwn_5uAJ] wt: 1370.0
+...| | (XGM) wt: 1384.0 maxWt: 1370.0
+...| | | [XGM xgm_Q3z3v] wt: 14.0
+...| (ZVP) wt: 3318.0 maxWt: 1934.0
+...| | [ZVP zvp_Ti] wt: 1934.0
+...Checking node NWN balance-ratio = 0.55134594 max-ratio = 0.32652044 is balanced
+...Checking node ZVP balance-ratio = 0.5828813 max-ratio = 0.5828813 is balanced
+...Checking node XGM balance-ratio = 0.9898844 max-ratio = 0.9898844 is balanced
+...Tree after rebalancing XGM
+...| | | [FOC foc_jvNRcH] wt: 612.0
+...| | (GKC) wt: 2577.0 maxWt: 1965.0
+...| | | [GKC gkc_eaIApDjjo] wt: 1965.0
+...| (NJP) wt: 2700.0 maxWt: 1965.0
+...| | [NJP njp_n2H] wt: 123.0
+...(NWN) wt: 6018.0 maxWt: 1965.0
+...| | | [NWN nwn_5uAJ] wt: 1370.0
+...| | (XGM) wt: 1384.0 maxWt: 1370.0
+...| | | [XGM xgm_Q3z3v] wt: 14.0
+...| (ZVP) wt: 3318.0 maxWt: 1934.0
+...| | [ZVP zvp_Ti] wt: 1934.0
+insert(XGM): successful {xgm_44sWmCiuA2GxuLCDVK, xgm_Q3z3v, 1JpU0f, (-140.90468,72.6996)} wt: 14.0
+...Inserting LPM wt: 1485.0
+...Tree after insertion and before rebalancing LPM
+...| | | [FOC foc_jvNRcH] wt: 612.0
+...| | (GKC) wt: 4062.0 maxWt: 1965.0
+...| | | | [GKC gkc_eaIApDjjo] wt: 1965.0
+...| | | (LPM) wt: 3450.0 maxWt: 1965.0
+...| | | | [LPM lpm_BD0c4yBMR] wt: 1485.0
+...| (NJP) wt: 4185.0 maxWt: 1965.0
+...| | [NJP njp_n2H] wt: 123.0
+...(NWN) wt: 7503.0 maxWt: 1965.0
+...| | | [NWN nwn_5uAJ] wt: 1370.0
+...| | (XGM) wt: 1384.0 maxWt: 1370.0
+...| | | [XGM xgm_Q3z3v] wt: 14.0
+...| (ZVP) wt: 3318.0 maxWt: 1934.0
+...| | [ZVP zvp_Ti] wt: 1934.0
+...Checking node NWN balance-ratio = 0.55777687 max-ratio = 0.26189524 is balanced
+...Checking node NJP balance-ratio = 0.9706093 max-ratio = 0.46953404 is balanced
+...Checking node GKC balance-ratio = 0.8493353 max-ratio = 0.48375183 is balanced
+...Checking node LPM balance-ratio = 0.56956524 max-ratio = 0.56956524 is balanced
+...Tree after rebalancing LPM
+...| | | [FOC foc_jvNRcH] wt: 612.0
+...| | (GKC) wt: 4062.0 maxWt: 1965.0
+...| | | | [GKC gkc_eaIApDjjo] wt: 1965.0
+...| | | (LPM) wt: 3450.0 maxWt: 1965.0
+...| | | | [LPM lpm_BD0c4yBMR] wt: 1485.0
+...| (NJP) wt: 4185.0 maxWt: 1965.0
+...| | [NJP njp_n2H] wt: 123.0
+...(NWN) wt: 7503.0 maxWt: 1965.0
+...| | | [NWN nwn_5uAJ] wt: 1370.0
+...| | (XGM) wt: 1384.0 maxWt: 1370.0
+...| | | [XGM xgm_Q3z3v] wt: 14.0
+...| (ZVP) wt: 3318.0 maxWt: 1934.0
+...| | [ZVP zvp_Ti] wt: 1934.0
+insert(LPM): successful {lpm_f0N3cP3, lpm_BD0c4yBMR, wmYtYq, (104.3515,-25.230896)} wt: 1485.0
+...Inserting HJO wt: 243.0
+...Tree after insertion and before rebalancing HJO
+...| | | [FOC foc_jvNRcH] wt: 612.0
+...| | (GKC) wt: 4305.0 maxWt: 1965.0
+...| | | | | [GKC gkc_eaIApDjjo] wt: 1965.0
+...| | | | (HJO) wt: 2208.0 maxWt: 1965.0
+...| | | | | [HJO hjo_nxJt] wt: 243.0
+...| | | (LPM) wt: 3693.0 maxWt: 1965.0
+...| | | | [LPM lpm_BD0c4yBMR] wt: 1485.0
+...| (NJP) wt: 4428.0 maxWt: 1965.0
+...| | [NJP njp_n2H] wt: 123.0
+...(NWN) wt: 7746.0 maxWt: 1965.0
+...| | | [NWN nwn_5uAJ] wt: 1370.0
+...| | (XGM) wt: 1384.0 maxWt: 1370.0
+...| | | [XGM xgm_Q3z3v] wt: 14.0
+...| (ZVP) wt: 3318.0 maxWt: 1934.0
+...| | [ZVP zvp_Ti] wt: 1934.0
+...Checking node NWN balance-ratio = 0.5716499 max-ratio = 0.2536793 is balanced
+...Checking node NJP balance-ratio = 0.9722222 max-ratio = 0.44376695 is balanced
+...Checking node GKC balance-ratio = 0.8578397 max-ratio = 0.456446 is balanced
+...Checking node LPM balance-ratio = 0.5978879 max-ratio = 0.53208774 is balanced
+...Checking node HJO balance-ratio = 0.8899456 max-ratio = 0.8899456 is balanced
+...Tree after rebalancing HJO
+...| | | [FOC foc_jvNRcH] wt: 612.0
+...| | (GKC) wt: 4305.0 maxWt: 1965.0
+...| | | | | [GKC gkc_eaIApDjjo] wt: 1965.0
+...| | | | (HJO) wt: 2208.0 maxWt: 1965.0
+...| | | | | [HJO hjo_nxJt] wt: 243.0
+...| | | (LPM) wt: 3693.0 maxWt: 1965.0
+...| | | | [LPM lpm_BD0c4yBMR] wt: 1485.0
+...| (NJP) wt: 4428.0 maxWt: 1965.0
+...| | [NJP njp_n2H] wt: 123.0
+...(NWN) wt: 7746.0 maxWt: 1965.0
+...| | | [NWN nwn_5uAJ] wt: 1370.0
+...| | (XGM) wt: 1384.0 maxWt: 1370.0
+...| | | [XGM xgm_Q3z3v] wt: 14.0
+...| (ZVP) wt: 3318.0 maxWt: 1934.0
+...| | [ZVP zvp_Ti] wt: 1934.0
+insert(HJO): successful {hjo_71B-rl5CN42Vs7O82O, hjo_nxJt, m7RsAO, (-168.02348,37.018112)} wt: 243.0
+...Inserting CSH wt: 862.0
+...Tree after insertion and before rebalancing CSH
+...| | | | [CSH csh_9mAyB] wt: 862.0
+...| | | (FOC) wt: 1474.0 maxWt: 862.0
+...| | | | [FOC foc_jvNRcH] wt: 612.0
+...| | (GKC) wt: 5167.0 maxWt: 1965.0
+...| | | | | [GKC gkc_eaIApDjjo] wt: 1965.0
+...| | | | (HJO) wt: 2208.0 maxWt: 1965.0
+...| | | | | [HJO hjo_nxJt] wt: 243.0
+...| | | (LPM) wt: 3693.0 maxWt: 1965.0
+...| | | | [LPM lpm_BD0c4yBMR] wt: 1485.0
+...| (NJP) wt: 5290.0 maxWt: 1965.0
+...| | [NJP njp_n2H] wt: 123.0
+...(NWN) wt: 8608.0 maxWt: 1965.0
+...| | | [NWN nwn_5uAJ] wt: 1370.0
+...| | (XGM) wt: 1384.0 maxWt: 1370.0
+...| | | [XGM xgm_Q3z3v] wt: 14.0
+...| (ZVP) wt: 3318.0 maxWt: 1934.0
+...| | [ZVP zvp_Ti] wt: 1934.0
+...Checking node NWN balance-ratio = 0.61454463 max-ratio = 0.22827603 is balanced
+...Checking node NJP balance-ratio = 0.9767486 max-ratio = 0.37145558 is balanced
+...Checking node GKC balance-ratio = 0.71472806 max-ratio = 0.38029805 is balanced
+...Checking node FOC balance-ratio = 0.5848033 max-ratio = 0.5848033 is balanced
+...Tree after rebalancing CSH
+...| | | | [CSH csh_9mAyB] wt: 862.0
+...| | | (FOC) wt: 1474.0 maxWt: 862.0
+...| | | | [FOC foc_jvNRcH] wt: 612.0
+...| | (GKC) wt: 5167.0 maxWt: 1965.0
+...| | | | | [GKC gkc_eaIApDjjo] wt: 1965.0
+...| | | | (HJO) wt: 2208.0 maxWt: 1965.0
+...| | | | | [HJO hjo_nxJt] wt: 243.0
+...| | | (LPM) wt: 3693.0 maxWt: 1965.0
+...| | | | [LPM lpm_BD0c4yBMR] wt: 1485.0
+...| (NJP) wt: 5290.0 maxWt: 1965.0
+...| | [NJP njp_n2H] wt: 123.0
+...(NWN) wt: 8608.0 maxWt: 1965.0
+...| | | [NWN nwn_5uAJ] wt: 1370.0
+...| | (XGM) wt: 1384.0 maxWt: 1370.0
+...| | | [XGM xgm_Q3z3v] wt: 14.0
+...| (ZVP) wt: 3318.0 maxWt: 1934.0
+...| | [ZVP zvp_Ti] wt: 1934.0
+insert(CSH): successful {csh_ieqrSCO, csh_9mAyB, aqxOzlCJfs9, (87.38797,77.07355)} wt: 862.0
+...Inserting MCB wt: 1886.0
+...Tree after insertion and before rebalancing MCB
+...| | | | [CSH csh_9mAyB] wt: 862.0
+...| | | (FOC) wt: 1474.0 maxWt: 862.0
+...| | | | [FOC foc_jvNRcH] wt: 612.0
+...| | (GKC) wt: 7053.0 maxWt: 1965.0
+...| | | | | [GKC gkc_eaIApDjjo] wt: 1965.0
+...| | | | (HJO) wt: 2208.0 maxWt: 1965.0
+...| | | | | [HJO hjo_nxJt] wt: 243.0
+...| | | (LPM) wt: 5579.0 maxWt: 1965.0
+...| | | | | [LPM lpm_BD0c4yBMR] wt: 1485.0
+...| | | | (MCB) wt: 3371.0 maxWt: 1886.0
+...| | | | | [MCB mcb_F] wt: 1886.0
+...| (NJP) wt: 7176.0 maxWt: 1965.0
+...| | [NJP njp_n2H] wt: 123.0
+...(NWN) wt: 10494.0 maxWt: 1965.0
+...| | | [NWN nwn_5uAJ] wt: 1370.0
+...| | (XGM) wt: 1384.0 maxWt: 1370.0
+...| | | [XGM xgm_Q3z3v] wt: 14.0
+...| (ZVP) wt: 3318.0 maxWt: 1934.0
+...| | [ZVP zvp_Ti] wt: 1934.0
+...Checking node NWN balance-ratio = 0.68381935 max-ratio = 0.18724985 !!! Fails balance conditions !!!
+...Rebuilding subtree at node NWN
+...Rebuilt subtree:
+...| | | | [CSH csh_9mAyB] wt: 862.0
+...| | | (FOC) wt: 1474.0 maxWt: 862.0
+...| | | | [FOC foc_jvNRcH] wt: 612.0
+...| | (GKC) wt: 3439.0 maxWt: 1965.0
+...| | | [GKC gkc_eaIApDjjo] wt: 1965.0
+...| (HJO) wt: 5167.0 maxWt: 1965.0
+...| | | [HJO hjo_nxJt] wt: 243.0
+...| | (LPM) wt: 1728.0 maxWt: 1485.0
+...| | | [LPM lpm_BD0c4yBMR] wt: 1485.0
+...(MCB) wt: 10494.0 maxWt: 1965.0
+...| | | [MCB mcb_F] wt: 1886.0
+...| | (NJP) wt: 2009.0 maxWt: 1886.0
+...| | | [NJP njp_n2H] wt: 123.0
+...| (NWN) wt: 5327.0 maxWt: 1934.0
+...| | | | [NWN nwn_5uAJ] wt: 1370.0
+...| | | (XGM) wt: 1384.0 maxWt: 1370.0
+...| | | | [XGM xgm_Q3z3v] wt: 14.0
+...| | (ZVP) wt: 3318.0 maxWt: 1934.0
+...| | | [ZVP zvp_Ti] wt: 1934.0
+...Tree after rebalancing MCB
+...| | | | [CSH csh_9mAyB] wt: 862.0
+...| | | (FOC) wt: 1474.0 maxWt: 862.0
+...| | | | [FOC foc_jvNRcH] wt: 612.0
+...| | (GKC) wt: 3439.0 maxWt: 1965.0
+...| | | [GKC gkc_eaIApDjjo] wt: 1965.0
+...| (HJO) wt: 5167.0 maxWt: 1965.0
+...| | | [HJO hjo_nxJt] wt: 243.0
+...| | (LPM) wt: 1728.0 maxWt: 1485.0
+...| | | [LPM lpm_BD0c4yBMR] wt: 1485.0
+...(MCB) wt: 10494.0 maxWt: 1965.0
+...| | | [MCB mcb_F] wt: 1886.0
+...| | (NJP) wt: 2009.0 maxWt: 1886.0
+...| | | [NJP njp_n2H] wt: 123.0
+...| (NWN) wt: 5327.0 maxWt: 1934.0
+...| | | | [NWN nwn_5uAJ] wt: 1370.0
+...| | | (XGM) wt: 1384.0 maxWt: 1370.0
+...| | | | [XGM xgm_Q3z3v] wt: 14.0
+...| | (ZVP) wt: 3318.0 maxWt: 1934.0
+...| | | [ZVP zvp_Ti] wt: 1934.0
+insert(MCB): successful {mcb_9ixu4kLBAx8I, mcb_F, T2PQU2E, (15.986954,-8.909958)} wt: 1886.0
+...Inserting JIX wt: 1406.0
+...Tree after insertion and before rebalancing JIX
+...| | | | [CSH csh_9mAyB] wt: 862.0
+...| | | (FOC) wt: 1474.0 maxWt: 862.0
+...| | | | [FOC foc_jvNRcH] wt: 612.0
+...| | (GKC) wt: 3439.0 maxWt: 1965.0
+...| | | [GKC gkc_eaIApDjjo] wt: 1965.0
+...| (HJO) wt: 6573.0 maxWt: 1965.0
+...| | | | [HJO hjo_nxJt] wt: 243.0
+...| | | (JIX) wt: 1649.0 maxWt: 1406.0
+...| | | | [JIX jix_aZO60] wt: 1406.0
+...| | (LPM) wt: 3134.0 maxWt: 1485.0
+...| | | [LPM lpm_BD0c4yBMR] wt: 1485.0
+...(MCB) wt: 11900.0 maxWt: 1965.0
+...| | | [MCB mcb_F] wt: 1886.0
+...| | (NJP) wt: 2009.0 maxWt: 1886.0
+...| | | [NJP njp_n2H] wt: 123.0
+...| (NWN) wt: 5327.0 maxWt: 1934.0
+...| | | | [NWN nwn_5uAJ] wt: 1370.0
+...| | | (XGM) wt: 1384.0 maxWt: 1370.0
+...| | | | [XGM xgm_Q3z3v] wt: 14.0
+...| | (ZVP) wt: 3318.0 maxWt: 1934.0
+...| | | [ZVP zvp_Ti] wt: 1934.0
+...Checking node MCB balance-ratio = 0.55235296 max-ratio = 0.16512606 is balanced
+...Checking node HJO balance-ratio = 0.523201 max-ratio = 0.29895025 is balanced
+...Checking node LPM balance-ratio = 0.52616465 max-ratio = 0.47383535 is balanced
+...Checking node JIX balance-ratio = 0.85263795 max-ratio = 0.85263795 is balanced
+...Tree after rebalancing JIX
+...| | | | [CSH csh_9mAyB] wt: 862.0
+...| | | (FOC) wt: 1474.0 maxWt: 862.0
+...| | | | [FOC foc_jvNRcH] wt: 612.0
+...| | (GKC) wt: 3439.0 maxWt: 1965.0
+...| | | [GKC gkc_eaIApDjjo] wt: 1965.0
+...| (HJO) wt: 6573.0 maxWt: 1965.0
+...| | | | [HJO hjo_nxJt] wt: 243.0
+...| | | (JIX) wt: 1649.0 maxWt: 1406.0
+...| | | | [JIX jix_aZO60] wt: 1406.0
+...| | (LPM) wt: 3134.0 maxWt: 1485.0
+...| | | [LPM lpm_BD0c4yBMR] wt: 1485.0
+...(MCB) wt: 11900.0 maxWt: 1965.0
+...| | | [MCB mcb_F] wt: 1886.0
+...| | (NJP) wt: 2009.0 maxWt: 1886.0
+...| | | [NJP njp_n2H] wt: 123.0
+...| (NWN) wt: 5327.0 maxWt: 1934.0
+...| | | | [NWN nwn_5uAJ] wt: 1370.0
+...| | | (XGM) wt: 1384.0 maxWt: 1370.0
+...| | | | [XGM xgm_Q3z3v] wt: 14.0
+...| | (ZVP) wt: 3318.0 maxWt: 1934.0
+...| | | [ZVP zvp_Ti] wt: 1934.0
+insert(JIX): successful {jix_kYJDJ81nAEedcJC7hy6aY2naN, jix_aZO60, 3ei7XNCCIlu3, (-163.58621,89.53848)} wt: 1406.0
+...Inserting UXH wt: 407.0
+...Tree after insertion and before rebalancing UXH
+...| | | | [CSH csh_9mAyB] wt: 862.0
+...| | | (FOC) wt: 1474.0 maxWt: 862.0
+...| | | | [FOC foc_jvNRcH] wt: 612.0
+...| | (GKC) wt: 3439.0 maxWt: 1965.0
+...| | | [GKC gkc_eaIApDjjo] wt: 1965.0
+...| (HJO) wt: 6573.0 maxWt: 1965.0
+...| | | | [HJO hjo_nxJt] wt: 243.0
+...| | | (JIX) wt: 1649.0 maxWt: 1406.0
+...| | | | [JIX jix_aZO60] wt: 1406.0
+...| | (LPM) wt: 3134.0 maxWt: 1485.0
+...| | | [LPM lpm_BD0c4yBMR] wt: 1485.0
+...(MCB) wt: 12307.0 maxWt: 1965.0
+...| | | [MCB mcb_F] wt: 1886.0
+...| | (NJP) wt: 2009.0 maxWt: 1886.0
+...| | | [NJP njp_n2H] wt: 123.0
+...| (NWN) wt: 5734.0 maxWt: 1934.0
+...| | | | | [NWN nwn_5uAJ] wt: 1370.0
+...| | | | (UXH) wt: 1777.0 maxWt: 1370.0
+...| | | | | [UXH uxh_kMyU8v] wt: 407.0
+...| | | (XGM) wt: 1791.0 maxWt: 1370.0
+...| | | | [XGM xgm_Q3z3v] wt: 14.0
+...| | (ZVP) wt: 3725.0 maxWt: 1934.0
+...| | | [ZVP zvp_Ti] wt: 1934.0
+...Checking node MCB balance-ratio = 0.5340863 max-ratio = 0.15966523 is balanced
+...Checking node NWN balance-ratio = 0.64963377 max-ratio = 0.33728635 is balanced
+...Checking node ZVP balance-ratio = 0.5191946 max-ratio = 0.5191946 is balanced
+...Checking node XGM balance-ratio = 0.99218315 max-ratio = 0.7649358 is balanced
+...Checking node UXH balance-ratio = 0.7709623 max-ratio = 0.7709623 is balanced
+...Tree after rebalancing UXH
+...| | | | [CSH csh_9mAyB] wt: 862.0
+...| | | (FOC) wt: 1474.0 maxWt: 862.0
+...| | | | [FOC foc_jvNRcH] wt: 612.0
+...| | (GKC) wt: 3439.0 maxWt: 1965.0
+...| | | [GKC gkc_eaIApDjjo] wt: 1965.0
+...| (HJO) wt: 6573.0 maxWt: 1965.0
+...| | | | [HJO hjo_nxJt] wt: 243.0
+...| | | (JIX) wt: 1649.0 maxWt: 1406.0
+...| | | | [JIX jix_aZO60] wt: 1406.0
+...| | (LPM) wt: 3134.0 maxWt: 1485.0
+...| | | [LPM lpm_BD0c4yBMR] wt: 1485.0
+...(MCB) wt: 12307.0 maxWt: 1965.0
+...| | | [MCB mcb_F] wt: 1886.0
+...| | (NJP) wt: 2009.0 maxWt: 1886.0
+...| | | [NJP njp_n2H] wt: 123.0
+...| (NWN) wt: 5734.0 maxWt: 1934.0
+...| | | | | [NWN nwn_5uAJ] wt: 1370.0
+...| | | | (UXH) wt: 1777.0 maxWt: 1370.0
+...| | | | | [UXH uxh_kMyU8v] wt: 407.0
+...| | | (XGM) wt: 1791.0 maxWt: 1370.0
+...| | | | [XGM xgm_Q3z3v] wt: 14.0
+...| | (ZVP) wt: 3725.0 maxWt: 1934.0
+...| | | [ZVP zvp_Ti] wt: 1934.0
+insert(UXH): successful {uxh_a8Qdhwlsz aoce1XWxc9Yb, uxh_kMyU8v, nJ9MqW3U, (145.2605,-87.778336)} wt: 407.0
+...Inserting LJH wt: 1423.0
+...Tree after insertion and before rebalancing LJH
+...| | | | [CSH csh_9mAyB] wt: 862.0
+...| | | (FOC) wt: 1474.0 maxWt: 862.0
+...| | | | [FOC foc_jvNRcH] wt: 612.0
+...| | (GKC) wt: 3439.0 maxWt: 1965.0
+...| | | [GKC gkc_eaIApDjjo] wt: 1965.0
+...| (HJO) wt: 7996.0 maxWt: 1965.0
+...| | | | [HJO hjo_nxJt] wt: 243.0
+...| | | (JIX) wt: 3072.0 maxWt: 1423.0
+...| | | | | [JIX jix_aZO60] wt: 1406.0
+...| | | | (LJH) wt: 2829.0 maxWt: 1423.0
+...| | | | | [LJH ljh_oZLzAfA] wt: 1423.0
+...| | (LPM) wt: 4557.0 maxWt: 1485.0
+...| | | [LPM lpm_BD0c4yBMR] wt: 1485.0
+...(MCB) wt: 13730.0 maxWt: 1965.0
+...| | | [MCB mcb_F] wt: 1886.0
+...| | (NJP) wt: 2009.0 maxWt: 1886.0
+...| | | [NJP njp_n2H] wt: 123.0
+...| (NWN) wt: 5734.0 maxWt: 1934.0
+...| | | | | [NWN nwn_5uAJ] wt: 1370.0
+...| | | | (UXH) wt: 1777.0 maxWt: 1370.0
+...| | | | | [UXH uxh_kMyU8v] wt: 407.0
+...| | | (XGM) wt: 1791.0 maxWt: 1370.0
+...| | | | [XGM xgm_Q3z3v] wt: 14.0
+...| | (ZVP) wt: 3725.0 maxWt: 1934.0
+...| | | [ZVP zvp_Ti] wt: 1934.0
+...Checking node MCB balance-ratio = 0.58237433 max-ratio = 0.14311726 is balanced
+...Checking node HJO balance-ratio = 0.56990993 max-ratio = 0.24574788 is balanced
+...Checking node LPM balance-ratio = 0.6741277 max-ratio = 0.32587227 is balanced
+...Checking node JIX balance-ratio = 0.92089844 max-ratio = 0.46321616 is balanced
+...Checking node LJH balance-ratio = 0.5030046 max-ratio = 0.5030046 is balanced
+...Tree after rebalancing LJH
+...| | | | [CSH csh_9mAyB] wt: 862.0
+...| | | (FOC) wt: 1474.0 maxWt: 862.0
+...| | | | [FOC foc_jvNRcH] wt: 612.0
+...| | (GKC) wt: 3439.0 maxWt: 1965.0
+...| | | [GKC gkc_eaIApDjjo] wt: 1965.0
+...| (HJO) wt: 7996.0 maxWt: 1965.0
+...| | | | [HJO hjo_nxJt] wt: 243.0
+...| | | (JIX) wt: 3072.0 maxWt: 1423.0
+...| | | | | [JIX jix_aZO60] wt: 1406.0
+...| | | | (LJH) wt: 2829.0 maxWt: 1423.0
+...| | | | | [LJH ljh_oZLzAfA] wt: 1423.0
+...| | (LPM) wt: 4557.0 maxWt: 1485.0
+...| | | [LPM lpm_BD0c4yBMR] wt: 1485.0
+...(MCB) wt: 13730.0 maxWt: 1965.0
+...| | | [MCB mcb_F] wt: 1886.0
+...| | (NJP) wt: 2009.0 maxWt: 1886.0
+...| | | [NJP njp_n2H] wt: 123.0
+...| (NWN) wt: 5734.0 maxWt: 1934.0
+...| | | | | [NWN nwn_5uAJ] wt: 1370.0
+...| | | | (UXH) wt: 1777.0 maxWt: 1370.0
+...| | | | | [UXH uxh_kMyU8v] wt: 407.0
+...| | | (XGM) wt: 1791.0 maxWt: 1370.0
+...| | | | [XGM xgm_Q3z3v] wt: 14.0
+...| | (ZVP) wt: 3725.0 maxWt: 1934.0
+...| | | [ZVP zvp_Ti] wt: 1934.0
+insert(LJH): successful {ljh_gLZtxbvsgSdiuuYgD, ljh_oZLzAfA, 0AY5e, (133.04791,-67.92566)} wt: 1423.0
+...Inserting ZNC wt: 876.0
+...Tree after insertion and before rebalancing ZNC
+...| | | | [CSH csh_9mAyB] wt: 862.0
+...| | | (FOC) wt: 1474.0 maxWt: 862.0
+...| | | | [FOC foc_jvNRcH] wt: 612.0
+...| | (GKC) wt: 3439.0 maxWt: 1965.0
+...| | | [GKC gkc_eaIApDjjo] wt: 1965.0
+...| (HJO) wt: 7996.0 maxWt: 1965.0
+...| | | | [HJO hjo_nxJt] wt: 243.0
+...| | | (JIX) wt: 3072.0 maxWt: 1423.0
+...| | | | | [JIX jix_aZO60] wt: 1406.0
+...| | | | (LJH) wt: 2829.0 maxWt: 1423.0
+...| | | | | [LJH ljh_oZLzAfA] wt: 1423.0
+...| | (LPM) wt: 4557.0 maxWt: 1485.0
+...| | | [LPM lpm_BD0c4yBMR] wt: 1485.0
+...(MCB) wt: 14606.0 maxWt: 1965.0
+...| | | [MCB mcb_F] wt: 1886.0
+...| | (NJP) wt: 2009.0 maxWt: 1886.0
+...| | | [NJP njp_n2H] wt: 123.0
+...| (NWN) wt: 6610.0 maxWt: 1934.0
+...| | | | | [NWN nwn_5uAJ] wt: 1370.0
+...| | | | (UXH) wt: 1777.0 maxWt: 1370.0
+...| | | | | [UXH uxh_kMyU8v] wt: 407.0
+...| | | (XGM) wt: 2667.0 maxWt: 1370.0
+...| | | | | [XGM xgm_Q3z3v] wt: 14.0
+...| | | | (ZNC) wt: 890.0 maxWt: 876.0
+...| | | | | [ZNC znc_Nes-] wt: 876.0
+...| | (ZVP) wt: 4601.0 maxWt: 1934.0
+...| | | [ZVP zvp_Ti] wt: 1934.0
+...Checking node MCB balance-ratio = 0.54744625 max-ratio = 0.13453375 is balanced
+...Checking node NWN balance-ratio = 0.69606656 max-ratio = 0.29258698 is balanced
+...Checking node ZVP balance-ratio = 0.5796566 max-ratio = 0.4203434 is balanced
+...Checking node XGM balance-ratio = 0.6662917 max-ratio = 0.51368576 is balanced
+...Checking node ZNC balance-ratio = 0.9842697 max-ratio = 0.9842697 is balanced
+...Tree after rebalancing ZNC
+...| | | | [CSH csh_9mAyB] wt: 862.0
+...| | | (FOC) wt: 1474.0 maxWt: 862.0
+...| | | | [FOC foc_jvNRcH] wt: 612.0
+...| | (GKC) wt: 3439.0 maxWt: 1965.0
+...| | | [GKC gkc_eaIApDjjo] wt: 1965.0
+...| (HJO) wt: 7996.0 maxWt: 1965.0
+...| | | | [HJO hjo_nxJt] wt: 243.0
+...| | | (JIX) wt: 3072.0 maxWt: 1423.0
+...| | | | | [JIX jix_aZO60] wt: 1406.0
+...| | | | (LJH) wt: 2829.0 maxWt: 1423.0
+...| | | | | [LJH ljh_oZLzAfA] wt: 1423.0
+...| | (LPM) wt: 4557.0 maxWt: 1485.0
+...| | | [LPM lpm_BD0c4yBMR] wt: 1485.0
+...(MCB) wt: 14606.0 maxWt: 1965.0
+...| | | [MCB mcb_F] wt: 1886.0
+...| | (NJP) wt: 2009.0 maxWt: 1886.0
+...| | | [NJP njp_n2H] wt: 123.0
+...| (NWN) wt: 6610.0 maxWt: 1934.0
+...| | | | | [NWN nwn_5uAJ] wt: 1370.0
+...| | | | (UXH) wt: 1777.0 maxWt: 1370.0
+...| | | | | [UXH uxh_kMyU8v] wt: 407.0
+...| | | (XGM) wt: 2667.0 maxWt: 1370.0
+...| | | | | [XGM xgm_Q3z3v] wt: 14.0
+...| | | | (ZNC) wt: 890.0 maxWt: 876.0
+...| | | | | [ZNC znc_Nes-] wt: 876.0
+...| | (ZVP) wt: 4601.0 maxWt: 1934.0
+...| | | [ZVP zvp_Ti] wt: 1934.0
+insert(ZNC): successful {znc_cYUo7L0OFerj7Fa7pANg9G, znc_Nes-, Ac Wt4X, (-81.55821,87.4393)} wt: 876.0
+...Inserting QWN wt: 1224.0
+...Tree after insertion and before rebalancing QWN
+...| | | | [CSH csh_9mAyB] wt: 862.0
+...| | | (FOC) wt: 1474.0 maxWt: 862.0
+...| | | | [FOC foc_jvNRcH] wt: 612.0
+...| | (GKC) wt: 3439.0 maxWt: 1965.0
+...| | | [GKC gkc_eaIApDjjo] wt: 1965.0
+...| (HJO) wt: 7996.0 maxWt: 1965.0
+...| | | | [HJO hjo_nxJt] wt: 243.0
+...| | | (JIX) wt: 3072.0 maxWt: 1423.0
+...| | | | | [JIX jix_aZO60] wt: 1406.0
+...| | | | (LJH) wt: 2829.0 maxWt: 1423.0
+...| | | | | [LJH ljh_oZLzAfA] wt: 1423.0
+...| | (LPM) wt: 4557.0 maxWt: 1485.0
+...| | | [LPM lpm_BD0c4yBMR] wt: 1485.0
+...(MCB) wt: 15830.0 maxWt: 1965.0
+...| | | [MCB mcb_F] wt: 1886.0
+...| | (NJP) wt: 2009.0 maxWt: 1886.0
+...| | | [NJP njp_n2H] wt: 123.0
+...| (NWN) wt: 7834.0 maxWt: 1934.0
+...| | | | | | [NWN nwn_5uAJ] wt: 1370.0
+...| | | | | (QWN) wt: 2594.0 maxWt: 1370.0
+...| | | | | | [QWN qwn_gkIz-LUi3V] wt: 1224.0
+...| | | | (UXH) wt: 3001.0 maxWt: 1370.0
+...| | | | | [UXH uxh_kMyU8v] wt: 407.0
+...| | | (XGM) wt: 3891.0 maxWt: 1370.0
+...| | | | | [XGM xgm_Q3z3v] wt: 14.0
+...| | | | (ZNC) wt: 890.0 maxWt: 876.0
+...| | | | | [ZNC znc_Nes-] wt: 876.0
+...| | (ZVP) wt: 5825.0 maxWt: 1934.0
+...| | | [ZVP zvp_Ti] wt: 1934.0
+...Checking node MCB balance-ratio = 0.5051169 max-ratio = 0.1241314 is balanced
+...Checking node NWN balance-ratio = 0.74355376 max-ratio = 0.2468726 !!! Fails balance conditions !!!
+...Rebuilding subtree at node NWN
+...Rebuilt subtree:
+...| | [MCB mcb_F] wt: 1886.0
+...| (NJP) wt: 3379.0 maxWt: 1886.0
+...| | | [NJP njp_n2H] wt: 123.0
+...| | (NWN) wt: 1493.0 maxWt: 1370.0
+...| | | [NWN nwn_5uAJ] wt: 1370.0
+...(QWN) wt: 7834.0 maxWt: 1934.0
+...| | | [QWN qwn_gkIz-LUi3V] wt: 1224.0
+...| | (UXH) wt: 2521.0 maxWt: 1224.0
+...| | | | | [UXH uxh_kMyU8v] wt: 407.0
+...| | | | (XGM) wt: 421.0 maxWt: 407.0
+...| | | | | [XGM xgm_Q3z3v] wt: 14.0
+...| | | (ZNC) wt: 1297.0 maxWt: 876.0
+...| | | | [ZNC znc_Nes-] wt: 876.0
+...| (ZVP) wt: 4455.0 maxWt: 1934.0
+...| | [ZVP zvp_Ti] wt: 1934.0
+...Tree after rebalancing QWN
+...| | | | [CSH csh_9mAyB] wt: 862.0
+...| | | (FOC) wt: 1474.0 maxWt: 862.0
+...| | | | [FOC foc_jvNRcH] wt: 612.0
+...| | (GKC) wt: 3439.0 maxWt: 1965.0
+...| | | [GKC gkc_eaIApDjjo] wt: 1965.0
+...| (HJO) wt: 7996.0 maxWt: 1965.0
+...| | | | [HJO hjo_nxJt] wt: 243.0
+...| | | (JIX) wt: 3072.0 maxWt: 1423.0
+...| | | | | [JIX jix_aZO60] wt: 1406.0
+...| | | | (LJH) wt: 2829.0 maxWt: 1423.0
+...| | | | | [LJH ljh_oZLzAfA] wt: 1423.0
+...| | (LPM) wt: 4557.0 maxWt: 1485.0
+...| | | [LPM lpm_BD0c4yBMR] wt: 1485.0
+...(MCB) wt: 15830.0 maxWt: 1965.0
+...| | | [MCB mcb_F] wt: 1886.0
+...| | (NJP) wt: 3379.0 maxWt: 1886.0
+...| | | | [NJP njp_n2H] wt: 123.0
+...| | | (NWN) wt: 1493.0 maxWt: 1370.0
+...| | | | [NWN nwn_5uAJ] wt: 1370.0
+...| (QWN) wt: 7834.0 maxWt: 1934.0
+...| | | | [QWN qwn_gkIz-LUi3V] wt: 1224.0
+...| | | (UXH) wt: 2521.0 maxWt: 1224.0
+...| | | | | | [UXH uxh_kMyU8v] wt: 407.0
+...| | | | | (XGM) wt: 421.0 maxWt: 407.0
+...| | | | | | [XGM xgm_Q3z3v] wt: 14.0
+...| | | | (ZNC) wt: 1297.0 maxWt: 876.0
+...| | | | | [ZNC znc_Nes-] wt: 876.0
+...| | (ZVP) wt: 4455.0 maxWt: 1934.0
+...| | | [ZVP zvp_Ti] wt: 1934.0
+insert(QWN): successful {qwn_PVKri juue3, qwn_gkIz-LUi3V, 52d0Q89Cdt, (87.023315,24.911308)} wt: 1224.0
+...Inserting BAR wt: 1740.0
+...Tree after insertion and before rebalancing BAR
+...| | | | | [BAR bar_IBfL6Ovg] wt: 1740.0
+...| | | | (CSH) wt: 2602.0 maxWt: 1740.0
+...| | | | | [CSH csh_9mAyB] wt: 862.0
+...| | | (FOC) wt: 3214.0 maxWt: 1740.0
+...| | | | [FOC foc_jvNRcH] wt: 612.0
+...| | (GKC) wt: 5179.0 maxWt: 1965.0
+...| | | [GKC gkc_eaIApDjjo] wt: 1965.0
+...| (HJO) wt: 9736.0 maxWt: 1965.0
+...| | | | [HJO hjo_nxJt] wt: 243.0
+...| | | (JIX) wt: 3072.0 maxWt: 1423.0
+...| | | | | [JIX jix_aZO60] wt: 1406.0
+...| | | | (LJH) wt: 2829.0 maxWt: 1423.0
+...| | | | | [LJH ljh_oZLzAfA] wt: 1423.0
+...| | (LPM) wt: 4557.0 maxWt: 1485.0
+...| | | [LPM lpm_BD0c4yBMR] wt: 1485.0
+...(MCB) wt: 17570.0 maxWt: 1965.0
+...| | | [MCB mcb_F] wt: 1886.0
+...| | (NJP) wt: 3379.0 maxWt: 1886.0
+...| | | | [NJP njp_n2H] wt: 123.0
+...| | | (NWN) wt: 1493.0 maxWt: 1370.0
+...| | | | [NWN nwn_5uAJ] wt: 1370.0
+...| (QWN) wt: 7834.0 maxWt: 1934.0
+...| | | | [QWN qwn_gkIz-LUi3V] wt: 1224.0
+...| | | (UXH) wt: 2521.0 maxWt: 1224.0
+...| | | | | | [UXH uxh_kMyU8v] wt: 407.0
+...| | | | | (XGM) wt: 421.0 maxWt: 407.0
+...| | | | | | [XGM xgm_Q3z3v] wt: 14.0
+...| | | | (ZNC) wt: 1297.0 maxWt: 876.0
+...| | | | | [ZNC znc_Nes-] wt: 876.0
+...| | (ZVP) wt: 4455.0 maxWt: 1934.0
+...| | | [ZVP zvp_Ti] wt: 1934.0
+...Checking node MCB balance-ratio = 0.5541263 max-ratio = 0.11183836 is balanced
+...Checking node HJO balance-ratio = 0.5319433 max-ratio = 0.20182827 is balanced
+...Checking node GKC balance-ratio = 0.6205831 max-ratio = 0.37941688 is balanced
+...Checking node FOC balance-ratio = 0.80958307 max-ratio = 0.5413815 is balanced
+...Checking node CSH balance-ratio = 0.6687164 max-ratio = 0.6687164 is balanced
+...Tree after rebalancing BAR
+...| | | | | [BAR bar_IBfL6Ovg] wt: 1740.0
+...| | | | (CSH) wt: 2602.0 maxWt: 1740.0
+...| | | | | [CSH csh_9mAyB] wt: 862.0
+...| | | (FOC) wt: 3214.0 maxWt: 1740.0
+...| | | | [FOC foc_jvNRcH] wt: 612.0
+...| | (GKC) wt: 5179.0 maxWt: 1965.0
+...| | | [GKC gkc_eaIApDjjo] wt: 1965.0
+...| (HJO) wt: 9736.0 maxWt: 1965.0
+...| | | | [HJO hjo_nxJt] wt: 243.0
+...| | | (JIX) wt: 3072.0 maxWt: 1423.0
+...| | | | | [JIX jix_aZO60] wt: 1406.0
+...| | | | (LJH) wt: 2829.0 maxWt: 1423.0
+...| | | | | [LJH ljh_oZLzAfA] wt: 1423.0
+...| | (LPM) wt: 4557.0 maxWt: 1485.0
+...| | | [LPM lpm_BD0c4yBMR] wt: 1485.0
+...(MCB) wt: 17570.0 maxWt: 1965.0
+...| | | [MCB mcb_F] wt: 1886.0
+...| | (NJP) wt: 3379.0 maxWt: 1886.0
+...| | | | [NJP njp_n2H] wt: 123.0
+...| | | (NWN) wt: 1493.0 maxWt: 1370.0
+...| | | | [NWN nwn_5uAJ] wt: 1370.0
+...| (QWN) wt: 7834.0 maxWt: 1934.0
+...| | | | [QWN qwn_gkIz-LUi3V] wt: 1224.0
+...| | | (UXH) wt: 2521.0 maxWt: 1224.0
+...| | | | | | [UXH uxh_kMyU8v] wt: 407.0
+...| | | | | (XGM) wt: 421.0 maxWt: 407.0
+...| | | | | | [XGM xgm_Q3z3v] wt: 14.0
+...| | | | (ZNC) wt: 1297.0 maxWt: 876.0
+...| | | | | [ZNC znc_Nes-] wt: 876.0
+...| | (ZVP) wt: 4455.0 maxWt: 1934.0
+...| | | [ZVP zvp_Ti] wt: 1934.0
+insert(BAR): successful {bar_BOPLCaz, bar_IBfL6Ovg, AfEs0xHqLL1dL, (-154.34195,-19.275452)} wt: 1740.0
+...Inserting IIE wt: 966.0
+...Tree after insertion and before rebalancing IIE
+...| | | | | [BAR bar_IBfL6Ovg] wt: 1740.0
+...| | | | (CSH) wt: 2602.0 maxWt: 1740.0
+...| | | | | [CSH csh_9mAyB] wt: 862.0
+...| | | (FOC) wt: 3214.0 maxWt: 1740.0
+...| | | | [FOC foc_jvNRcH] wt: 612.0
+...| | (GKC) wt: 5179.0 maxWt: 1965.0
+...| | | [GKC gkc_eaIApDjjo] wt: 1965.0
+...| (HJO) wt: 10702.0 maxWt: 1965.0
+...| | | | | [HJO hjo_nxJt] wt: 243.0
+...| | | | (IIE) wt: 1209.0 maxWt: 966.0
+...| | | | | [IIE iie_3nEVTzFQCF] wt: 966.0
+...| | | (JIX) wt: 4038.0 maxWt: 1423.0
+...| | | | | [JIX jix_aZO60] wt: 1406.0
+...| | | | (LJH) wt: 2829.0 maxWt: 1423.0
+...| | | | | [LJH ljh_oZLzAfA] wt: 1423.0
+...| | (LPM) wt: 5523.0 maxWt: 1485.0
+...| | | [LPM lpm_BD0c4yBMR] wt: 1485.0
+...(MCB) wt: 18536.0 maxWt: 1965.0
+...| | | [MCB mcb_F] wt: 1886.0
+...| | (NJP) wt: 3379.0 maxWt: 1886.0
+...| | | | [NJP njp_n2H] wt: 123.0
+...| | | (NWN) wt: 1493.0 maxWt: 1370.0
+...| | | | [NWN nwn_5uAJ] wt: 1370.0
+...| (QWN) wt: 7834.0 maxWt: 1934.0
+...| | | | [QWN qwn_gkIz-LUi3V] wt: 1224.0
+...| | | (UXH) wt: 2521.0 maxWt: 1224.0
+...| | | | | | [UXH uxh_kMyU8v] wt: 407.0
+...| | | | | (XGM) wt: 421.0 maxWt: 407.0
+...| | | | | | [XGM xgm_Q3z3v] wt: 14.0
+...| | | | (ZNC) wt: 1297.0 maxWt: 876.0
+...| | | | | [ZNC znc_Nes-] wt: 876.0
+...| | (ZVP) wt: 4455.0 maxWt: 1934.0
+...| | | [ZVP zvp_Ti] wt: 1934.0
+...Checking node MCB balance-ratio = 0.57736295 max-ratio = 0.10600992 is balanced
+...Checking node HJO balance-ratio = 0.51607174 max-ratio = 0.18361054 is balanced
+...Checking node LPM balance-ratio = 0.7311244 max-ratio = 0.2688756 is balanced
+...Checking node JIX balance-ratio = 0.70059437 max-ratio = 0.35240218 is balanced
+...Checking node IIE balance-ratio = 0.7990074 max-ratio = 0.7990074 is balanced
+...Tree after rebalancing IIE
+...| | | | | [BAR bar_IBfL6Ovg] wt: 1740.0
+...| | | | (CSH) wt: 2602.0 maxWt: 1740.0
+...| | | | | [CSH csh_9mAyB] wt: 862.0
+...| | | (FOC) wt: 3214.0 maxWt: 1740.0
+...| | | | [FOC foc_jvNRcH] wt: 612.0
+...| | (GKC) wt: 5179.0 maxWt: 1965.0
+...| | | [GKC gkc_eaIApDjjo] wt: 1965.0
+...| (HJO) wt: 10702.0 maxWt: 1965.0
+...| | | | | [HJO hjo_nxJt] wt: 243.0
+...| | | | (IIE) wt: 1209.0 maxWt: 966.0
+...| | | | | [IIE iie_3nEVTzFQCF] wt: 966.0
+...| | | (JIX) wt: 4038.0 maxWt: 1423.0
+...| | | | | [JIX jix_aZO60] wt: 1406.0
+...| | | | (LJH) wt: 2829.0 maxWt: 1423.0
+...| | | | | [LJH ljh_oZLzAfA] wt: 1423.0
+...| | (LPM) wt: 5523.0 maxWt: 1485.0
+...| | | [LPM lpm_BD0c4yBMR] wt: 1485.0
+...(MCB) wt: 18536.0 maxWt: 1965.0
+...| | | [MCB mcb_F] wt: 1886.0
+...| | (NJP) wt: 3379.0 maxWt: 1886.0
+...| | | | [NJP njp_n2H] wt: 123.0
+...| | | (NWN) wt: 1493.0 maxWt: 1370.0
+...| | | | [NWN nwn_5uAJ] wt: 1370.0
+...| (QWN) wt: 7834.0 maxWt: 1934.0
+...| | | | [QWN qwn_gkIz-LUi3V] wt: 1224.0
+...| | | (UXH) wt: 2521.0 maxWt: 1224.0
+...| | | | | | [UXH uxh_kMyU8v] wt: 407.0
+...| | | | | (XGM) wt: 421.0 maxWt: 407.0
+...| | | | | | [XGM xgm_Q3z3v] wt: 14.0
+...| | | | (ZNC) wt: 1297.0 maxWt: 876.0
+...| | | | | [ZNC znc_Nes-] wt: 876.0
+...| | (ZVP) wt: 4455.0 maxWt: 1934.0
+...| | | [ZVP zvp_Ti] wt: 1934.0
+insert(IIE): successful {iie_bZnJM1Splx41lgG9qoHh82MzB, iie_3nEVTzFQCF, -DamXvtw, (-79.09847,3.7761002)} wt: 966.0
+...Inserting VHT wt: 1786.0
+...Tree after insertion and before rebalancing VHT
+...| | | | | [BAR bar_IBfL6Ovg] wt: 1740.0
+...| | | | (CSH) wt: 2602.0 maxWt: 1740.0
+...| | | | | [CSH csh_9mAyB] wt: 862.0
+...| | | (FOC) wt: 3214.0 maxWt: 1740.0
+...| | | | [FOC foc_jvNRcH] wt: 612.0
+...| | (GKC) wt: 5179.0 maxWt: 1965.0
+...| | | [GKC gkc_eaIApDjjo] wt: 1965.0
+...| (HJO) wt: 10702.0 maxWt: 1965.0
+...| | | | | [HJO hjo_nxJt] wt: 243.0
+...| | | | (IIE) wt: 1209.0 maxWt: 966.0
+...| | | | | [IIE iie_3nEVTzFQCF] wt: 966.0
+...| | | (JIX) wt: 4038.0 maxWt: 1423.0
+...| | | | | [JIX jix_aZO60] wt: 1406.0
+...| | | | (LJH) wt: 2829.0 maxWt: 1423.0
+...| | | | | [LJH ljh_oZLzAfA] wt: 1423.0
+...| | (LPM) wt: 5523.0 maxWt: 1485.0
+...| | | [LPM lpm_BD0c4yBMR] wt: 1485.0
+...(MCB) wt: 20322.0 maxWt: 1965.0
+...| | | [MCB mcb_F] wt: 1886.0
+...| | (NJP) wt: 3379.0 maxWt: 1886.0
+...| | | | [NJP njp_n2H] wt: 123.0
+...| | | (NWN) wt: 1493.0 maxWt: 1370.0
+...| | | | [NWN nwn_5uAJ] wt: 1370.0
+...| (QWN) wt: 9620.0 maxWt: 1934.0
+...| | | | [QWN qwn_gkIz-LUi3V] wt: 1224.0
+...| | | (UXH) wt: 4307.0 maxWt: 1786.0
+...| | | | | | | [UXH uxh_kMyU8v] wt: 407.0
+...| | | | | | (VHT) wt: 2193.0 maxWt: 1786.0
+...| | | | | | | [VHT vht_jQKD-8J] wt: 1786.0
+...| | | | | (XGM) wt: 2207.0 maxWt: 1786.0
+...| | | | | | [XGM xgm_Q3z3v] wt: 14.0
+...| | | | (ZNC) wt: 3083.0 maxWt: 1786.0
+...| | | | | [ZNC znc_Nes-] wt: 876.0
+...| | (ZVP) wt: 6241.0 maxWt: 1934.0
+...| | | [ZVP zvp_Ti] wt: 1934.0
+...Checking node MCB balance-ratio = 0.5266214 max-ratio = 0.09669324 is balanced
+...Checking node QWN balance-ratio = 0.64875257 max-ratio = 0.20103951 is balanced
+...Checking node ZVP balance-ratio = 0.6901138 max-ratio = 0.30988625 is balanced
+...Checking node UXH balance-ratio = 0.7158115 max-ratio = 0.41467378 is balanced
+...Checking node ZNC balance-ratio = 0.7158612 max-ratio = 0.5793059 is balanced
+...Checking node XGM balance-ratio = 0.9936566 max-ratio = 0.8092433 is balanced
+...Checking node VHT balance-ratio = 0.8144095 max-ratio = 0.8144095 is balanced
+...Tree after rebalancing VHT
+...| | | | | [BAR bar_IBfL6Ovg] wt: 1740.0
+...| | | | (CSH) wt: 2602.0 maxWt: 1740.0
+...| | | | | [CSH csh_9mAyB] wt: 862.0
+...| | | (FOC) wt: 3214.0 maxWt: 1740.0
+...| | | | [FOC foc_jvNRcH] wt: 612.0
+...| | (GKC) wt: 5179.0 maxWt: 1965.0
+...| | | [GKC gkc_eaIApDjjo] wt: 1965.0
+...| (HJO) wt: 10702.0 maxWt: 1965.0
+...| | | | | [HJO hjo_nxJt] wt: 243.0
+...| | | | (IIE) wt: 1209.0 maxWt: 966.0
+...| | | | | [IIE iie_3nEVTzFQCF] wt: 966.0
+...| | | (JIX) wt: 4038.0 maxWt: 1423.0
+...| | | | | [JIX jix_aZO60] wt: 1406.0
+...| | | | (LJH) wt: 2829.0 maxWt: 1423.0
+...| | | | | [LJH ljh_oZLzAfA] wt: 1423.0
+...| | (LPM) wt: 5523.0 maxWt: 1485.0
+...| | | [LPM lpm_BD0c4yBMR] wt: 1485.0
+...(MCB) wt: 20322.0 maxWt: 1965.0
+...| | | [MCB mcb_F] wt: 1886.0
+...| | (NJP) wt: 3379.0 maxWt: 1886.0
+...| | | | [NJP njp_n2H] wt: 123.0
+...| | | (NWN) wt: 1493.0 maxWt: 1370.0
+...| | | | [NWN nwn_5uAJ] wt: 1370.0
+...| (QWN) wt: 9620.0 maxWt: 1934.0
+...| | | | [QWN qwn_gkIz-LUi3V] wt: 1224.0
+...| | | (UXH) wt: 4307.0 maxWt: 1786.0
+...| | | | | | | [UXH uxh_kMyU8v] wt: 407.0
+...| | | | | | (VHT) wt: 2193.0 maxWt: 1786.0
+...| | | | | | | [VHT vht_jQKD-8J] wt: 1786.0
+...| | | | | (XGM) wt: 2207.0 maxWt: 1786.0
+...| | | | | | [XGM xgm_Q3z3v] wt: 14.0
+...| | | | (ZNC) wt: 3083.0 maxWt: 1786.0
+...| | | | | [ZNC znc_Nes-] wt: 876.0
+...| | (ZVP) wt: 6241.0 maxWt: 1934.0
+...| | | [ZVP zvp_Ti] wt: 1934.0
+insert(VHT): successful {vht_hFyFrQAcnlpsbGO, vht_jQKD-8J, 2PM 6-Y, (122.40045,62.29944)} wt: 1786.0
+...Inserting OGE wt: 1040.0
+...Tree after insertion and before rebalancing OGE
+...| | | | | [BAR bar_IBfL6Ovg] wt: 1740.0
+...| | | | (CSH) wt: 2602.0 maxWt: 1740.0
+...| | | | | [CSH csh_9mAyB] wt: 862.0
+...| | | (FOC) wt: 3214.0 maxWt: 1740.0
+...| | | | [FOC foc_jvNRcH] wt: 612.0
+...| | (GKC) wt: 5179.0 maxWt: 1965.0
+...| | | [GKC gkc_eaIApDjjo] wt: 1965.0
+...| (HJO) wt: 10702.0 maxWt: 1965.0
+...| | | | | [HJO hjo_nxJt] wt: 243.0
+...| | | | (IIE) wt: 1209.0 maxWt: 966.0
+...| | | | | [IIE iie_3nEVTzFQCF] wt: 966.0
+...| | | (JIX) wt: 4038.0 maxWt: 1423.0
+...| | | | | [JIX jix_aZO60] wt: 1406.0
+...| | | | (LJH) wt: 2829.0 maxWt: 1423.0
+...| | | | | [LJH ljh_oZLzAfA] wt: 1423.0
+...| | (LPM) wt: 5523.0 maxWt: 1485.0
+...| | | [LPM lpm_BD0c4yBMR] wt: 1485.0
+...(MCB) wt: 21362.0 maxWt: 1965.0
+...| | | [MCB mcb_F] wt: 1886.0
+...| | (NJP) wt: 4419.0 maxWt: 1886.0
+...| | | | [NJP njp_n2H] wt: 123.0
+...| | | (NWN) wt: 2533.0 maxWt: 1370.0
+...| | | | | [NWN nwn_5uAJ] wt: 1370.0
+...| | | | (OGE) wt: 2410.0 maxWt: 1370.0
+...| | | | | [OGE oge_wcAwrPSn] wt: 1040.0
+...| (QWN) wt: 10660.0 maxWt: 1934.0
+...| | | | [QWN qwn_gkIz-LUi3V] wt: 1224.0
+...| | | (UXH) wt: 4307.0 maxWt: 1786.0
+...| | | | | | | [UXH uxh_kMyU8v] wt: 407.0
+...| | | | | | (VHT) wt: 2193.0 maxWt: 1786.0
+...| | | | | | | [VHT vht_jQKD-8J] wt: 1786.0
+...| | | | | (XGM) wt: 2207.0 maxWt: 1786.0
+...| | | | | | [XGM xgm_Q3z3v] wt: 14.0
+...| | | | (ZNC) wt: 3083.0 maxWt: 1786.0
+...| | | | | [ZNC znc_Nes-] wt: 876.0
+...| | (ZVP) wt: 6241.0 maxWt: 1934.0
+...| | | [ZVP zvp_Ti] wt: 1934.0
+...Checking node MCB balance-ratio = 0.50098306 max-ratio = 0.09198577 is balanced
+...Checking node QWN balance-ratio = 0.58545965 max-ratio = 0.18142588 is balanced
+...Checking node NJP balance-ratio = 0.5732066 max-ratio = 0.4267934 is balanced
+...Checking node NWN balance-ratio = 0.951441 max-ratio = 0.54086065 is balanced
+...Checking node OGE balance-ratio = 0.56846476 max-ratio = 0.56846476 is balanced
+...Tree after rebalancing OGE
+...| | | | | [BAR bar_IBfL6Ovg] wt: 1740.0
+...| | | | (CSH) wt: 2602.0 maxWt: 1740.0
+...| | | | | [CSH csh_9mAyB] wt: 862.0
+...| | | (FOC) wt: 3214.0 maxWt: 1740.0
+...| | | | [FOC foc_jvNRcH] wt: 612.0
+...| | (GKC) wt: 5179.0 maxWt: 1965.0
+...| | | [GKC gkc_eaIApDjjo] wt: 1965.0
+...| (HJO) wt: 10702.0 maxWt: 1965.0
+...| | | | | [HJO hjo_nxJt] wt: 243.0
+...| | | | (IIE) wt: 1209.0 maxWt: 966.0
+...| | | | | [IIE iie_3nEVTzFQCF] wt: 966.0
+...| | | (JIX) wt: 4038.0 maxWt: 1423.0
+...| | | | | [JIX jix_aZO60] wt: 1406.0
+...| | | | (LJH) wt: 2829.0 maxWt: 1423.0
+...| | | | | [LJH ljh_oZLzAfA] wt: 1423.0
+...| | (LPM) wt: 5523.0 maxWt: 1485.0
+...| | | [LPM lpm_BD0c4yBMR] wt: 1485.0
+...(MCB) wt: 21362.0 maxWt: 1965.0
+...| | | [MCB mcb_F] wt: 1886.0
+...| | (NJP) wt: 4419.0 maxWt: 1886.0
+...| | | | [NJP njp_n2H] wt: 123.0
+...| | | (NWN) wt: 2533.0 maxWt: 1370.0
+...| | | | | [NWN nwn_5uAJ] wt: 1370.0
+...| | | | (OGE) wt: 2410.0 maxWt: 1370.0
+...| | | | | [OGE oge_wcAwrPSn] wt: 1040.0
+...| (QWN) wt: 10660.0 maxWt: 1934.0
+...| | | | [QWN qwn_gkIz-LUi3V] wt: 1224.0
+...| | | (UXH) wt: 4307.0 maxWt: 1786.0
+...| | | | | | | [UXH uxh_kMyU8v] wt: 407.0
+...| | | | | | (VHT) wt: 2193.0 maxWt: 1786.0
+...| | | | | | | [VHT vht_jQKD-8J] wt: 1786.0
+...| | | | | (XGM) wt: 2207.0 maxWt: 1786.0
+...| | | | | | [XGM xgm_Q3z3v] wt: 14.0
+...| | | | (ZNC) wt: 3083.0 maxWt: 1786.0
+...| | | | | [ZNC znc_Nes-] wt: 876.0
+...| | (ZVP) wt: 6241.0 maxWt: 1934.0
+...| | | [ZVP zvp_Ti] wt: 1934.0
+insert(OGE): successful {oge_axudIjbjj9o, oge_wcAwrPSn, Hz2CGjr9s6CZ, (-170.52275,18.769264)} wt: 1040.0
+...Inserting VRM wt: 1004.0
+...Tree after insertion and before rebalancing VRM
+...| | | | | [BAR bar_IBfL6Ovg] wt: 1740.0
+...| | | | (CSH) wt: 2602.0 maxWt: 1740.0
+...| | | | | [CSH csh_9mAyB] wt: 862.0
+...| | | (FOC) wt: 3214.0 maxWt: 1740.0
+...| | | | [FOC foc_jvNRcH] wt: 612.0
+...| | (GKC) wt: 5179.0 maxWt: 1965.0
+...| | | [GKC gkc_eaIApDjjo] wt: 1965.0
+...| (HJO) wt: 10702.0 maxWt: 1965.0
+...| | | | | [HJO hjo_nxJt] wt: 243.0
+...| | | | (IIE) wt: 1209.0 maxWt: 966.0
+...| | | | | [IIE iie_3nEVTzFQCF] wt: 966.0
+...| | | (JIX) wt: 4038.0 maxWt: 1423.0
+...| | | | | [JIX jix_aZO60] wt: 1406.0
+...| | | | (LJH) wt: 2829.0 maxWt: 1423.0
+...| | | | | [LJH ljh_oZLzAfA] wt: 1423.0
+...| | (LPM) wt: 5523.0 maxWt: 1485.0
+...| | | [LPM lpm_BD0c4yBMR] wt: 1485.0
+...(MCB) wt: 22366.0 maxWt: 1965.0
+...| | | [MCB mcb_F] wt: 1886.0
+...| | (NJP) wt: 4419.0 maxWt: 1886.0
+...| | | | [NJP njp_n2H] wt: 123.0
+...| | | (NWN) wt: 2533.0 maxWt: 1370.0
+...| | | | | [NWN nwn_5uAJ] wt: 1370.0
+...| | | | (OGE) wt: 2410.0 maxWt: 1370.0
+...| | | | | [OGE oge_wcAwrPSn] wt: 1040.0
+...| (QWN) wt: 11664.0 maxWt: 1934.0
+...| | | | [QWN qwn_gkIz-LUi3V] wt: 1224.0
+...| | | (UXH) wt: 5311.0 maxWt: 1786.0
+...| | | | | | | [UXH uxh_kMyU8v] wt: 407.0
+...| | | | | | (VHT) wt: 3197.0 maxWt: 1786.0
+...| | | | | | | | [VHT vht_jQKD-8J] wt: 1786.0
+...| | | | | | | (VRM) wt: 2790.0 maxWt: 1786.0
+...| | | | | | | | [VRM vrm_1WArw6Xp8] wt: 1004.0
+...| | | | | (XGM) wt: 3211.0 maxWt: 1786.0
+...| | | | | | [XGM xgm_Q3z3v] wt: 14.0
+...| | | | (ZNC) wt: 4087.0 maxWt: 1786.0
+...| | | | | [ZNC znc_Nes-] wt: 876.0
+...| | (ZVP) wt: 7245.0 maxWt: 1934.0
+...| | | [ZVP zvp_Ti] wt: 1934.0
+...Checking node MCB balance-ratio = 0.52150583 max-ratio = 0.08785657 is balanced
+...Checking node QWN balance-ratio = 0.62114197 max-ratio = 0.16580933 is balanced
+...Checking node ZVP balance-ratio = 0.73305726 max-ratio = 0.2669427 is balanced
+...Checking node UXH balance-ratio = 0.76953495 max-ratio = 0.33628318 is balanced
+...Checking node ZNC balance-ratio = 0.7856619 max-ratio = 0.43699536 is balanced
+...Checking node XGM balance-ratio = 0.99564 max-ratio = 0.556213 is balanced
+...Checking node VHT balance-ratio = 0.8726931 max-ratio = 0.5586487 is balanced
+...Checking node VRM balance-ratio = 0.6401434 max-ratio = 0.6401434 is balanced
+...Tree after rebalancing VRM
+...| | | | | [BAR bar_IBfL6Ovg] wt: 1740.0
+...| | | | (CSH) wt: 2602.0 maxWt: 1740.0
+...| | | | | [CSH csh_9mAyB] wt: 862.0
+...| | | (FOC) wt: 3214.0 maxWt: 1740.0
+...| | | | [FOC foc_jvNRcH] wt: 612.0
+...| | (GKC) wt: 5179.0 maxWt: 1965.0
+...| | | [GKC gkc_eaIApDjjo] wt: 1965.0
+...| (HJO) wt: 10702.0 maxWt: 1965.0
+...| | | | | [HJO hjo_nxJt] wt: 243.0
+...| | | | (IIE) wt: 1209.0 maxWt: 966.0
+...| | | | | [IIE iie_3nEVTzFQCF] wt: 966.0
+...| | | (JIX) wt: 4038.0 maxWt: 1423.0
+...| | | | | [JIX jix_aZO60] wt: 1406.0
+...| | | | (LJH) wt: 2829.0 maxWt: 1423.0
+...| | | | | [LJH ljh_oZLzAfA] wt: 1423.0
+...| | (LPM) wt: 5523.0 maxWt: 1485.0
+...| | | [LPM lpm_BD0c4yBMR] wt: 1485.0
+...(MCB) wt: 22366.0 maxWt: 1965.0
+...| | | [MCB mcb_F] wt: 1886.0
+...| | (NJP) wt: 4419.0 maxWt: 1886.0
+...| | | | [NJP njp_n2H] wt: 123.0
+...| | | (NWN) wt: 2533.0 maxWt: 1370.0
+...| | | | | [NWN nwn_5uAJ] wt: 1370.0
+...| | | | (OGE) wt: 2410.0 maxWt: 1370.0
+...| | | | | [OGE oge_wcAwrPSn] wt: 1040.0
+...| (QWN) wt: 11664.0 maxWt: 1934.0
+...| | | | [QWN qwn_gkIz-LUi3V] wt: 1224.0
+...| | | (UXH) wt: 5311.0 maxWt: 1786.0
+...| | | | | | | [UXH uxh_kMyU8v] wt: 407.0
+...| | | | | | (VHT) wt: 3197.0 maxWt: 1786.0
+...| | | | | | | | [VHT vht_jQKD-8J] wt: 1786.0
+...| | | | | | | (VRM) wt: 2790.0 maxWt: 1786.0
+...| | | | | | | | [VRM vrm_1WArw6Xp8] wt: 1004.0
+...| | | | | (XGM) wt: 3211.0 maxWt: 1786.0
+...| | | | | | [XGM xgm_Q3z3v] wt: 14.0
+...| | | | (ZNC) wt: 4087.0 maxWt: 1786.0
+...| | | | | [ZNC znc_Nes-] wt: 876.0
+...| | (ZVP) wt: 7245.0 maxWt: 1934.0
+...| | | [ZVP zvp_Ti] wt: 1934.0
+insert(VRM): successful {vrm_7LeI4jnMCa, vrm_1WArw6Xp8, FuxgGg0m, (-153.5893,-17.398415)} wt: 1004.0
+Preorder list:
+  (MCB) wt: 22366.0
+  (HJO) wt: 10702.0
+  (GKC) wt: 5179.0
+  (FOC) wt: 3214.0
+  (CSH) wt: 2602.0
+  [BAR bar_IBfL6Ovg] wt: 1740.0
+  [CSH csh_9mAyB] wt: 862.0
+  [FOC foc_jvNRcH] wt: 612.0
+  [GKC gkc_eaIApDjjo] wt: 1965.0
+  (LPM) wt: 5523.0
+  (JIX) wt: 4038.0
+  (IIE) wt: 1209.0
+  [HJO hjo_nxJt] wt: 243.0
+  [IIE iie_3nEVTzFQCF] wt: 966.0
+  (LJH) wt: 2829.0
+  [JIX jix_aZO60] wt: 1406.0
+  [LJH ljh_oZLzAfA] wt: 1423.0
+  [LPM lpm_BD0c4yBMR] wt: 1485.0
+  (QWN) wt: 11664.0
+  (NJP) wt: 4419.0
+  [MCB mcb_F] wt: 1886.0
+  (NWN) wt: 2533.0
+  [NJP njp_n2H] wt: 123.0
+  (OGE) wt: 2410.0
+  [NWN nwn_5uAJ] wt: 1370.0
+  [OGE oge_wcAwrPSn] wt: 1040.0
+  (ZVP) wt: 7245.0
+  (UXH) wt: 5311.0
+  [QWN qwn_gkIz-LUi3V] wt: 1224.0
+  (ZNC) wt: 4087.0
+  (XGM) wt: 3211.0
+  (VHT) wt: 3197.0
+  [UXH uxh_kMyU8v] wt: 407.0
+  (VRM) wt: 2790.0
+  [VHT vht_jQKD-8J] wt: 1786.0
+  [VRM vrm_1WArw6Xp8] wt: 1004.0
+  [XGM xgm_Q3z3v] wt: 14.0
+  [ZNC znc_Nes-] wt: 876.0
+  [ZVP zvp_Ti] wt: 1934.0
+Tree structure:
+  | | | | | [BAR bar_IBfL6Ovg] wt: 1740.0
+  | | | | (CSH) wt: 2602.0
+  | | | | | [CSH csh_9mAyB] wt: 862.0
+  | | | (FOC) wt: 3214.0
+  | | | | [FOC foc_jvNRcH] wt: 612.0
+  | | (GKC) wt: 5179.0
+  | | | [GKC gkc_eaIApDjjo] wt: 1965.0
+  | (HJO) wt: 10702.0
+  | | | | | [HJO hjo_nxJt] wt: 243.0
+  | | | | (IIE) wt: 1209.0
+  | | | | | [IIE iie_3nEVTzFQCF] wt: 966.0
+  | | | (JIX) wt: 4038.0
+  | | | | | [JIX jix_aZO60] wt: 1406.0
+  | | | | (LJH) wt: 2829.0
+  | | | | | [LJH ljh_oZLzAfA] wt: 1423.0
+  | | (LPM) wt: 5523.0
+  | | | [LPM lpm_BD0c4yBMR] wt: 1485.0
+  (MCB) wt: 22366.0
+  | | | [MCB mcb_F] wt: 1886.0
+  | | (NJP) wt: 4419.0
+  | | | | [NJP njp_n2H] wt: 123.0
+  | | | (NWN) wt: 2533.0
+  | | | | | [NWN nwn_5uAJ] wt: 1370.0
+  | | | | (OGE) wt: 2410.0
+  | | | | | [OGE oge_wcAwrPSn] wt: 1040.0
+  | (QWN) wt: 11664.0
+  | | | | [QWN qwn_gkIz-LUi3V] wt: 1224.0
+  | | | (UXH) wt: 5311.0
+  | | | | | | | [UXH uxh_kMyU8v] wt: 407.0
+  | | | | | | (VHT) wt: 3197.0
+  | | | | | | | | [VHT vht_jQKD-8J] wt: 1786.0
+  | | | | | | | (VRM) wt: 2790.0
+  | | | | | | | | [VRM vrm_1WArw6Xp8] wt: 1004.0
+  | | | | | (XGM) wt: 3211.0
+  | | | | | | [XGM xgm_Q3z3v] wt: 14.0
+  | | | | (ZNC) wt: 4087.0
+  | | | | | [ZNC znc_Nes-] wt: 876.0
+  | | (ZVP) wt: 7245.0
+  | | | [ZVP zvp_Ti] wt: 1934.0
+...Inserting RNF wt: 1284.0
+...Tree after insertion and before rebalancing RNF
+...| | | | | [BAR bar_IBfL6Ovg] wt: 1740.0
+...| | | | (CSH) wt: 2602.0 maxWt: 1740.0
+...| | | | | [CSH csh_9mAyB] wt: 862.0
+...| | | (FOC) wt: 3214.0 maxWt: 1740.0
+...| | | | [FOC foc_jvNRcH] wt: 612.0
+...| | (GKC) wt: 5179.0 maxWt: 1965.0
+...| | | [GKC gkc_eaIApDjjo] wt: 1965.0
+...| (HJO) wt: 10702.0 maxWt: 1965.0
+...| | | | | [HJO hjo_nxJt] wt: 243.0
+...| | | | (IIE) wt: 1209.0 maxWt: 966.0
+...| | | | | [IIE iie_3nEVTzFQCF] wt: 966.0
+...| | | (JIX) wt: 4038.0 maxWt: 1423.0
+...| | | | | [JIX jix_aZO60] wt: 1406.0
+...| | | | (LJH) wt: 2829.0 maxWt: 1423.0
+...| | | | | [LJH ljh_oZLzAfA] wt: 1423.0
+...| | (LPM) wt: 5523.0 maxWt: 1485.0
+...| | | [LPM lpm_BD0c4yBMR] wt: 1485.0
+...(MCB) wt: 23650.0 maxWt: 1965.0
+...| | | [MCB mcb_F] wt: 1886.0
+...| | (NJP) wt: 4419.0 maxWt: 1886.0
+...| | | | [NJP njp_n2H] wt: 123.0
+...| | | (NWN) wt: 2533.0 maxWt: 1370.0
+...| | | | | [NWN nwn_5uAJ] wt: 1370.0
+...| | | | (OGE) wt: 2410.0 maxWt: 1370.0
+...| | | | | [OGE oge_wcAwrPSn] wt: 1040.0
+...| (QWN) wt: 12948.0 maxWt: 1934.0
+...| | | | | [QWN qwn_gkIz-LUi3V] wt: 1224.0
+...| | | | (RNF) wt: 2508.0 maxWt: 1284.0
+...| | | | | [RNF rnf_k] wt: 1284.0
+...| | | (UXH) wt: 6595.0 maxWt: 1786.0
+...| | | | | | | [UXH uxh_kMyU8v] wt: 407.0
+...| | | | | | (VHT) wt: 3197.0 maxWt: 1786.0
+...| | | | | | | | [VHT vht_jQKD-8J] wt: 1786.0
+...| | | | | | | (VRM) wt: 2790.0 maxWt: 1786.0
+...| | | | | | | | [VRM vrm_1WArw6Xp8] wt: 1004.0
+...| | | | | (XGM) wt: 3211.0 maxWt: 1786.0
+...| | | | | | [XGM xgm_Q3z3v] wt: 14.0
+...| | | | (ZNC) wt: 4087.0 maxWt: 1786.0
+...| | | | | [ZNC znc_Nes-] wt: 876.0
+...| | (ZVP) wt: 8529.0 maxWt: 1934.0
+...| | | [ZVP zvp_Ti] wt: 1934.0
+...Checking node MCB balance-ratio = 0.54748416 max-ratio = 0.083086684 is balanced
+...Checking node QWN balance-ratio = 0.6587118 max-ratio = 0.14936669 is balanced
+...Checking node ZVP balance-ratio = 0.7732442 max-ratio = 0.22675577 !!! Fails balance conditions !!!
+...Rebuilding subtree at node ZVP
+...Rebuilt subtree:
+...| | | [QWN qwn_gkIz-LUi3V] wt: 1224.0
+...| | (RNF) wt: 2508.0 maxWt: 1284.0
+...| | | [RNF rnf_k] wt: 1284.0
+...| (UXH) wt: 4701.0 maxWt: 1786.0
+...| | | [UXH uxh_kMyU8v] wt: 407.0
+...| | (VHT) wt: 2193.0 maxWt: 1786.0
+...| | | [VHT vht_jQKD-8J] wt: 1786.0
+...(VRM) wt: 8529.0 maxWt: 1934.0
+...| | | [VRM vrm_1WArw6Xp8] wt: 1004.0
+...| | (XGM) wt: 1894.0 maxWt: 1004.0
+...| | | | [XGM xgm_Q3z3v] wt: 14.0
+...| | | (ZNC) wt: 890.0 maxWt: 876.0
+...| | | | [ZNC znc_Nes-] wt: 876.0
+...| (ZVP) wt: 3828.0 maxWt: 1934.0
+...| | [ZVP zvp_Ti] wt: 1934.0
+...Tree after rebalancing RNF
+...| | | | | [BAR bar_IBfL6Ovg] wt: 1740.0
+...| | | | (CSH) wt: 2602.0 maxWt: 1740.0
+...| | | | | [CSH csh_9mAyB] wt: 862.0
+...| | | (FOC) wt: 3214.0 maxWt: 1740.0
+...| | | | [FOC foc_jvNRcH] wt: 612.0
+...| | (GKC) wt: 5179.0 maxWt: 1965.0
+...| | | [GKC gkc_eaIApDjjo] wt: 1965.0
+...| (HJO) wt: 10702.0 maxWt: 1965.0
+...| | | | | [HJO hjo_nxJt] wt: 243.0
+...| | | | (IIE) wt: 1209.0 maxWt: 966.0
+...| | | | | [IIE iie_3nEVTzFQCF] wt: 966.0
+...| | | (JIX) wt: 4038.0 maxWt: 1423.0
+...| | | | | [JIX jix_aZO60] wt: 1406.0
+...| | | | (LJH) wt: 2829.0 maxWt: 1423.0
+...| | | | | [LJH ljh_oZLzAfA] wt: 1423.0
+...| | (LPM) wt: 5523.0 maxWt: 1485.0
+...| | | [LPM lpm_BD0c4yBMR] wt: 1485.0
+...(MCB) wt: 23650.0 maxWt: 1965.0
+...| | | [MCB mcb_F] wt: 1886.0
+...| | (NJP) wt: 4419.0 maxWt: 1886.0
+...| | | | [NJP njp_n2H] wt: 123.0
+...| | | (NWN) wt: 2533.0 maxWt: 1370.0
+...| | | | | [NWN nwn_5uAJ] wt: 1370.0
+...| | | | (OGE) wt: 2410.0 maxWt: 1370.0
+...| | | | | [OGE oge_wcAwrPSn] wt: 1040.0
+...| (QWN) wt: 12948.0 maxWt: 1934.0
+...| | | | | [QWN qwn_gkIz-LUi3V] wt: 1224.0
+...| | | | (RNF) wt: 2508.0 maxWt: 1284.0
+...| | | | | [RNF rnf_k] wt: 1284.0
+...| | | (UXH) wt: 4701.0 maxWt: 1786.0
+...| | | | | [UXH uxh_kMyU8v] wt: 407.0
+...| | | | (VHT) wt: 2193.0 maxWt: 1786.0
+...| | | | | [VHT vht_jQKD-8J] wt: 1786.0
+...| | (VRM) wt: 8529.0 maxWt: 1934.0
+...| | | | | [VRM vrm_1WArw6Xp8] wt: 1004.0
+...| | | | (XGM) wt: 1894.0 maxWt: 1004.0
+...| | | | | | [XGM xgm_Q3z3v] wt: 14.0
+...| | | | | (ZNC) wt: 890.0 maxWt: 876.0
+...| | | | | | [ZNC znc_Nes-] wt: 876.0
+...| | | (ZVP) wt: 3828.0 maxWt: 1934.0
+...| | | | [ZVP zvp_Ti] wt: 1934.0
+insert(RNF): successful {rnf_9Spv1b, rnf_k, Uve0mcznP4UoD4, (37.16632,66.60826)} wt: 1284.0
+...Inserting MQI wt: 1101.0
+...Tree after insertion and before rebalancing MQI
+...| | | | | [BAR bar_IBfL6Ovg] wt: 1740.0
+...| | | | (CSH) wt: 2602.0 maxWt: 1740.0
+...| | | | | [CSH csh_9mAyB] wt: 862.0
+...| | | (FOC) wt: 3214.0 maxWt: 1740.0
+...| | | | [FOC foc_jvNRcH] wt: 612.0
+...| | (GKC) wt: 5179.0 maxWt: 1965.0
+...| | | [GKC gkc_eaIApDjjo] wt: 1965.0
+...| (HJO) wt: 10702.0 maxWt: 1965.0
+...| | | | | [HJO hjo_nxJt] wt: 243.0
+...| | | | (IIE) wt: 1209.0 maxWt: 966.0
+...| | | | | [IIE iie_3nEVTzFQCF] wt: 966.0
+...| | | (JIX) wt: 4038.0 maxWt: 1423.0
+...| | | | | [JIX jix_aZO60] wt: 1406.0
+...| | | | (LJH) wt: 2829.0 maxWt: 1423.0
+...| | | | | [LJH ljh_oZLzAfA] wt: 1423.0
+...| | (LPM) wt: 5523.0 maxWt: 1485.0
+...| | | [LPM lpm_BD0c4yBMR] wt: 1485.0
+...(MCB) wt: 24751.0 maxWt: 1965.0
+...| | | | [MCB mcb_F] wt: 1886.0
+...| | | (MQI) wt: 2987.0 maxWt: 1886.0
+...| | | | [MQI mqi_5lxN9SeLEj] wt: 1101.0
+...| | (NJP) wt: 5520.0 maxWt: 1886.0
+...| | | | [NJP njp_n2H] wt: 123.0
+...| | | (NWN) wt: 2533.0 maxWt: 1370.0
+...| | | | | [NWN nwn_5uAJ] wt: 1370.0
+...| | | | (OGE) wt: 2410.0 maxWt: 1370.0
+...| | | | | [OGE oge_wcAwrPSn] wt: 1040.0
+...| (QWN) wt: 14049.0 maxWt: 1934.0
+...| | | | | [QWN qwn_gkIz-LUi3V] wt: 1224.0
+...| | | | (RNF) wt: 2508.0 maxWt: 1284.0
+...| | | | | [RNF rnf_k] wt: 1284.0
+...| | | (UXH) wt: 4701.0 maxWt: 1786.0
+...| | | | | [UXH uxh_kMyU8v] wt: 407.0
+...| | | | (VHT) wt: 2193.0 maxWt: 1786.0
+...| | | | | [VHT vht_jQKD-8J] wt: 1786.0
+...| | (VRM) wt: 8529.0 maxWt: 1934.0
+...| | | | | [VRM vrm_1WArw6Xp8] wt: 1004.0
+...| | | | (XGM) wt: 1894.0 maxWt: 1004.0
+...| | | | | | [XGM xgm_Q3z3v] wt: 14.0
+...| | | | | (ZNC) wt: 890.0 maxWt: 876.0
+...| | | | | | [ZNC znc_Nes-] wt: 876.0
+...| | | (ZVP) wt: 3828.0 maxWt: 1934.0
+...| | | | [ZVP zvp_Ti] wt: 1934.0
+...Checking node MCB balance-ratio = 0.5676134 max-ratio = 0.079390734 is balanced
+...Checking node QWN balance-ratio = 0.60708946 max-ratio = 0.13766104 is balanced
+...Checking node NJP balance-ratio = 0.5411232 max-ratio = 0.34166667 is balanced
+...Checking node MQI balance-ratio = 0.63140273 max-ratio = 0.63140273 is balanced
+...Tree after rebalancing MQI
+...| | | | | [BAR bar_IBfL6Ovg] wt: 1740.0
+...| | | | (CSH) wt: 2602.0 maxWt: 1740.0
+...| | | | | [CSH csh_9mAyB] wt: 862.0
+...| | | (FOC) wt: 3214.0 maxWt: 1740.0
+...| | | | [FOC foc_jvNRcH] wt: 612.0
+...| | (GKC) wt: 5179.0 maxWt: 1965.0
+...| | | [GKC gkc_eaIApDjjo] wt: 1965.0
+...| (HJO) wt: 10702.0 maxWt: 1965.0
+...| | | | | [HJO hjo_nxJt] wt: 243.0
+...| | | | (IIE) wt: 1209.0 maxWt: 966.0
+...| | | | | [IIE iie_3nEVTzFQCF] wt: 966.0
+...| | | (JIX) wt: 4038.0 maxWt: 1423.0
+...| | | | | [JIX jix_aZO60] wt: 1406.0
+...| | | | (LJH) wt: 2829.0 maxWt: 1423.0
+...| | | | | [LJH ljh_oZLzAfA] wt: 1423.0
+...| | (LPM) wt: 5523.0 maxWt: 1485.0
+...| | | [LPM lpm_BD0c4yBMR] wt: 1485.0
+...(MCB) wt: 24751.0 maxWt: 1965.0
+...| | | | [MCB mcb_F] wt: 1886.0
+...| | | (MQI) wt: 2987.0 maxWt: 1886.0
+...| | | | [MQI mqi_5lxN9SeLEj] wt: 1101.0
+...| | (NJP) wt: 5520.0 maxWt: 1886.0
+...| | | | [NJP njp_n2H] wt: 123.0
+...| | | (NWN) wt: 2533.0 maxWt: 1370.0
+...| | | | | [NWN nwn_5uAJ] wt: 1370.0
+...| | | | (OGE) wt: 2410.0 maxWt: 1370.0
+...| | | | | [OGE oge_wcAwrPSn] wt: 1040.0
+...| (QWN) wt: 14049.0 maxWt: 1934.0
+...| | | | | [QWN qwn_gkIz-LUi3V] wt: 1224.0
+...| | | | (RNF) wt: 2508.0 maxWt: 1284.0
+...| | | | | [RNF rnf_k] wt: 1284.0
+...| | | (UXH) wt: 4701.0 maxWt: 1786.0
+...| | | | | [UXH uxh_kMyU8v] wt: 407.0
+...| | | | (VHT) wt: 2193.0 maxWt: 1786.0
+...| | | | | [VHT vht_jQKD-8J] wt: 1786.0
+...| | (VRM) wt: 8529.0 maxWt: 1934.0
+...| | | | | [VRM vrm_1WArw6Xp8] wt: 1004.0
+...| | | | (XGM) wt: 1894.0 maxWt: 1004.0
+...| | | | | | [XGM xgm_Q3z3v] wt: 14.0
+...| | | | | (ZNC) wt: 890.0 maxWt: 876.0
+...| | | | | | [ZNC znc_Nes-] wt: 876.0
+...| | | (ZVP) wt: 3828.0 maxWt: 1934.0
+...| | | | [ZVP zvp_Ti] wt: 1934.0
+insert(MQI): successful {mqi_Sw1Jcfusi5bU9UqLc, mqi_5lxN9SeLEj, h2g-wQ, (112.968994,-16.381798)} wt: 1101.0
+...Inserting WQZ wt: 689.0
+...Tree after insertion and before rebalancing WQZ
+...| | | | | [BAR bar_IBfL6Ovg] wt: 1740.0
+...| | | | (CSH) wt: 2602.0 maxWt: 1740.0
+...| | | | | [CSH csh_9mAyB] wt: 862.0
+...| | | (FOC) wt: 3214.0 maxWt: 1740.0
+...| | | | [FOC foc_jvNRcH] wt: 612.0
+...| | (GKC) wt: 5179.0 maxWt: 1965.0
+...| | | [GKC gkc_eaIApDjjo] wt: 1965.0
+...| (HJO) wt: 10702.0 maxWt: 1965.0
+...| | | | | [HJO hjo_nxJt] wt: 243.0
+...| | | | (IIE) wt: 1209.0 maxWt: 966.0
+...| | | | | [IIE iie_3nEVTzFQCF] wt: 966.0
+...| | | (JIX) wt: 4038.0 maxWt: 1423.0
+...| | | | | [JIX jix_aZO60] wt: 1406.0
+...| | | | (LJH) wt: 2829.0 maxWt: 1423.0
+...| | | | | [LJH ljh_oZLzAfA] wt: 1423.0
+...| | (LPM) wt: 5523.0 maxWt: 1485.0
+...| | | [LPM lpm_BD0c4yBMR] wt: 1485.0
+...(MCB) wt: 25440.0 maxWt: 1965.0
+...| | | | [MCB mcb_F] wt: 1886.0
+...| | | (MQI) wt: 2987.0 maxWt: 1886.0
+...| | | | [MQI mqi_5lxN9SeLEj] wt: 1101.0
+...| | (NJP) wt: 5520.0 maxWt: 1886.0
+...| | | | [NJP njp_n2H] wt: 123.0
+...| | | (NWN) wt: 2533.0 maxWt: 1370.0
+...| | | | | [NWN nwn_5uAJ] wt: 1370.0
+...| | | | (OGE) wt: 2410.0 maxWt: 1370.0
+...| | | | | [OGE oge_wcAwrPSn] wt: 1040.0
+...| (QWN) wt: 14738.0 maxWt: 1934.0
+...| | | | | [QWN qwn_gkIz-LUi3V] wt: 1224.0
+...| | | | (RNF) wt: 2508.0 maxWt: 1284.0
+...| | | | | [RNF rnf_k] wt: 1284.0
+...| | | (UXH) wt: 4701.0 maxWt: 1786.0
+...| | | | | [UXH uxh_kMyU8v] wt: 407.0
+...| | | | (VHT) wt: 2193.0 maxWt: 1786.0
+...| | | | | [VHT vht_jQKD-8J] wt: 1786.0
+...| | (VRM) wt: 9218.0 maxWt: 1934.0
+...| | | | | | [VRM vrm_1WArw6Xp8] wt: 1004.0
+...| | | | | (WQZ) wt: 1693.0 maxWt: 1004.0
+...| | | | | | [WQZ wqz_3r qmm] wt: 689.0
+...| | | | (XGM) wt: 2583.0 maxWt: 1004.0
+...| | | | | | [XGM xgm_Q3z3v] wt: 14.0
+...| | | | | (ZNC) wt: 890.0 maxWt: 876.0
+...| | | | | | [ZNC znc_Nes-] wt: 876.0
+...| | | (ZVP) wt: 4517.0 maxWt: 1934.0
+...| | | | [ZVP zvp_Ti] wt: 1934.0
+...Checking node MCB balance-ratio = 0.5793239 max-ratio = 0.077240564 is balanced
+...Checking node QWN balance-ratio = 0.625458 max-ratio = 0.1312254 is balanced
+...Checking node VRM balance-ratio = 0.5099805 max-ratio = 0.2098069 is balanced
+...Checking node ZVP balance-ratio = 0.5718397 max-ratio = 0.42816028 is balanced
+...Checking node XGM balance-ratio = 0.65543944 max-ratio = 0.38869533 is balanced
+...Checking node WQZ balance-ratio = 0.5930301 max-ratio = 0.5930301 is balanced
+...Tree after rebalancing WQZ
+...| | | | | [BAR bar_IBfL6Ovg] wt: 1740.0
+...| | | | (CSH) wt: 2602.0 maxWt: 1740.0
+...| | | | | [CSH csh_9mAyB] wt: 862.0
+...| | | (FOC) wt: 3214.0 maxWt: 1740.0
+...| | | | [FOC foc_jvNRcH] wt: 612.0
+...| | (GKC) wt: 5179.0 maxWt: 1965.0
+...| | | [GKC gkc_eaIApDjjo] wt: 1965.0
+...| (HJO) wt: 10702.0 maxWt: 1965.0
+...| | | | | [HJO hjo_nxJt] wt: 243.0
+...| | | | (IIE) wt: 1209.0 maxWt: 966.0
+...| | | | | [IIE iie_3nEVTzFQCF] wt: 966.0
+...| | | (JIX) wt: 4038.0 maxWt: 1423.0
+...| | | | | [JIX jix_aZO60] wt: 1406.0
+...| | | | (LJH) wt: 2829.0 maxWt: 1423.0
+...| | | | | [LJH ljh_oZLzAfA] wt: 1423.0
+...| | (LPM) wt: 5523.0 maxWt: 1485.0
+...| | | [LPM lpm_BD0c4yBMR] wt: 1485.0
+...(MCB) wt: 25440.0 maxWt: 1965.0
+...| | | | [MCB mcb_F] wt: 1886.0
+...| | | (MQI) wt: 2987.0 maxWt: 1886.0
+...| | | | [MQI mqi_5lxN9SeLEj] wt: 1101.0
+...| | (NJP) wt: 5520.0 maxWt: 1886.0
+...| | | | [NJP njp_n2H] wt: 123.0
+...| | | (NWN) wt: 2533.0 maxWt: 1370.0
+...| | | | | [NWN nwn_5uAJ] wt: 1370.0
+...| | | | (OGE) wt: 2410.0 maxWt: 1370.0
+...| | | | | [OGE oge_wcAwrPSn] wt: 1040.0
+...| (QWN) wt: 14738.0 maxWt: 1934.0
+...| | | | | [QWN qwn_gkIz-LUi3V] wt: 1224.0
+...| | | | (RNF) wt: 2508.0 maxWt: 1284.0
+...| | | | | [RNF rnf_k] wt: 1284.0
+...| | | (UXH) wt: 4701.0 maxWt: 1786.0
+...| | | | | [UXH uxh_kMyU8v] wt: 407.0
+...| | | | (VHT) wt: 2193.0 maxWt: 1786.0
+...| | | | | [VHT vht_jQKD-8J] wt: 1786.0
+...| | (VRM) wt: 9218.0 maxWt: 1934.0
+...| | | | | | [VRM vrm_1WArw6Xp8] wt: 1004.0
+...| | | | | (WQZ) wt: 1693.0 maxWt: 1004.0
+...| | | | | | [WQZ wqz_3r qmm] wt: 689.0
+...| | | | (XGM) wt: 2583.0 maxWt: 1004.0
+...| | | | | | [XGM xgm_Q3z3v] wt: 14.0
+...| | | | | (ZNC) wt: 890.0 maxWt: 876.0
+...| | | | | | [ZNC znc_Nes-] wt: 876.0
+...| | | (ZVP) wt: 4517.0 maxWt: 1934.0
+...| | | | [ZVP zvp_Ti] wt: 1934.0
+insert(WQZ): successful {wqz_Rnoeuy, wqz_3r qmm, NoiBT4AF1KeHN, (-80.39705,27.222298)} wt: 689.0
+...Inserting MTS wt: 1544.0
+...Tree after insertion and before rebalancing MTS
+...| | | | | [BAR bar_IBfL6Ovg] wt: 1740.0
+...| | | | (CSH) wt: 2602.0 maxWt: 1740.0
+...| | | | | [CSH csh_9mAyB] wt: 862.0
+...| | | (FOC) wt: 3214.0 maxWt: 1740.0
+...| | | | [FOC foc_jvNRcH] wt: 612.0
+...| | (GKC) wt: 5179.0 maxWt: 1965.0
+...| | | [GKC gkc_eaIApDjjo] wt: 1965.0
+...| (HJO) wt: 10702.0 maxWt: 1965.0
+...| | | | | [HJO hjo_nxJt] wt: 243.0
+...| | | | (IIE) wt: 1209.0 maxWt: 966.0
+...| | | | | [IIE iie_3nEVTzFQCF] wt: 966.0
+...| | | (JIX) wt: 4038.0 maxWt: 1423.0
+...| | | | | [JIX jix_aZO60] wt: 1406.0
+...| | | | (LJH) wt: 2829.0 maxWt: 1423.0
+...| | | | | [LJH ljh_oZLzAfA] wt: 1423.0
+...| | (LPM) wt: 5523.0 maxWt: 1485.0
+...| | | [LPM lpm_BD0c4yBMR] wt: 1485.0
+...(MCB) wt: 26984.0 maxWt: 1965.0
+...| | | | [MCB mcb_F] wt: 1886.0
+...| | | (MQI) wt: 4531.0 maxWt: 1886.0
+...| | | | | [MQI mqi_5lxN9SeLEj] wt: 1101.0
+...| | | | (MTS) wt: 2645.0 maxWt: 1544.0
+...| | | | | [MTS mts_k] wt: 1544.0
+...| | (NJP) wt: 7064.0 maxWt: 1886.0
+...| | | | [NJP njp_n2H] wt: 123.0
+...| | | (NWN) wt: 2533.0 maxWt: 1370.0
+...| | | | | [NWN nwn_5uAJ] wt: 1370.0
+...| | | | (OGE) wt: 2410.0 maxWt: 1370.0
+...| | | | | [OGE oge_wcAwrPSn] wt: 1040.0
+...| (QWN) wt: 16282.0 maxWt: 1934.0
+...| | | | | [QWN qwn_gkIz-LUi3V] wt: 1224.0
+...| | | | (RNF) wt: 2508.0 maxWt: 1284.0
+...| | | | | [RNF rnf_k] wt: 1284.0
+...| | | (UXH) wt: 4701.0 maxWt: 1786.0
+...| | | | | [UXH uxh_kMyU8v] wt: 407.0
+...| | | | (VHT) wt: 2193.0 maxWt: 1786.0
+...| | | | | [VHT vht_jQKD-8J] wt: 1786.0
+...| | (VRM) wt: 9218.0 maxWt: 1934.0
+...| | | | | | [VRM vrm_1WArw6Xp8] wt: 1004.0
+...| | | | | (WQZ) wt: 1693.0 maxWt: 1004.0
+...| | | | | | [WQZ wqz_3r qmm] wt: 689.0
+...| | | | (XGM) wt: 2583.0 maxWt: 1004.0
+...| | | | | | [XGM xgm_Q3z3v] wt: 14.0
+...| | | | | (ZNC) wt: 890.0 maxWt: 876.0
+...| | | | | | [ZNC znc_Nes-] wt: 876.0
+...| | | (ZVP) wt: 4517.0 maxWt: 1934.0
+...| | | | [ZVP zvp_Ti] wt: 1934.0
+...Checking node MCB balance-ratio = 0.6033946 max-ratio = 0.07282093 is balanced
+...Checking node QWN balance-ratio = 0.5661467 max-ratio = 0.11878148 is balanced
+...Checking node NJP balance-ratio = 0.6414213 max-ratio = 0.26698753 is balanced
+...Checking node MQI balance-ratio = 0.5837563 max-ratio = 0.41624364 is balanced
+...Checking node MTS balance-ratio = 0.5837429 max-ratio = 0.5837429 is balanced
+...Tree after rebalancing MTS
+...| | | | | [BAR bar_IBfL6Ovg] wt: 1740.0
+...| | | | (CSH) wt: 2602.0 maxWt: 1740.0
+...| | | | | [CSH csh_9mAyB] wt: 862.0
+...| | | (FOC) wt: 3214.0 maxWt: 1740.0
+...| | | | [FOC foc_jvNRcH] wt: 612.0
+...| | (GKC) wt: 5179.0 maxWt: 1965.0
+...| | | [GKC gkc_eaIApDjjo] wt: 1965.0
+...| (HJO) wt: 10702.0 maxWt: 1965.0
+...| | | | | [HJO hjo_nxJt] wt: 243.0
+...| | | | (IIE) wt: 1209.0 maxWt: 966.0
+...| | | | | [IIE iie_3nEVTzFQCF] wt: 966.0
+...| | | (JIX) wt: 4038.0 maxWt: 1423.0
+...| | | | | [JIX jix_aZO60] wt: 1406.0
+...| | | | (LJH) wt: 2829.0 maxWt: 1423.0
+...| | | | | [LJH ljh_oZLzAfA] wt: 1423.0
+...| | (LPM) wt: 5523.0 maxWt: 1485.0
+...| | | [LPM lpm_BD0c4yBMR] wt: 1485.0
+...(MCB) wt: 26984.0 maxWt: 1965.0
+...| | | | [MCB mcb_F] wt: 1886.0
+...| | | (MQI) wt: 4531.0 maxWt: 1886.0
+...| | | | | [MQI mqi_5lxN9SeLEj] wt: 1101.0
+...| | | | (MTS) wt: 2645.0 maxWt: 1544.0
+...| | | | | [MTS mts_k] wt: 1544.0
+...| | (NJP) wt: 7064.0 maxWt: 1886.0
+...| | | | [NJP njp_n2H] wt: 123.0
+...| | | (NWN) wt: 2533.0 maxWt: 1370.0
+...| | | | | [NWN nwn_5uAJ] wt: 1370.0
+...| | | | (OGE) wt: 2410.0 maxWt: 1370.0
+...| | | | | [OGE oge_wcAwrPSn] wt: 1040.0
+...| (QWN) wt: 16282.0 maxWt: 1934.0
+...| | | | | [QWN qwn_gkIz-LUi3V] wt: 1224.0
+...| | | | (RNF) wt: 2508.0 maxWt: 1284.0
+...| | | | | [RNF rnf_k] wt: 1284.0
+...| | | (UXH) wt: 4701.0 maxWt: 1786.0
+...| | | | | [UXH uxh_kMyU8v] wt: 407.0
+...| | | | (VHT) wt: 2193.0 maxWt: 1786.0
+...| | | | | [VHT vht_jQKD-8J] wt: 1786.0
+...| | (VRM) wt: 9218.0 maxWt: 1934.0
+...| | | | | | [VRM vrm_1WArw6Xp8] wt: 1004.0
+...| | | | | (WQZ) wt: 1693.0 maxWt: 1004.0
+...| | | | | | [WQZ wqz_3r qmm] wt: 689.0
+...| | | | (XGM) wt: 2583.0 maxWt: 1004.0
+...| | | | | | [XGM xgm_Q3z3v] wt: 14.0
+...| | | | | (ZNC) wt: 890.0 maxWt: 876.0
+...| | | | | | [ZNC znc_Nes-] wt: 876.0
+...| | | (ZVP) wt: 4517.0 maxWt: 1934.0
+...| | | | [ZVP zvp_Ti] wt: 1934.0
+insert(MTS): successful {mts_JgyrnDeuqKTcT2gJ-glcBzH6, mts_k, FToqGTnZHQyN, (144.56088,-31.46051)} wt: 1544.0
+...Inserting ZPB wt: 1152.0
+...Tree after insertion and before rebalancing ZPB
+...| | | | | [BAR bar_IBfL6Ovg] wt: 1740.0
+...| | | | (CSH) wt: 2602.0 maxWt: 1740.0
+...| | | | | [CSH csh_9mAyB] wt: 862.0
+...| | | (FOC) wt: 3214.0 maxWt: 1740.0
+...| | | | [FOC foc_jvNRcH] wt: 612.0
+...| | (GKC) wt: 5179.0 maxWt: 1965.0
+...| | | [GKC gkc_eaIApDjjo] wt: 1965.0
+...| (HJO) wt: 10702.0 maxWt: 1965.0
+...| | | | | [HJO hjo_nxJt] wt: 243.0
+...| | | | (IIE) wt: 1209.0 maxWt: 966.0
+...| | | | | [IIE iie_3nEVTzFQCF] wt: 966.0
+...| | | (JIX) wt: 4038.0 maxWt: 1423.0
+...| | | | | [JIX jix_aZO60] wt: 1406.0
+...| | | | (LJH) wt: 2829.0 maxWt: 1423.0
+...| | | | | [LJH ljh_oZLzAfA] wt: 1423.0
+...| | (LPM) wt: 5523.0 maxWt: 1485.0
+...| | | [LPM lpm_BD0c4yBMR] wt: 1485.0
+...(MCB) wt: 28136.0 maxWt: 1965.0
+...| | | | [MCB mcb_F] wt: 1886.0
+...| | | (MQI) wt: 4531.0 maxWt: 1886.0
+...| | | | | [MQI mqi_5lxN9SeLEj] wt: 1101.0
+...| | | | (MTS) wt: 2645.0 maxWt: 1544.0
+...| | | | | [MTS mts_k] wt: 1544.0
+...| | (NJP) wt: 7064.0 maxWt: 1886.0
+...| | | | [NJP njp_n2H] wt: 123.0
+...| | | (NWN) wt: 2533.0 maxWt: 1370.0
+...| | | | | [NWN nwn_5uAJ] wt: 1370.0
+...| | | | (OGE) wt: 2410.0 maxWt: 1370.0
+...| | | | | [OGE oge_wcAwrPSn] wt: 1040.0
+...| (QWN) wt: 17434.0 maxWt: 1934.0
+...| | | | | [QWN qwn_gkIz-LUi3V] wt: 1224.0
+...| | | | (RNF) wt: 2508.0 maxWt: 1284.0
+...| | | | | [RNF rnf_k] wt: 1284.0
+...| | | (UXH) wt: 4701.0 maxWt: 1786.0
+...| | | | | [UXH uxh_kMyU8v] wt: 407.0
+...| | | | (VHT) wt: 2193.0 maxWt: 1786.0
+...| | | | | [VHT vht_jQKD-8J] wt: 1786.0
+...| | (VRM) wt: 10370.0 maxWt: 1934.0
+...| | | | | | [VRM vrm_1WArw6Xp8] wt: 1004.0
+...| | | | | (WQZ) wt: 1693.0 maxWt: 1004.0
+...| | | | | | [WQZ wqz_3r qmm] wt: 689.0
+...| | | | (XGM) wt: 3735.0 maxWt: 1152.0
+...| | | | | | [XGM xgm_Q3z3v] wt: 14.0
+...| | | | | (ZNC) wt: 2042.0 maxWt: 1152.0
+...| | | | | | | [ZNC znc_Nes-] wt: 876.0
+...| | | | | | (ZPB) wt: 2028.0 maxWt: 1152.0
+...| | | | | | | [ZPB zpb_g] wt: 1152.0
+...| | | (ZVP) wt: 5669.0 maxWt: 1934.0
+...| | | | [ZVP zvp_Ti] wt: 1934.0
+...Checking node MCB balance-ratio = 0.6196332 max-ratio = 0.06983935 is balanced
+...Checking node QWN balance-ratio = 0.5948147 max-ratio = 0.11093266 is balanced
+...Checking node VRM balance-ratio = 0.5466731 max-ratio = 0.18649952 is balanced
+...Checking node ZVP balance-ratio = 0.6588464 max-ratio = 0.34115365 is balanced
+...Checking node XGM balance-ratio = 0.5467202 max-ratio = 0.30843374 is balanced
+...Checking node ZNC balance-ratio = 0.993144 max-ratio = 0.5641528 is balanced
+...Checking node ZPB balance-ratio = 0.56804734 max-ratio = 0.56804734 is balanced
+...Tree after rebalancing ZPB
+...| | | | | [BAR bar_IBfL6Ovg] wt: 1740.0
+...| | | | (CSH) wt: 2602.0 maxWt: 1740.0
+...| | | | | [CSH csh_9mAyB] wt: 862.0
+...| | | (FOC) wt: 3214.0 maxWt: 1740.0
+...| | | | [FOC foc_jvNRcH] wt: 612.0
+...| | (GKC) wt: 5179.0 maxWt: 1965.0
+...| | | [GKC gkc_eaIApDjjo] wt: 1965.0
+...| (HJO) wt: 10702.0 maxWt: 1965.0
+...| | | | | [HJO hjo_nxJt] wt: 243.0
+...| | | | (IIE) wt: 1209.0 maxWt: 966.0
+...| | | | | [IIE iie_3nEVTzFQCF] wt: 966.0
+...| | | (JIX) wt: 4038.0 maxWt: 1423.0
+...| | | | | [JIX jix_aZO60] wt: 1406.0
+...| | | | (LJH) wt: 2829.0 maxWt: 1423.0
+...| | | | | [LJH ljh_oZLzAfA] wt: 1423.0
+...| | (LPM) wt: 5523.0 maxWt: 1485.0
+...| | | [LPM lpm_BD0c4yBMR] wt: 1485.0
+...(MCB) wt: 28136.0 maxWt: 1965.0
+...| | | | [MCB mcb_F] wt: 1886.0
+...| | | (MQI) wt: 4531.0 maxWt: 1886.0
+...| | | | | [MQI mqi_5lxN9SeLEj] wt: 1101.0
+...| | | | (MTS) wt: 2645.0 maxWt: 1544.0
+...| | | | | [MTS mts_k] wt: 1544.0
+...| | (NJP) wt: 7064.0 maxWt: 1886.0
+...| | | | [NJP njp_n2H] wt: 123.0
+...| | | (NWN) wt: 2533.0 maxWt: 1370.0
+...| | | | | [NWN nwn_5uAJ] wt: 1370.0
+...| | | | (OGE) wt: 2410.0 maxWt: 1370.0
+...| | | | | [OGE oge_wcAwrPSn] wt: 1040.0
+...| (QWN) wt: 17434.0 maxWt: 1934.0
+...| | | | | [QWN qwn_gkIz-LUi3V] wt: 1224.0
+...| | | | (RNF) wt: 2508.0 maxWt: 1284.0
+...| | | | | [RNF rnf_k] wt: 1284.0
+...| | | (UXH) wt: 4701.0 maxWt: 1786.0
+...| | | | | [UXH uxh_kMyU8v] wt: 407.0
+...| | | | (VHT) wt: 2193.0 maxWt: 1786.0
+...| | | | | [VHT vht_jQKD-8J] wt: 1786.0
+...| | (VRM) wt: 10370.0 maxWt: 1934.0
+...| | | | | | [VRM vrm_1WArw6Xp8] wt: 1004.0
+...| | | | | (WQZ) wt: 1693.0 maxWt: 1004.0
+...| | | | | | [WQZ wqz_3r qmm] wt: 689.0
+...| | | | (XGM) wt: 3735.0 maxWt: 1152.0
+...| | | | | | [XGM xgm_Q3z3v] wt: 14.0
+...| | | | | (ZNC) wt: 2042.0 maxWt: 1152.0
+...| | | | | | | [ZNC znc_Nes-] wt: 876.0
+...| | | | | | (ZPB) wt: 2028.0 maxWt: 1152.0
+...| | | | | | | [ZPB zpb_g] wt: 1152.0
+...| | | (ZVP) wt: 5669.0 maxWt: 1934.0
+...| | | | [ZVP zvp_Ti] wt: 1934.0
+insert(ZPB): successful {zpb_SRFzUzTCje, zpb_g, -zyCA , (66.41252,-27.13741)} wt: 1152.0
+Preorder list:
+  (MCB) wt: 28136.0
+  (HJO) wt: 10702.0
+  (GKC) wt: 5179.0
+  (FOC) wt: 3214.0
+  (CSH) wt: 2602.0
+  [BAR bar_IBfL6Ovg] wt: 1740.0
+  [CSH csh_9mAyB] wt: 862.0
+  [FOC foc_jvNRcH] wt: 612.0
+  [GKC gkc_eaIApDjjo] wt: 1965.0
+  (LPM) wt: 5523.0
+  (JIX) wt: 4038.0
+  (IIE) wt: 1209.0
+  [HJO hjo_nxJt] wt: 243.0
+  [IIE iie_3nEVTzFQCF] wt: 966.0
+  (LJH) wt: 2829.0
+  [JIX jix_aZO60] wt: 1406.0
+  [LJH ljh_oZLzAfA] wt: 1423.0
+  [LPM lpm_BD0c4yBMR] wt: 1485.0
+  (QWN) wt: 17434.0
+  (NJP) wt: 7064.0
+  (MQI) wt: 4531.0
+  [MCB mcb_F] wt: 1886.0
+  (MTS) wt: 2645.0
+  [MQI mqi_5lxN9SeLEj] wt: 1101.0
+  [MTS mts_k] wt: 1544.0
+  (NWN) wt: 2533.0
+  [NJP njp_n2H] wt: 123.0
+  (OGE) wt: 2410.0
+  [NWN nwn_5uAJ] wt: 1370.0
+  [OGE oge_wcAwrPSn] wt: 1040.0
+  (VRM) wt: 10370.0
+  (UXH) wt: 4701.0
+  (RNF) wt: 2508.0
+  [QWN qwn_gkIz-LUi3V] wt: 1224.0
+  [RNF rnf_k] wt: 1284.0
+  (VHT) wt: 2193.0
+  [UXH uxh_kMyU8v] wt: 407.0
+  [VHT vht_jQKD-8J] wt: 1786.0
+  (ZVP) wt: 5669.0
+  (XGM) wt: 3735.0
+  (WQZ) wt: 1693.0
+  [VRM vrm_1WArw6Xp8] wt: 1004.0
+  [WQZ wqz_3r qmm] wt: 689.0
+  (ZNC) wt: 2042.0
+  [XGM xgm_Q3z3v] wt: 14.0
+  (ZPB) wt: 2028.0
+  [ZNC znc_Nes-] wt: 876.0
+  [ZPB zpb_g] wt: 1152.0
+  [ZVP zvp_Ti] wt: 1934.0
+Tree structure:
+  | | | | | [BAR bar_IBfL6Ovg] wt: 1740.0
+  | | | | (CSH) wt: 2602.0
+  | | | | | [CSH csh_9mAyB] wt: 862.0
+  | | | (FOC) wt: 3214.0
+  | | | | [FOC foc_jvNRcH] wt: 612.0
+  | | (GKC) wt: 5179.0
+  | | | [GKC gkc_eaIApDjjo] wt: 1965.0
+  | (HJO) wt: 10702.0
+  | | | | | [HJO hjo_nxJt] wt: 243.0
+  | | | | (IIE) wt: 1209.0
+  | | | | | [IIE iie_3nEVTzFQCF] wt: 966.0
+  | | | (JIX) wt: 4038.0
+  | | | | | [JIX jix_aZO60] wt: 1406.0
+  | | | | (LJH) wt: 2829.0
+  | | | | | [LJH ljh_oZLzAfA] wt: 1423.0
+  | | (LPM) wt: 5523.0
+  | | | [LPM lpm_BD0c4yBMR] wt: 1485.0
+  (MCB) wt: 28136.0
+  | | | | [MCB mcb_F] wt: 1886.0
+  | | | (MQI) wt: 4531.0
+  | | | | | [MQI mqi_5lxN9SeLEj] wt: 1101.0
+  | | | | (MTS) wt: 2645.0
+  | | | | | [MTS mts_k] wt: 1544.0
+  | | (NJP) wt: 7064.0
+  | | | | [NJP njp_n2H] wt: 123.0
+  | | | (NWN) wt: 2533.0
+  | | | | | [NWN nwn_5uAJ] wt: 1370.0
+  | | | | (OGE) wt: 2410.0
+  | | | | | [OGE oge_wcAwrPSn] wt: 1040.0
+  | (QWN) wt: 17434.0
+  | | | | | [QWN qwn_gkIz-LUi3V] wt: 1224.0
+  | | | | (RNF) wt: 2508.0
+  | | | | | [RNF rnf_k] wt: 1284.0
+  | | | (UXH) wt: 4701.0
+  | | | | | [UXH uxh_kMyU8v] wt: 407.0
+  | | | | (VHT) wt: 2193.0
+  | | | | | [VHT vht_jQKD-8J] wt: 1786.0
+  | | (VRM) wt: 10370.0
+  | | | | | | [VRM vrm_1WArw6Xp8] wt: 1004.0
+  | | | | | (WQZ) wt: 1693.0
+  | | | | | | [WQZ wqz_3r qmm] wt: 689.0
+  | | | | (XGM) wt: 3735.0
+  | | | | | | [XGM xgm_Q3z3v] wt: 14.0
+  | | | | | (ZNC) wt: 2042.0
+  | | | | | | | [ZNC znc_Nes-] wt: 876.0
+  | | | | | | (ZPB) wt: 2028.0
+  | | | | | | | [ZPB zpb_g] wt: 1152.0
+  | | | (ZVP) wt: 5669.0
+  | | | | [ZVP zvp_Ti] wt: 1934.0
+Tree: Deleting MQI
+...Tree after deletion and before rebalancing MQI
+...| | | | | [BAR bar_IBfL6Ovg] wt: 1740.0
+...| | | | (CSH) wt: 2602.0 maxWt: 1740.0
+...| | | | | [CSH csh_9mAyB] wt: 862.0
+...| | | (FOC) wt: 3214.0 maxWt: 1740.0
+...| | | | [FOC foc_jvNRcH] wt: 612.0
+...| | (GKC) wt: 5179.0 maxWt: 1965.0
+...| | | [GKC gkc_eaIApDjjo] wt: 1965.0
+...| (HJO) wt: 10702.0 maxWt: 1965.0
+...| | | | | [HJO hjo_nxJt] wt: 243.0
+...| | | | (IIE) wt: 1209.0 maxWt: 966.0
+...| | | | | [IIE iie_3nEVTzFQCF] wt: 966.0
+...| | | (JIX) wt: 4038.0 maxWt: 1423.0
+...| | | | | [JIX jix_aZO60] wt: 1406.0
+...| | | | (LJH) wt: 2829.0 maxWt: 1423.0
+...| | | | | [LJH ljh_oZLzAfA] wt: 1423.0
+...| | (LPM) wt: 5523.0 maxWt: 1485.0
+...| | | [LPM lpm_BD0c4yBMR] wt: 1485.0
+...(MCB) wt: 27035.0 maxWt: 1965.0
+...| | | | [MCB mcb_F] wt: 1886.0
+...| | | (MQI) wt: 3430.0 maxWt: 1886.0
+...| | | | [MTS mts_k] wt: 1544.0
+...| | (NJP) wt: 5963.0 maxWt: 1886.0
+...| | | | [NJP njp_n2H] wt: 123.0
+...| | | (NWN) wt: 2533.0 maxWt: 1370.0
+...| | | | | [NWN nwn_5uAJ] wt: 1370.0
+...| | | | (OGE) wt: 2410.0 maxWt: 1370.0
+...| | | | | [OGE oge_wcAwrPSn] wt: 1040.0
+...| (QWN) wt: 16333.0 maxWt: 1934.0
+...| | | | | [QWN qwn_gkIz-LUi3V] wt: 1224.0
+...| | | | (RNF) wt: 2508.0 maxWt: 1284.0
+...| | | | | [RNF rnf_k] wt: 1284.0
+...| | | (UXH) wt: 4701.0 maxWt: 1786.0
+...| | | | | [UXH uxh_kMyU8v] wt: 407.0
+...| | | | (VHT) wt: 2193.0 maxWt: 1786.0
+...| | | | | [VHT vht_jQKD-8J] wt: 1786.0
+...| | (VRM) wt: 10370.0 maxWt: 1934.0
+...| | | | | | [VRM vrm_1WArw6Xp8] wt: 1004.0
+...| | | | | (WQZ) wt: 1693.0 maxWt: 1004.0
+...| | | | | | [WQZ wqz_3r qmm] wt: 689.0
+...| | | | (XGM) wt: 3735.0 maxWt: 1152.0
+...| | | | | | [XGM xgm_Q3z3v] wt: 14.0
+...| | | | | (ZNC) wt: 2042.0 maxWt: 1152.0
+...| | | | | | | [ZNC znc_Nes-] wt: 876.0
+...| | | | | | (ZPB) wt: 2028.0 maxWt: 1152.0
+...| | | | | | | [ZPB zpb_g] wt: 1152.0
+...| | | (ZVP) wt: 5669.0 maxWt: 1934.0
+...| | | | [ZVP zvp_Ti] wt: 1934.0
+...Checking node MCB balance-ratio = 0.6041428 max-ratio = 0.07268356 is balanced
+...Checking node QWN balance-ratio = 0.63491094 max-ratio = 0.11841058 is balanced
+...Checking node NJP balance-ratio = 0.5752138 max-ratio = 0.31628376 is balanced
+...Checking node MQI balance-ratio = 0.5498542 max-ratio = 0.5498542 is balanced
+...Tree after rebalancing MQI
+...| | | | | [BAR bar_IBfL6Ovg] wt: 1740.0
+...| | | | (CSH) wt: 2602.0 maxWt: 1740.0
+...| | | | | [CSH csh_9mAyB] wt: 862.0
+...| | | (FOC) wt: 3214.0 maxWt: 1740.0
+...| | | | [FOC foc_jvNRcH] wt: 612.0
+...| | (GKC) wt: 5179.0 maxWt: 1965.0
+...| | | [GKC gkc_eaIApDjjo] wt: 1965.0
+...| (HJO) wt: 10702.0 maxWt: 1965.0
+...| | | | | [HJO hjo_nxJt] wt: 243.0
+...| | | | (IIE) wt: 1209.0 maxWt: 966.0
+...| | | | | [IIE iie_3nEVTzFQCF] wt: 966.0
+...| | | (JIX) wt: 4038.0 maxWt: 1423.0
+...| | | | | [JIX jix_aZO60] wt: 1406.0
+...| | | | (LJH) wt: 2829.0 maxWt: 1423.0
+...| | | | | [LJH ljh_oZLzAfA] wt: 1423.0
+...| | (LPM) wt: 5523.0 maxWt: 1485.0
+...| | | [LPM lpm_BD0c4yBMR] wt: 1485.0
+...(MCB) wt: 27035.0 maxWt: 1965.0
+...| | | | [MCB mcb_F] wt: 1886.0
+...| | | (MQI) wt: 3430.0 maxWt: 1886.0
+...| | | | [MTS mts_k] wt: 1544.0
+...| | (NJP) wt: 5963.0 maxWt: 1886.0
+...| | | | [NJP njp_n2H] wt: 123.0
+...| | | (NWN) wt: 2533.0 maxWt: 1370.0
+...| | | | | [NWN nwn_5uAJ] wt: 1370.0
+...| | | | (OGE) wt: 2410.0 maxWt: 1370.0
+...| | | | | [OGE oge_wcAwrPSn] wt: 1040.0
+...| (QWN) wt: 16333.0 maxWt: 1934.0
+...| | | | | [QWN qwn_gkIz-LUi3V] wt: 1224.0
+...| | | | (RNF) wt: 2508.0 maxWt: 1284.0
+...| | | | | [RNF rnf_k] wt: 1284.0
+...| | | (UXH) wt: 4701.0 maxWt: 1786.0
+...| | | | | [UXH uxh_kMyU8v] wt: 407.0
+...| | | | (VHT) wt: 2193.0 maxWt: 1786.0
+...| | | | | [VHT vht_jQKD-8J] wt: 1786.0
+...| | (VRM) wt: 10370.0 maxWt: 1934.0
+...| | | | | | [VRM vrm_1WArw6Xp8] wt: 1004.0
+...| | | | | (WQZ) wt: 1693.0 maxWt: 1004.0
+...| | | | | | [WQZ wqz_3r qmm] wt: 689.0
+...| | | | (XGM) wt: 3735.0 maxWt: 1152.0
+...| | | | | | [XGM xgm_Q3z3v] wt: 14.0
+...| | | | | (ZNC) wt: 2042.0 maxWt: 1152.0
+...| | | | | | | [ZNC znc_Nes-] wt: 876.0
+...| | | | | | (ZPB) wt: 2028.0 maxWt: 1152.0
+...| | | | | | | [ZPB zpb_g] wt: 1152.0
+...| | | (ZVP) wt: 5669.0 maxWt: 1934.0
+...| | | | [ZVP zvp_Ti] wt: 1934.0
+delete(MQI): successful
+delete(DEL): failure - nonexistent code
+Tree: Deleting HJO
+...Tree after deletion and before rebalancing HJO
+...| | | | | [BAR bar_IBfL6Ovg] wt: 1740.0
+...| | | | (CSH) wt: 2602.0 maxWt: 1740.0
+...| | | | | [CSH csh_9mAyB] wt: 862.0
+...| | | (FOC) wt: 3214.0 maxWt: 1740.0
+...| | | | [FOC foc_jvNRcH] wt: 612.0
+...| | (GKC) wt: 5179.0 maxWt: 1965.0
+...| | | [GKC gkc_eaIApDjjo] wt: 1965.0
+...| (HJO) wt: 10459.0 maxWt: 1965.0
+...| | | | [IIE iie_3nEVTzFQCF] wt: 966.0
+...| | | (JIX) wt: 3795.0 maxWt: 1423.0
+...| | | | | [JIX jix_aZO60] wt: 1406.0
+...| | | | (LJH) wt: 2829.0 maxWt: 1423.0
+...| | | | | [LJH ljh_oZLzAfA] wt: 1423.0
+...| | (LPM) wt: 5280.0 maxWt: 1485.0
+...| | | [LPM lpm_BD0c4yBMR] wt: 1485.0
+...(MCB) wt: 26792.0 maxWt: 1965.0
+...| | | | [MCB mcb_F] wt: 1886.0
+...| | | (MQI) wt: 3430.0 maxWt: 1886.0
+...| | | | [MTS mts_k] wt: 1544.0
+...| | (NJP) wt: 5963.0 maxWt: 1886.0
+...| | | | [NJP njp_n2H] wt: 123.0
+...| | | (NWN) wt: 2533.0 maxWt: 1370.0
+...| | | | | [NWN nwn_5uAJ] wt: 1370.0
+...| | | | (OGE) wt: 2410.0 maxWt: 1370.0
+...| | | | | [OGE oge_wcAwrPSn] wt: 1040.0
+...| (QWN) wt: 16333.0 maxWt: 1934.0
+...| | | | | [QWN qwn_gkIz-LUi3V] wt: 1224.0
+...| | | | (RNF) wt: 2508.0 maxWt: 1284.0
+...| | | | | [RNF rnf_k] wt: 1284.0
+...| | | (UXH) wt: 4701.0 maxWt: 1786.0
+...| | | | | [UXH uxh_kMyU8v] wt: 407.0
+...| | | | (VHT) wt: 2193.0 maxWt: 1786.0
+...| | | | | [VHT vht_jQKD-8J] wt: 1786.0
+...| | (VRM) wt: 10370.0 maxWt: 1934.0
+...| | | | | | [VRM vrm_1WArw6Xp8] wt: 1004.0
+...| | | | | (WQZ) wt: 1693.0 maxWt: 1004.0
+...| | | | | | [WQZ wqz_3r qmm] wt: 689.0
+...| | | | (XGM) wt: 3735.0 maxWt: 1152.0
+...| | | | | | [XGM xgm_Q3z3v] wt: 14.0
+...| | | | | (ZNC) wt: 2042.0 maxWt: 1152.0
+...| | | | | | | [ZNC znc_Nes-] wt: 876.0
+...| | | | | | (ZPB) wt: 2028.0 maxWt: 1152.0
+...| | | | | | | [ZPB zpb_g] wt: 1152.0
+...| | | (ZVP) wt: 5669.0 maxWt: 1934.0
+...| | | | [ZVP zvp_Ti] wt: 1934.0
+...Checking node MCB balance-ratio = 0.6096223 max-ratio = 0.073342785 is balanced
+...Checking node HJO balance-ratio = 0.5048284 max-ratio = 0.18787646 is balanced
+...Checking node LPM balance-ratio = 0.71875 max-ratio = 0.28125 is balanced
+...Checking node JIX balance-ratio = 0.74545455 max-ratio = 0.37496707 is balanced
+...Tree after rebalancing HJO
+...| | | | | [BAR bar_IBfL6Ovg] wt: 1740.0
+...| | | | (CSH) wt: 2602.0 maxWt: 1740.0
+...| | | | | [CSH csh_9mAyB] wt: 862.0
+...| | | (FOC) wt: 3214.0 maxWt: 1740.0
+...| | | | [FOC foc_jvNRcH] wt: 612.0
+...| | (GKC) wt: 5179.0 maxWt: 1965.0
+...| | | [GKC gkc_eaIApDjjo] wt: 1965.0
+...| (HJO) wt: 10459.0 maxWt: 1965.0
+...| | | | [IIE iie_3nEVTzFQCF] wt: 966.0
+...| | | (JIX) wt: 3795.0 maxWt: 1423.0
+...| | | | | [JIX jix_aZO60] wt: 1406.0
+...| | | | (LJH) wt: 2829.0 maxWt: 1423.0
+...| | | | | [LJH ljh_oZLzAfA] wt: 1423.0
+...| | (LPM) wt: 5280.0 maxWt: 1485.0
+...| | | [LPM lpm_BD0c4yBMR] wt: 1485.0
+...(MCB) wt: 26792.0 maxWt: 1965.0
+...| | | | [MCB mcb_F] wt: 1886.0
+...| | | (MQI) wt: 3430.0 maxWt: 1886.0
+...| | | | [MTS mts_k] wt: 1544.0
+...| | (NJP) wt: 5963.0 maxWt: 1886.0
+...| | | | [NJP njp_n2H] wt: 123.0
+...| | | (NWN) wt: 2533.0 maxWt: 1370.0
+...| | | | | [NWN nwn_5uAJ] wt: 1370.0
+...| | | | (OGE) wt: 2410.0 maxWt: 1370.0
+...| | | | | [OGE oge_wcAwrPSn] wt: 1040.0
+...| (QWN) wt: 16333.0 maxWt: 1934.0
+...| | | | | [QWN qwn_gkIz-LUi3V] wt: 1224.0
+...| | | | (RNF) wt: 2508.0 maxWt: 1284.0
+...| | | | | [RNF rnf_k] wt: 1284.0
+...| | | (UXH) wt: 4701.0 maxWt: 1786.0
+...| | | | | [UXH uxh_kMyU8v] wt: 407.0
+...| | | | (VHT) wt: 2193.0 maxWt: 1786.0
+...| | | | | [VHT vht_jQKD-8J] wt: 1786.0
+...| | (VRM) wt: 10370.0 maxWt: 1934.0
+...| | | | | | [VRM vrm_1WArw6Xp8] wt: 1004.0
+...| | | | | (WQZ) wt: 1693.0 maxWt: 1004.0
+...| | | | | | [WQZ wqz_3r qmm] wt: 689.0
+...| | | | (XGM) wt: 3735.0 maxWt: 1152.0
+...| | | | | | [XGM xgm_Q3z3v] wt: 14.0
+...| | | | | (ZNC) wt: 2042.0 maxWt: 1152.0
+...| | | | | | | [ZNC znc_Nes-] wt: 876.0
+...| | | | | | (ZPB) wt: 2028.0 maxWt: 1152.0
+...| | | | | | | [ZPB zpb_g] wt: 1152.0
+...| | | (ZVP) wt: 5669.0 maxWt: 1934.0
+...| | | | [ZVP zvp_Ti] wt: 1934.0
+delete(HJO): successful
+Tree: Deleting OGE
+...Tree after deletion and before rebalancing OGE
+...| | | | | [BAR bar_IBfL6Ovg] wt: 1740.0
+...| | | | (CSH) wt: 2602.0 maxWt: 1740.0
+...| | | | | [CSH csh_9mAyB] wt: 862.0
+...| | | (FOC) wt: 3214.0 maxWt: 1740.0
+...| | | | [FOC foc_jvNRcH] wt: 612.0
+...| | (GKC) wt: 5179.0 maxWt: 1965.0
+...| | | [GKC gkc_eaIApDjjo] wt: 1965.0
+...| (HJO) wt: 10459.0 maxWt: 1965.0
+...| | | | [IIE iie_3nEVTzFQCF] wt: 966.0
+...| | | (JIX) wt: 3795.0 maxWt: 1423.0
+...| | | | | [JIX jix_aZO60] wt: 1406.0
+...| | | | (LJH) wt: 2829.0 maxWt: 1423.0
+...| | | | | [LJH ljh_oZLzAfA] wt: 1423.0
+...| | (LPM) wt: 5280.0 maxWt: 1485.0
+...| | | [LPM lpm_BD0c4yBMR] wt: 1485.0
+...(MCB) wt: 25752.0 maxWt: 1965.0
+...| | | | [MCB mcb_F] wt: 1886.0
+...| | | (MQI) wt: 3430.0 maxWt: 1886.0
+...| | | | [MTS mts_k] wt: 1544.0
+...| | (NJP) wt: 4923.0 maxWt: 1886.0
+...| | | | [NJP njp_n2H] wt: 123.0
+...| | | (NWN) wt: 1493.0 maxWt: 1370.0
+...| | | | [NWN nwn_5uAJ] wt: 1370.0
+...| (QWN) wt: 15293.0 maxWt: 1934.0
+...| | | | | [QWN qwn_gkIz-LUi3V] wt: 1224.0
+...| | | | (RNF) wt: 2508.0 maxWt: 1284.0
+...| | | | | [RNF rnf_k] wt: 1284.0
+...| | | (UXH) wt: 4701.0 maxWt: 1786.0
+...| | | | | [UXH uxh_kMyU8v] wt: 407.0
+...| | | | (VHT) wt: 2193.0 maxWt: 1786.0
+...| | | | | [VHT vht_jQKD-8J] wt: 1786.0
+...| | (VRM) wt: 10370.0 maxWt: 1934.0
+...| | | | | | [VRM vrm_1WArw6Xp8] wt: 1004.0
+...| | | | | (WQZ) wt: 1693.0 maxWt: 1004.0
+...| | | | | | [WQZ wqz_3r qmm] wt: 689.0
+...| | | | (XGM) wt: 3735.0 maxWt: 1152.0
+...| | | | | | [XGM xgm_Q3z3v] wt: 14.0
+...| | | | | (ZNC) wt: 2042.0 maxWt: 1152.0
+...| | | | | | | [ZNC znc_Nes-] wt: 876.0
+...| | | | | | (ZPB) wt: 2028.0 maxWt: 1152.0
+...| | | | | | | [ZPB zpb_g] wt: 1152.0
+...| | | (ZVP) wt: 5669.0 maxWt: 1934.0
+...| | | | [ZVP zvp_Ti] wt: 1934.0
+...Checking node MCB balance-ratio = 0.5938568 max-ratio = 0.076304756 is balanced
+...Checking node QWN balance-ratio = 0.678088 max-ratio = 0.12646309 !!! Fails balance conditions !!!
+...Rebuilding subtree at node QWN
+...Rebuilt subtree:
+...| | | [MCB mcb_F] wt: 1886.0
+...| | (MTS) wt: 3553.0 maxWt: 1886.0
+...| | | | [MTS mts_k] wt: 1544.0
+...| | | (NJP) wt: 1667.0 maxWt: 1544.0
+...| | | | [NJP njp_n2H] wt: 123.0
+...| (NWN) wt: 7838.0 maxWt: 1886.0
+...| | | | [NWN nwn_5uAJ] wt: 1370.0
+...| | | (QWN) wt: 2594.0 maxWt: 1370.0
+...| | | | [QWN qwn_gkIz-LUi3V] wt: 1224.0
+...| | (RNF) wt: 4285.0 maxWt: 1370.0
+...| | | | [RNF rnf_k] wt: 1284.0
+...| | | (UXH) wt: 1691.0 maxWt: 1284.0
+...| | | | [UXH uxh_kMyU8v] wt: 407.0
+...(VHT) wt: 15293.0 maxWt: 1934.0
+...| | | [VHT vht_jQKD-8J] wt: 1786.0
+...| | (VRM) wt: 3493.0 maxWt: 1786.0
+...| | | | [VRM vrm_1WArw6Xp8] wt: 1004.0
+...| | | (WQZ) wt: 1707.0 maxWt: 1004.0
+...| | | | | [WQZ wqz_3r qmm] wt: 689.0
+...| | | | (XGM) wt: 703.0 maxWt: 689.0
+...| | | | | [XGM xgm_Q3z3v] wt: 14.0
+...| (ZNC) wt: 7455.0 maxWt: 1934.0
+...| | | | [ZNC znc_Nes-] wt: 876.0
+...| | | (ZPB) wt: 2028.0 maxWt: 1152.0
+...| | | | [ZPB zpb_g] wt: 1152.0
+...| | (ZVP) wt: 3962.0 maxWt: 1934.0
+...| | | [ZVP zvp_Ti] wt: 1934.0
+...Tree after rebalancing OGE
+...| | | | | [BAR bar_IBfL6Ovg] wt: 1740.0
+...| | | | (CSH) wt: 2602.0 maxWt: 1740.0
+...| | | | | [CSH csh_9mAyB] wt: 862.0
+...| | | (FOC) wt: 3214.0 maxWt: 1740.0
+...| | | | [FOC foc_jvNRcH] wt: 612.0
+...| | (GKC) wt: 5179.0 maxWt: 1965.0
+...| | | [GKC gkc_eaIApDjjo] wt: 1965.0
+...| (HJO) wt: 10459.0 maxWt: 1965.0
+...| | | | [IIE iie_3nEVTzFQCF] wt: 966.0
+...| | | (JIX) wt: 3795.0 maxWt: 1423.0
+...| | | | | [JIX jix_aZO60] wt: 1406.0
+...| | | | (LJH) wt: 2829.0 maxWt: 1423.0
+...| | | | | [LJH ljh_oZLzAfA] wt: 1423.0
+...| | (LPM) wt: 5280.0 maxWt: 1485.0
+...| | | [LPM lpm_BD0c4yBMR] wt: 1485.0
+...(MCB) wt: 25752.0 maxWt: 1965.0
+...| | | | [MCB mcb_F] wt: 1886.0
+...| | | (MTS) wt: 3553.0 maxWt: 1886.0
+...| | | | | [MTS mts_k] wt: 1544.0
+...| | | | (NJP) wt: 1667.0 maxWt: 1544.0
+...| | | | | [NJP njp_n2H] wt: 123.0
+...| | (NWN) wt: 7838.0 maxWt: 1886.0
+...| | | | | [NWN nwn_5uAJ] wt: 1370.0
+...| | | | (QWN) wt: 2594.0 maxWt: 1370.0
+...| | | | | [QWN qwn_gkIz-LUi3V] wt: 1224.0
+...| | | (RNF) wt: 4285.0 maxWt: 1370.0
+...| | | | | [RNF rnf_k] wt: 1284.0
+...| | | | (UXH) wt: 1691.0 maxWt: 1284.0
+...| | | | | [UXH uxh_kMyU8v] wt: 407.0
+...| (VHT) wt: 15293.0 maxWt: 1934.0
+...| | | | [VHT vht_jQKD-8J] wt: 1786.0
+...| | | (VRM) wt: 3493.0 maxWt: 1786.0
+...| | | | | [VRM vrm_1WArw6Xp8] wt: 1004.0
+...| | | | (WQZ) wt: 1707.0 maxWt: 1004.0
+...| | | | | | [WQZ wqz_3r qmm] wt: 689.0
+...| | | | | (XGM) wt: 703.0 maxWt: 689.0
+...| | | | | | [XGM xgm_Q3z3v] wt: 14.0
+...| | (ZNC) wt: 7455.0 maxWt: 1934.0
+...| | | | | [ZNC znc_Nes-] wt: 876.0
+...| | | | (ZPB) wt: 2028.0 maxWt: 1152.0
+...| | | | | [ZPB zpb_g] wt: 1152.0
+...| | | (ZVP) wt: 3962.0 maxWt: 1934.0
+...| | | | [ZVP zvp_Ti] wt: 1934.0
+delete(OGE): successful
+Tree: Deleting FOC
+...Tree after deletion and before rebalancing FOC
+...| | | | [BAR bar_IBfL6Ovg] wt: 1740.0
+...| | | (CSH) wt: 2602.0 maxWt: 1740.0
+...| | | | [CSH csh_9mAyB] wt: 862.0
+...| | (GKC) wt: 4567.0 maxWt: 1965.0
+...| | | [GKC gkc_eaIApDjjo] wt: 1965.0
+...| (HJO) wt: 9847.0 maxWt: 1965.0
+...| | | | [IIE iie_3nEVTzFQCF] wt: 966.0
+...| | | (JIX) wt: 3795.0 maxWt: 1423.0
+...| | | | | [JIX jix_aZO60] wt: 1406.0
+...| | | | (LJH) wt: 2829.0 maxWt: 1423.0
+...| | | | | [LJH ljh_oZLzAfA] wt: 1423.0
+...| | (LPM) wt: 5280.0 maxWt: 1485.0
+...| | | [LPM lpm_BD0c4yBMR] wt: 1485.0
+...(MCB) wt: 25140.0 maxWt: 1965.0
+...| | | | [MCB mcb_F] wt: 1886.0
+...| | | (MTS) wt: 3553.0 maxWt: 1886.0
+...| | | | | [MTS mts_k] wt: 1544.0
+...| | | | (NJP) wt: 1667.0 maxWt: 1544.0
+...| | | | | [NJP njp_n2H] wt: 123.0
+...| | (NWN) wt: 7838.0 maxWt: 1886.0
+...| | | | | [NWN nwn_5uAJ] wt: 1370.0
+...| | | | (QWN) wt: 2594.0 maxWt: 1370.0
+...| | | | | [QWN qwn_gkIz-LUi3V] wt: 1224.0
+...| | | (RNF) wt: 4285.0 maxWt: 1370.0
+...| | | | | [RNF rnf_k] wt: 1284.0
+...| | | | (UXH) wt: 1691.0 maxWt: 1284.0
+...| | | | | [UXH uxh_kMyU8v] wt: 407.0
+...| (VHT) wt: 15293.0 maxWt: 1934.0
+...| | | | [VHT vht_jQKD-8J] wt: 1786.0
+...| | | (VRM) wt: 3493.0 maxWt: 1786.0
+...| | | | | [VRM vrm_1WArw6Xp8] wt: 1004.0
+...| | | | (WQZ) wt: 1707.0 maxWt: 1004.0
+...| | | | | | [WQZ wqz_3r qmm] wt: 689.0
+...| | | | | (XGM) wt: 703.0 maxWt: 689.0
+...| | | | | | [XGM xgm_Q3z3v] wt: 14.0
+...| | (ZNC) wt: 7455.0 maxWt: 1934.0
+...| | | | | [ZNC znc_Nes-] wt: 876.0
+...| | | | (ZPB) wt: 2028.0 maxWt: 1152.0
+...| | | | | [ZPB zpb_g] wt: 1152.0
+...| | | (ZVP) wt: 3962.0 maxWt: 1934.0
+...| | | | [ZVP zvp_Ti] wt: 1934.0
+...Checking node MCB balance-ratio = 0.60831344 max-ratio = 0.07816229 is balanced
+...Checking node HJO balance-ratio = 0.5362039 max-ratio = 0.19955316 is balanced
+...Checking node GKC balance-ratio = 0.56973946 max-ratio = 0.43026057 is balanced
+...Checking node CSH balance-ratio = 0.6687164 max-ratio = 0.6687164 is balanced
+...Tree after rebalancing FOC
+...| | | | [BAR bar_IBfL6Ovg] wt: 1740.0
+...| | | (CSH) wt: 2602.0 maxWt: 1740.0
+...| | | | [CSH csh_9mAyB] wt: 862.0
+...| | (GKC) wt: 4567.0 maxWt: 1965.0
+...| | | [GKC gkc_eaIApDjjo] wt: 1965.0
+...| (HJO) wt: 9847.0 maxWt: 1965.0
+...| | | | [IIE iie_3nEVTzFQCF] wt: 966.0
+...| | | (JIX) wt: 3795.0 maxWt: 1423.0
+...| | | | | [JIX jix_aZO60] wt: 1406.0
+...| | | | (LJH) wt: 2829.0 maxWt: 1423.0
+...| | | | | [LJH ljh_oZLzAfA] wt: 1423.0
+...| | (LPM) wt: 5280.0 maxWt: 1485.0
+...| | | [LPM lpm_BD0c4yBMR] wt: 1485.0
+...(MCB) wt: 25140.0 maxWt: 1965.0
+...| | | | [MCB mcb_F] wt: 1886.0
+...| | | (MTS) wt: 3553.0 maxWt: 1886.0
+...| | | | | [MTS mts_k] wt: 1544.0
+...| | | | (NJP) wt: 1667.0 maxWt: 1544.0
+...| | | | | [NJP njp_n2H] wt: 123.0
+...| | (NWN) wt: 7838.0 maxWt: 1886.0
+...| | | | | [NWN nwn_5uAJ] wt: 1370.0
+...| | | | (QWN) wt: 2594.0 maxWt: 1370.0
+...| | | | | [QWN qwn_gkIz-LUi3V] wt: 1224.0
+...| | | (RNF) wt: 4285.0 maxWt: 1370.0
+...| | | | | [RNF rnf_k] wt: 1284.0
+...| | | | (UXH) wt: 1691.0 maxWt: 1284.0
+...| | | | | [UXH uxh_kMyU8v] wt: 407.0
+...| (VHT) wt: 15293.0 maxWt: 1934.0
+...| | | | [VHT vht_jQKD-8J] wt: 1786.0
+...| | | (VRM) wt: 3493.0 maxWt: 1786.0
+...| | | | | [VRM vrm_1WArw6Xp8] wt: 1004.0
+...| | | | (WQZ) wt: 1707.0 maxWt: 1004.0
+...| | | | | | [WQZ wqz_3r qmm] wt: 689.0
+...| | | | | (XGM) wt: 703.0 maxWt: 689.0
+...| | | | | | [XGM xgm_Q3z3v] wt: 14.0
+...| | (ZNC) wt: 7455.0 maxWt: 1934.0
+...| | | | | [ZNC znc_Nes-] wt: 876.0
+...| | | | (ZPB) wt: 2028.0 maxWt: 1152.0
+...| | | | | [ZPB zpb_g] wt: 1152.0
+...| | | (ZVP) wt: 3962.0 maxWt: 1934.0
+...| | | | [ZVP zvp_Ti] wt: 1934.0
+delete(FOC): successful
+Tree: Deleting ZVP
+...Tree after deletion and before rebalancing ZVP
+...| | | | [BAR bar_IBfL6Ovg] wt: 1740.0
+...| | | (CSH) wt: 2602.0 maxWt: 1740.0
+...| | | | [CSH csh_9mAyB] wt: 862.0
+...| | (GKC) wt: 4567.0 maxWt: 1965.0
+...| | | [GKC gkc_eaIApDjjo] wt: 1965.0
+...| (HJO) wt: 9847.0 maxWt: 1965.0
+...| | | | [IIE iie_3nEVTzFQCF] wt: 966.0
+...| | | (JIX) wt: 3795.0 maxWt: 1423.0
+...| | | | | [JIX jix_aZO60] wt: 1406.0
+...| | | | (LJH) wt: 2829.0 maxWt: 1423.0
+...| | | | | [LJH ljh_oZLzAfA] wt: 1423.0
+...| | (LPM) wt: 5280.0 maxWt: 1485.0
+...| | | [LPM lpm_BD0c4yBMR] wt: 1485.0
+...(MCB) wt: 23206.0 maxWt: 1965.0
+...| | | | [MCB mcb_F] wt: 1886.0
+...| | | (MTS) wt: 3553.0 maxWt: 1886.0
+...| | | | | [MTS mts_k] wt: 1544.0
+...| | | | (NJP) wt: 1667.0 maxWt: 1544.0
+...| | | | | [NJP njp_n2H] wt: 123.0
+...| | (NWN) wt: 7838.0 maxWt: 1886.0
+...| | | | | [NWN nwn_5uAJ] wt: 1370.0
+...| | | | (QWN) wt: 2594.0 maxWt: 1370.0
+...| | | | | [QWN qwn_gkIz-LUi3V] wt: 1224.0
+...| | | (RNF) wt: 4285.0 maxWt: 1370.0
+...| | | | | [RNF rnf_k] wt: 1284.0
+...| | | | (UXH) wt: 1691.0 maxWt: 1284.0
+...| | | | | [UXH uxh_kMyU8v] wt: 407.0
+...| (VHT) wt: 13359.0 maxWt: 1886.0
+...| | | | [VHT vht_jQKD-8J] wt: 1786.0
+...| | | (VRM) wt: 3493.0 maxWt: 1786.0
+...| | | | | [VRM vrm_1WArw6Xp8] wt: 1004.0
+...| | | | (WQZ) wt: 1707.0 maxWt: 1004.0
+...| | | | | | [WQZ wqz_3r qmm] wt: 689.0
+...| | | | | (XGM) wt: 703.0 maxWt: 689.0
+...| | | | | | [XGM xgm_Q3z3v] wt: 14.0
+...| | (ZNC) wt: 5521.0 maxWt: 1786.0
+...| | | | [ZNC znc_Nes-] wt: 876.0
+...| | | (ZPB) wt: 2028.0 maxWt: 1152.0
+...| | | | [ZPB zpb_g] wt: 1152.0
+...Checking node MCB balance-ratio = 0.57567006 max-ratio = 0.08467638 is balanced
+...Checking node VHT balance-ratio = 0.5867206 max-ratio = 0.14117824 is balanced
+...Checking node ZNC balance-ratio = 0.63267523 max-ratio = 0.3234921 is balanced
+...Checking node ZPB balance-ratio = 0.56804734 max-ratio = 0.56804734 is balanced
+...Tree after rebalancing ZVP
+...| | | | [BAR bar_IBfL6Ovg] wt: 1740.0
+...| | | (CSH) wt: 2602.0 maxWt: 1740.0
+...| | | | [CSH csh_9mAyB] wt: 862.0
+...| | (GKC) wt: 4567.0 maxWt: 1965.0
+...| | | [GKC gkc_eaIApDjjo] wt: 1965.0
+...| (HJO) wt: 9847.0 maxWt: 1965.0
+...| | | | [IIE iie_3nEVTzFQCF] wt: 966.0
+...| | | (JIX) wt: 3795.0 maxWt: 1423.0
+...| | | | | [JIX jix_aZO60] wt: 1406.0
+...| | | | (LJH) wt: 2829.0 maxWt: 1423.0
+...| | | | | [LJH ljh_oZLzAfA] wt: 1423.0
+...| | (LPM) wt: 5280.0 maxWt: 1485.0
+...| | | [LPM lpm_BD0c4yBMR] wt: 1485.0
+...(MCB) wt: 23206.0 maxWt: 1965.0
+...| | | | [MCB mcb_F] wt: 1886.0
+...| | | (MTS) wt: 3553.0 maxWt: 1886.0
+...| | | | | [MTS mts_k] wt: 1544.0
+...| | | | (NJP) wt: 1667.0 maxWt: 1544.0
+...| | | | | [NJP njp_n2H] wt: 123.0
+...| | (NWN) wt: 7838.0 maxWt: 1886.0
+...| | | | | [NWN nwn_5uAJ] wt: 1370.0
+...| | | | (QWN) wt: 2594.0 maxWt: 1370.0
+...| | | | | [QWN qwn_gkIz-LUi3V] wt: 1224.0
+...| | | (RNF) wt: 4285.0 maxWt: 1370.0
+...| | | | | [RNF rnf_k] wt: 1284.0
+...| | | | (UXH) wt: 1691.0 maxWt: 1284.0
+...| | | | | [UXH uxh_kMyU8v] wt: 407.0
+...| (VHT) wt: 13359.0 maxWt: 1886.0
+...| | | | [VHT vht_jQKD-8J] wt: 1786.0
+...| | | (VRM) wt: 3493.0 maxWt: 1786.0
+...| | | | | [VRM vrm_1WArw6Xp8] wt: 1004.0
+...| | | | (WQZ) wt: 1707.0 maxWt: 1004.0
+...| | | | | | [WQZ wqz_3r qmm] wt: 689.0
+...| | | | | (XGM) wt: 703.0 maxWt: 689.0
+...| | | | | | [XGM xgm_Q3z3v] wt: 14.0
+...| | (ZNC) wt: 5521.0 maxWt: 1786.0
+...| | | | [ZNC znc_Nes-] wt: 876.0
+...| | | (ZPB) wt: 2028.0 maxWt: 1152.0
+...| | | | [ZPB zpb_g] wt: 1152.0
+delete(ZVP): successful
+find(BAR): found [bar_IBfL6Ovg]
+find(ZVP): not found
+find(LPM): found [lpm_BD0c4yBMR]
+find(ABC): not found
+find(ZYX): not found
+find-up(BAR): found [bar_IBfL6Ovg]
+find-up(ZVP): not found
+find-up(LPM): found [lpm_BD0c4yBMR]
+find-up(ABC): found [bar_IBfL6Ovg]
+find-up(ZYX): not found
+find-down(BAR): found [bar_IBfL6Ovg]
+find-down(ZVP): found [zpb_g]
+find-down(LPM): found [lpm_BD0c4yBMR]
+find-down(ABC): not found
+find-down(ZYX): found [zpb_g]
+get-min: found [bar_IBfL6Ovg]
+get-max: found [zpb_g]
+Tree: Deleting IIE
+...Tree after deletion and before rebalancing IIE
+...| | | | [BAR bar_IBfL6Ovg] wt: 1740.0
+...| | | (CSH) wt: 2602.0 maxWt: 1740.0
+...| | | | [CSH csh_9mAyB] wt: 862.0
+...| | (GKC) wt: 4567.0 maxWt: 1965.0
+...| | | [GKC gkc_eaIApDjjo] wt: 1965.0
+...| (HJO) wt: 8881.0 maxWt: 1965.0
+...| | | | [JIX jix_aZO60] wt: 1406.0
+...| | | (LJH) wt: 2829.0 maxWt: 1423.0
+...| | | | [LJH ljh_oZLzAfA] wt: 1423.0
+...| | (LPM) wt: 4314.0 maxWt: 1485.0
+...| | | [LPM lpm_BD0c4yBMR] wt: 1485.0
+...(MCB) wt: 22240.0 maxWt: 1965.0
+...| | | | [MCB mcb_F] wt: 1886.0
+...| | | (MTS) wt: 3553.0 maxWt: 1886.0
+...| | | | | [MTS mts_k] wt: 1544.0
+...| | | | (NJP) wt: 1667.0 maxWt: 1544.0
+...| | | | | [NJP njp_n2H] wt: 123.0
+...| | (NWN) wt: 7838.0 maxWt: 1886.0
+...| | | | | [NWN nwn_5uAJ] wt: 1370.0
+...| | | | (QWN) wt: 2594.0 maxWt: 1370.0
+...| | | | | [QWN qwn_gkIz-LUi3V] wt: 1224.0
+...| | | (RNF) wt: 4285.0 maxWt: 1370.0
+...| | | | | [RNF rnf_k] wt: 1284.0
+...| | | | (UXH) wt: 1691.0 maxWt: 1284.0
+...| | | | | [UXH uxh_kMyU8v] wt: 407.0
+...| (VHT) wt: 13359.0 maxWt: 1886.0
+...| | | | [VHT vht_jQKD-8J] wt: 1786.0
+...| | | (VRM) wt: 3493.0 maxWt: 1786.0
+...| | | | | [VRM vrm_1WArw6Xp8] wt: 1004.0
+...| | | | (WQZ) wt: 1707.0 maxWt: 1004.0
+...| | | | | | [WQZ wqz_3r qmm] wt: 689.0
+...| | | | | (XGM) wt: 703.0 maxWt: 689.0
+...| | | | | | [XGM xgm_Q3z3v] wt: 14.0
+...| | (ZNC) wt: 5521.0 maxWt: 1786.0
+...| | | | [ZNC znc_Nes-] wt: 876.0
+...| | | (ZPB) wt: 2028.0 maxWt: 1152.0
+...| | | | [ZPB zpb_g] wt: 1152.0
+...Checking node MCB balance-ratio = 0.60067445 max-ratio = 0.08835432 is balanced
+...Checking node HJO balance-ratio = 0.5142439 max-ratio = 0.22125886 is balanced
+...Checking node LPM balance-ratio = 0.6557719 max-ratio = 0.3442281 is balanced
+...Checking node LJH balance-ratio = 0.5030046 max-ratio = 0.5030046 is balanced
+...Tree after rebalancing IIE
+...| | | | [BAR bar_IBfL6Ovg] wt: 1740.0
+...| | | (CSH) wt: 2602.0 maxWt: 1740.0
+...| | | | [CSH csh_9mAyB] wt: 862.0
+...| | (GKC) wt: 4567.0 maxWt: 1965.0
+...| | | [GKC gkc_eaIApDjjo] wt: 1965.0
+...| (HJO) wt: 8881.0 maxWt: 1965.0
+...| | | | [JIX jix_aZO60] wt: 1406.0
+...| | | (LJH) wt: 2829.0 maxWt: 1423.0
+...| | | | [LJH ljh_oZLzAfA] wt: 1423.0
+...| | (LPM) wt: 4314.0 maxWt: 1485.0
+...| | | [LPM lpm_BD0c4yBMR] wt: 1485.0
+...(MCB) wt: 22240.0 maxWt: 1965.0
+...| | | | [MCB mcb_F] wt: 1886.0
+...| | | (MTS) wt: 3553.0 maxWt: 1886.0
+...| | | | | [MTS mts_k] wt: 1544.0
+...| | | | (NJP) wt: 1667.0 maxWt: 1544.0
+...| | | | | [NJP njp_n2H] wt: 123.0
+...| | (NWN) wt: 7838.0 maxWt: 1886.0
+...| | | | | [NWN nwn_5uAJ] wt: 1370.0
+...| | | | (QWN) wt: 2594.0 maxWt: 1370.0
+...| | | | | [QWN qwn_gkIz-LUi3V] wt: 1224.0
+...| | | (RNF) wt: 4285.0 maxWt: 1370.0
+...| | | | | [RNF rnf_k] wt: 1284.0
+...| | | | (UXH) wt: 1691.0 maxWt: 1284.0
+...| | | | | [UXH uxh_kMyU8v] wt: 407.0
+...| (VHT) wt: 13359.0 maxWt: 1886.0
+...| | | | [VHT vht_jQKD-8J] wt: 1786.0
+...| | | (VRM) wt: 3493.0 maxWt: 1786.0
+...| | | | | [VRM vrm_1WArw6Xp8] wt: 1004.0
+...| | | | (WQZ) wt: 1707.0 maxWt: 1004.0
+...| | | | | | [WQZ wqz_3r qmm] wt: 689.0
+...| | | | | (XGM) wt: 703.0 maxWt: 689.0
+...| | | | | | [XGM xgm_Q3z3v] wt: 14.0
+...| | (ZNC) wt: 5521.0 maxWt: 1786.0
+...| | | | [ZNC znc_Nes-] wt: 876.0
+...| | | (ZPB) wt: 2028.0 maxWt: 1152.0
+...| | | | [ZPB zpb_g] wt: 1152.0
+delete(IIE): successful
+Tree: Deleting NWN
+...Tree after deletion and before rebalancing NWN
+...| | | | [BAR bar_IBfL6Ovg] wt: 1740.0
+...| | | (CSH) wt: 2602.0 maxWt: 1740.0
+...| | | | [CSH csh_9mAyB] wt: 862.0
+...| | (GKC) wt: 4567.0 maxWt: 1965.0
+...| | | [GKC gkc_eaIApDjjo] wt: 1965.0
+...| (HJO) wt: 8881.0 maxWt: 1965.0
+...| | | | [JIX jix_aZO60] wt: 1406.0
+...| | | (LJH) wt: 2829.0 maxWt: 1423.0
+...| | | | [LJH ljh_oZLzAfA] wt: 1423.0
+...| | (LPM) wt: 4314.0 maxWt: 1485.0
+...| | | [LPM lpm_BD0c4yBMR] wt: 1485.0
+...(MCB) wt: 20870.0 maxWt: 1965.0
+...| | | | [MCB mcb_F] wt: 1886.0
+...| | | (MTS) wt: 3553.0 maxWt: 1886.0
+...| | | | | [MTS mts_k] wt: 1544.0
+...| | | | (NJP) wt: 1667.0 maxWt: 1544.0
+...| | | | | [NJP njp_n2H] wt: 123.0
+...| | (NWN) wt: 6468.0 maxWt: 1886.0
+...| | | | [QWN qwn_gkIz-LUi3V] wt: 1224.0
+...| | | (RNF) wt: 2915.0 maxWt: 1284.0
+...| | | | | [RNF rnf_k] wt: 1284.0
+...| | | | (UXH) wt: 1691.0 maxWt: 1284.0
+...| | | | | [UXH uxh_kMyU8v] wt: 407.0
+...| (VHT) wt: 11989.0 maxWt: 1886.0
+...| | | | [VHT vht_jQKD-8J] wt: 1786.0
+...| | | (VRM) wt: 3493.0 maxWt: 1786.0
+...| | | | | [VRM vrm_1WArw6Xp8] wt: 1004.0
+...| | | | (WQZ) wt: 1707.0 maxWt: 1004.0
+...| | | | | | [WQZ wqz_3r qmm] wt: 689.0
+...| | | | | (XGM) wt: 703.0 maxWt: 689.0
+...| | | | | | [XGM xgm_Q3z3v] wt: 14.0
+...| | (ZNC) wt: 5521.0 maxWt: 1786.0
+...| | | | [ZNC znc_Nes-] wt: 876.0
+...| | | (ZPB) wt: 2028.0 maxWt: 1152.0
+...| | | | [ZPB zpb_g] wt: 1152.0
+...Checking node MCB balance-ratio = 0.5744609 max-ratio = 0.09415429 is balanced
+...Checking node VHT balance-ratio = 0.5394945 max-ratio = 0.15731087 is balanced
+...Checking node NWN balance-ratio = 0.54931974 max-ratio = 0.29158935 is balanced
+...Checking node RNF balance-ratio = 0.5801029 max-ratio = 0.44048026 is balanced
+...Tree after rebalancing NWN
+...| | | | [BAR bar_IBfL6Ovg] wt: 1740.0
+...| | | (CSH) wt: 2602.0 maxWt: 1740.0
+...| | | | [CSH csh_9mAyB] wt: 862.0
+...| | (GKC) wt: 4567.0 maxWt: 1965.0
+...| | | [GKC gkc_eaIApDjjo] wt: 1965.0
+...| (HJO) wt: 8881.0 maxWt: 1965.0
+...| | | | [JIX jix_aZO60] wt: 1406.0
+...| | | (LJH) wt: 2829.0 maxWt: 1423.0
+...| | | | [LJH ljh_oZLzAfA] wt: 1423.0
+...| | (LPM) wt: 4314.0 maxWt: 1485.0
+...| | | [LPM lpm_BD0c4yBMR] wt: 1485.0
+...(MCB) wt: 20870.0 maxWt: 1965.0
+...| | | | [MCB mcb_F] wt: 1886.0
+...| | | (MTS) wt: 3553.0 maxWt: 1886.0
+...| | | | | [MTS mts_k] wt: 1544.0
+...| | | | (NJP) wt: 1667.0 maxWt: 1544.0
+...| | | | | [NJP njp_n2H] wt: 123.0
+...| | (NWN) wt: 6468.0 maxWt: 1886.0
+...| | | | [QWN qwn_gkIz-LUi3V] wt: 1224.0
+...| | | (RNF) wt: 2915.0 maxWt: 1284.0
+...| | | | | [RNF rnf_k] wt: 1284.0
+...| | | | (UXH) wt: 1691.0 maxWt: 1284.0
+...| | | | | [UXH uxh_kMyU8v] wt: 407.0
+...| (VHT) wt: 11989.0 maxWt: 1886.0
+...| | | | [VHT vht_jQKD-8J] wt: 1786.0
+...| | | (VRM) wt: 3493.0 maxWt: 1786.0
+...| | | | | [VRM vrm_1WArw6Xp8] wt: 1004.0
+...| | | | (WQZ) wt: 1707.0 maxWt: 1004.0
+...| | | | | | [WQZ wqz_3r qmm] wt: 689.0
+...| | | | | (XGM) wt: 703.0 maxWt: 689.0
+...| | | | | | [XGM xgm_Q3z3v] wt: 14.0
+...| | (ZNC) wt: 5521.0 maxWt: 1786.0
+...| | | | [ZNC znc_Nes-] wt: 876.0
+...| | | (ZPB) wt: 2028.0 maxWt: 1152.0
+...| | | | [ZPB zpb_g] wt: 1152.0
+delete(NWN): successful
+Tree: Deleting MCB
+...Tree after deletion and before rebalancing MCB
+...| | | | [BAR bar_IBfL6Ovg] wt: 1740.0
+...| | | (CSH) wt: 2602.0 maxWt: 1740.0
+...| | | | [CSH csh_9mAyB] wt: 862.0
+...| | (GKC) wt: 4567.0 maxWt: 1965.0
+...| | | [GKC gkc_eaIApDjjo] wt: 1965.0
+...| (HJO) wt: 8881.0 maxWt: 1965.0
+...| | | | [JIX jix_aZO60] wt: 1406.0
+...| | | (LJH) wt: 2829.0 maxWt: 1423.0
+...| | | | [LJH ljh_oZLzAfA] wt: 1423.0
+...| | (LPM) wt: 4314.0 maxWt: 1485.0
+...| | | [LPM lpm_BD0c4yBMR] wt: 1485.0
+...(MCB) wt: 18984.0 maxWt: 1965.0
+...| | | | [MTS mts_k] wt: 1544.0
+...| | | (NJP) wt: 1667.0 maxWt: 1544.0
+...| | | | [NJP njp_n2H] wt: 123.0
+...| | (NWN) wt: 4582.0 maxWt: 1544.0
+...| | | | [QWN qwn_gkIz-LUi3V] wt: 1224.0
+...| | | (RNF) wt: 2915.0 maxWt: 1284.0
+...| | | | | [RNF rnf_k] wt: 1284.0
+...| | | | (UXH) wt: 1691.0 maxWt: 1284.0
+...| | | | | [UXH uxh_kMyU8v] wt: 407.0
+...| (VHT) wt: 10103.0 maxWt: 1786.0
+...| | | | [VHT vht_jQKD-8J] wt: 1786.0
+...| | | (VRM) wt: 3493.0 maxWt: 1786.0
+...| | | | | [VRM vrm_1WArw6Xp8] wt: 1004.0
+...| | | | (WQZ) wt: 1707.0 maxWt: 1004.0
+...| | | | | | [WQZ wqz_3r qmm] wt: 689.0
+...| | | | | (XGM) wt: 703.0 maxWt: 689.0
+...| | | | | | [XGM xgm_Q3z3v] wt: 14.0
+...| | (ZNC) wt: 5521.0 maxWt: 1786.0
+...| | | | [ZNC znc_Nes-] wt: 876.0
+...| | | (ZPB) wt: 2028.0 maxWt: 1152.0
+...| | | | [ZPB zpb_g] wt: 1152.0
+...Checking node MCB balance-ratio = 0.532185 max-ratio = 0.10350822 is balanced
+...Checking node VHT balance-ratio = 0.54647136 max-ratio = 0.17677918 is balanced
+...Checking node NWN balance-ratio = 0.63618505 max-ratio = 0.33697075 is balanced
+...Checking node NJP balance-ratio = 0.92621475 max-ratio = 0.92621475 is balanced
+...Tree after rebalancing MCB
+...| | | | [BAR bar_IBfL6Ovg] wt: 1740.0
+...| | | (CSH) wt: 2602.0 maxWt: 1740.0
+...| | | | [CSH csh_9mAyB] wt: 862.0
+...| | (GKC) wt: 4567.0 maxWt: 1965.0
+...| | | [GKC gkc_eaIApDjjo] wt: 1965.0
+...| (HJO) wt: 8881.0 maxWt: 1965.0
+...| | | | [JIX jix_aZO60] wt: 1406.0
+...| | | (LJH) wt: 2829.0 maxWt: 1423.0
+...| | | | [LJH ljh_oZLzAfA] wt: 1423.0
+...| | (LPM) wt: 4314.0 maxWt: 1485.0
+...| | | [LPM lpm_BD0c4yBMR] wt: 1485.0
+...(MCB) wt: 18984.0 maxWt: 1965.0
+...| | | | [MTS mts_k] wt: 1544.0
+...| | | (NJP) wt: 1667.0 maxWt: 1544.0
+...| | | | [NJP njp_n2H] wt: 123.0
+...| | (NWN) wt: 4582.0 maxWt: 1544.0
+...| | | | [QWN qwn_gkIz-LUi3V] wt: 1224.0
+...| | | (RNF) wt: 2915.0 maxWt: 1284.0
+...| | | | | [RNF rnf_k] wt: 1284.0
+...| | | | (UXH) wt: 1691.0 maxWt: 1284.0
+...| | | | | [UXH uxh_kMyU8v] wt: 407.0
+...| (VHT) wt: 10103.0 maxWt: 1786.0
+...| | | | [VHT vht_jQKD-8J] wt: 1786.0
+...| | | (VRM) wt: 3493.0 maxWt: 1786.0
+...| | | | | [VRM vrm_1WArw6Xp8] wt: 1004.0
+...| | | | (WQZ) wt: 1707.0 maxWt: 1004.0
+...| | | | | | [WQZ wqz_3r qmm] wt: 689.0
+...| | | | | (XGM) wt: 703.0 maxWt: 689.0
+...| | | | | | [XGM xgm_Q3z3v] wt: 14.0
+...| | (ZNC) wt: 5521.0 maxWt: 1786.0
+...| | | | [ZNC znc_Nes-] wt: 876.0
+...| | | (ZPB) wt: 2028.0 maxWt: 1152.0
+...| | | | [ZPB zpb_g] wt: 1152.0
+delete(MCB): successful
+Tree: Deleting RNF
+...Tree after deletion and before rebalancing RNF
+...| | | | [BAR bar_IBfL6Ovg] wt: 1740.0
+...| | | (CSH) wt: 2602.0 maxWt: 1740.0
+...| | | | [CSH csh_9mAyB] wt: 862.0
+...| | (GKC) wt: 4567.0 maxWt: 1965.0
+...| | | [GKC gkc_eaIApDjjo] wt: 1965.0
+...| (HJO) wt: 8881.0 maxWt: 1965.0
+...| | | | [JIX jix_aZO60] wt: 1406.0
+...| | | (LJH) wt: 2829.0 maxWt: 1423.0
+...| | | | [LJH ljh_oZLzAfA] wt: 1423.0
+...| | (LPM) wt: 4314.0 maxWt: 1485.0
+...| | | [LPM lpm_BD0c4yBMR] wt: 1485.0
+...(MCB) wt: 17700.0 maxWt: 1965.0
+...| | | | [MTS mts_k] wt: 1544.0
+...| | | (NJP) wt: 1667.0 maxWt: 1544.0
+...| | | | [NJP njp_n2H] wt: 123.0
+...| | (NWN) wt: 3298.0 maxWt: 1544.0
+...| | | | [QWN qwn_gkIz-LUi3V] wt: 1224.0
+...| | | (RNF) wt: 1631.0 maxWt: 1224.0
+...| | | | [UXH uxh_kMyU8v] wt: 407.0
+...| (VHT) wt: 8819.0 maxWt: 1786.0
+...| | | | [VHT vht_jQKD-8J] wt: 1786.0
+...| | | (VRM) wt: 3493.0 maxWt: 1786.0
+...| | | | | [VRM vrm_1WArw6Xp8] wt: 1004.0
+...| | | | (WQZ) wt: 1707.0 maxWt: 1004.0
+...| | | | | | [WQZ wqz_3r qmm] wt: 689.0
+...| | | | | (XGM) wt: 703.0 maxWt: 689.0
+...| | | | | | [XGM xgm_Q3z3v] wt: 14.0
+...| | (ZNC) wt: 5521.0 maxWt: 1786.0
+...| | | | [ZNC znc_Nes-] wt: 876.0
+...| | | (ZPB) wt: 2028.0 maxWt: 1152.0
+...| | | | [ZPB zpb_g] wt: 1152.0
+...Checking node MCB balance-ratio = 0.5017514 max-ratio = 0.11101695 is balanced
+...Checking node VHT balance-ratio = 0.6260347 max-ratio = 0.20251729 is balanced
+...Checking node NWN balance-ratio = 0.5054579 max-ratio = 0.46816254 is balanced
+...Checking node RNF balance-ratio = 0.75045985 max-ratio = 0.75045985 is balanced
+...Tree after rebalancing RNF
+...| | | | [BAR bar_IBfL6Ovg] wt: 1740.0
+...| | | (CSH) wt: 2602.0 maxWt: 1740.0
+...| | | | [CSH csh_9mAyB] wt: 862.0
+...| | (GKC) wt: 4567.0 maxWt: 1965.0
+...| | | [GKC gkc_eaIApDjjo] wt: 1965.0
+...| (HJO) wt: 8881.0 maxWt: 1965.0
+...| | | | [JIX jix_aZO60] wt: 1406.0
+...| | | (LJH) wt: 2829.0 maxWt: 1423.0
+...| | | | [LJH ljh_oZLzAfA] wt: 1423.0
+...| | (LPM) wt: 4314.0 maxWt: 1485.0
+...| | | [LPM lpm_BD0c4yBMR] wt: 1485.0
+...(MCB) wt: 17700.0 maxWt: 1965.0
+...| | | | [MTS mts_k] wt: 1544.0
+...| | | (NJP) wt: 1667.0 maxWt: 1544.0
+...| | | | [NJP njp_n2H] wt: 123.0
+...| | (NWN) wt: 3298.0 maxWt: 1544.0
+...| | | | [QWN qwn_gkIz-LUi3V] wt: 1224.0
+...| | | (RNF) wt: 1631.0 maxWt: 1224.0
+...| | | | [UXH uxh_kMyU8v] wt: 407.0
+...| (VHT) wt: 8819.0 maxWt: 1786.0
+...| | | | [VHT vht_jQKD-8J] wt: 1786.0
+...| | | (VRM) wt: 3493.0 maxWt: 1786.0
+...| | | | | [VRM vrm_1WArw6Xp8] wt: 1004.0
+...| | | | (WQZ) wt: 1707.0 maxWt: 1004.0
+...| | | | | | [WQZ wqz_3r qmm] wt: 689.0
+...| | | | | (XGM) wt: 703.0 maxWt: 689.0
+...| | | | | | [XGM xgm_Q3z3v] wt: 14.0
+...| | (ZNC) wt: 5521.0 maxWt: 1786.0
+...| | | | [ZNC znc_Nes-] wt: 876.0
+...| | | (ZPB) wt: 2028.0 maxWt: 1152.0
+...| | | | [ZPB zpb_g] wt: 1152.0
+delete(RNF): successful
+Tree: Deleting WQZ
+...Tree after deletion and before rebalancing WQZ
+...| | | | [BAR bar_IBfL6Ovg] wt: 1740.0
+...| | | (CSH) wt: 2602.0 maxWt: 1740.0
+...| | | | [CSH csh_9mAyB] wt: 862.0
+...| | (GKC) wt: 4567.0 maxWt: 1965.0
+...| | | [GKC gkc_eaIApDjjo] wt: 1965.0
+...| (HJO) wt: 8881.0 maxWt: 1965.0
+...| | | | [JIX jix_aZO60] wt: 1406.0
+...| | | (LJH) wt: 2829.0 maxWt: 1423.0
+...| | | | [LJH ljh_oZLzAfA] wt: 1423.0
+...| | (LPM) wt: 4314.0 maxWt: 1485.0
+...| | | [LPM lpm_BD0c4yBMR] wt: 1485.0
+...(MCB) wt: 17011.0 maxWt: 1965.0
+...| | | | [MTS mts_k] wt: 1544.0
+...| | | (NJP) wt: 1667.0 maxWt: 1544.0
+...| | | | [NJP njp_n2H] wt: 123.0
+...| | (NWN) wt: 3298.0 maxWt: 1544.0
+...| | | | [QWN qwn_gkIz-LUi3V] wt: 1224.0
+...| | | (RNF) wt: 1631.0 maxWt: 1224.0
+...| | | | [UXH uxh_kMyU8v] wt: 407.0
+...| (VHT) wt: 8130.0 maxWt: 1786.0
+...| | | | [VHT vht_jQKD-8J] wt: 1786.0
+...| | | (VRM) wt: 2804.0 maxWt: 1786.0
+...| | | | | [VRM vrm_1WArw6Xp8] wt: 1004.0
+...| | | | (WQZ) wt: 1018.0 maxWt: 1004.0
+...| | | | | [XGM xgm_Q3z3v] wt: 14.0
+...| | (ZNC) wt: 4832.0 maxWt: 1786.0
+...| | | | [ZNC znc_Nes-] wt: 876.0
+...| | | (ZPB) wt: 2028.0 maxWt: 1152.0
+...| | | | [ZPB zpb_g] wt: 1152.0
+...Checking node MCB balance-ratio = 0.5220739 max-ratio = 0.11551349 is balanced
+...Checking node VHT balance-ratio = 0.59434193 max-ratio = 0.21968019 is balanced
+...Checking node ZNC balance-ratio = 0.580298 max-ratio = 0.3696192 is balanced
+...Checking node VRM balance-ratio = 0.6369472 max-ratio = 0.6369472 is balanced
+...Checking node WQZ balance-ratio = 0.98624754 max-ratio = 0.98624754 is balanced
+...Tree after rebalancing WQZ
+...| | | | [BAR bar_IBfL6Ovg] wt: 1740.0
+...| | | (CSH) wt: 2602.0 maxWt: 1740.0
+...| | | | [CSH csh_9mAyB] wt: 862.0
+...| | (GKC) wt: 4567.0 maxWt: 1965.0
+...| | | [GKC gkc_eaIApDjjo] wt: 1965.0
+...| (HJO) wt: 8881.0 maxWt: 1965.0
+...| | | | [JIX jix_aZO60] wt: 1406.0
+...| | | (LJH) wt: 2829.0 maxWt: 1423.0
+...| | | | [LJH ljh_oZLzAfA] wt: 1423.0
+...| | (LPM) wt: 4314.0 maxWt: 1485.0
+...| | | [LPM lpm_BD0c4yBMR] wt: 1485.0
+...(MCB) wt: 17011.0 maxWt: 1965.0
+...| | | | [MTS mts_k] wt: 1544.0
+...| | | (NJP) wt: 1667.0 maxWt: 1544.0
+...| | | | [NJP njp_n2H] wt: 123.0
+...| | (NWN) wt: 3298.0 maxWt: 1544.0
+...| | | | [QWN qwn_gkIz-LUi3V] wt: 1224.0
+...| | | (RNF) wt: 1631.0 maxWt: 1224.0
+...| | | | [UXH uxh_kMyU8v] wt: 407.0
+...| (VHT) wt: 8130.0 maxWt: 1786.0
+...| | | | [VHT vht_jQKD-8J] wt: 1786.0
+...| | | (VRM) wt: 2804.0 maxWt: 1786.0
+...| | | | | [VRM vrm_1WArw6Xp8] wt: 1004.0
+...| | | | (WQZ) wt: 1018.0 maxWt: 1004.0
+...| | | | | [XGM xgm_Q3z3v] wt: 14.0
+...| | (ZNC) wt: 4832.0 maxWt: 1786.0
+...| | | | [ZNC znc_Nes-] wt: 876.0
+...| | | (ZPB) wt: 2028.0 maxWt: 1152.0
+...| | | | [ZPB zpb_g] wt: 1152.0
+delete(WQZ): successful
+Tree: Deleting MTS
+...Tree after deletion and before rebalancing MTS
+...| | | | [BAR bar_IBfL6Ovg] wt: 1740.0
+...| | | (CSH) wt: 2602.0 maxWt: 1740.0
+...| | | | [CSH csh_9mAyB] wt: 862.0
+...| | (GKC) wt: 4567.0 maxWt: 1965.0
+...| | | [GKC gkc_eaIApDjjo] wt: 1965.0
+...| (HJO) wt: 8881.0 maxWt: 1965.0
+...| | | | [JIX jix_aZO60] wt: 1406.0
+...| | | (LJH) wt: 2829.0 maxWt: 1423.0
+...| | | | [LJH ljh_oZLzAfA] wt: 1423.0
+...| | (LPM) wt: 4314.0 maxWt: 1485.0
+...| | | [LPM lpm_BD0c4yBMR] wt: 1485.0
+...(MCB) wt: 15467.0 maxWt: 1965.0
+...| | | [NJP njp_n2H] wt: 123.0
+...| | (NWN) wt: 1754.0 maxWt: 1224.0
+...| | | | [QWN qwn_gkIz-LUi3V] wt: 1224.0
+...| | | (RNF) wt: 1631.0 maxWt: 1224.0
+...| | | | [UXH uxh_kMyU8v] wt: 407.0
+...| (VHT) wt: 6586.0 maxWt: 1786.0
+...| | | | [VHT vht_jQKD-8J] wt: 1786.0
+...| | | (VRM) wt: 2804.0 maxWt: 1786.0
+...| | | | | [VRM vrm_1WArw6Xp8] wt: 1004.0
+...| | | | (WQZ) wt: 1018.0 maxWt: 1004.0
+...| | | | | [XGM xgm_Q3z3v] wt: 14.0
+...| | (ZNC) wt: 4832.0 maxWt: 1786.0
+...| | | | [ZNC znc_Nes-] wt: 876.0
+...| | | (ZPB) wt: 2028.0 maxWt: 1152.0
+...| | | | [ZPB zpb_g] wt: 1152.0
+...Checking node MCB balance-ratio = 0.5741902 max-ratio = 0.12704468 is balanced
+...Checking node VHT balance-ratio = 0.7336775 max-ratio = 0.2711813 is balanced
+...Checking node NWN balance-ratio = 0.9298746 max-ratio = 0.69783354 is balanced
+...Tree after rebalancing MTS
+...| | | | [BAR bar_IBfL6Ovg] wt: 1740.0
+...| | | (CSH) wt: 2602.0 maxWt: 1740.0
+...| | | | [CSH csh_9mAyB] wt: 862.0
+...| | (GKC) wt: 4567.0 maxWt: 1965.0
+...| | | [GKC gkc_eaIApDjjo] wt: 1965.0
+...| (HJO) wt: 8881.0 maxWt: 1965.0
+...| | | | [JIX jix_aZO60] wt: 1406.0
+...| | | (LJH) wt: 2829.0 maxWt: 1423.0
+...| | | | [LJH ljh_oZLzAfA] wt: 1423.0
+...| | (LPM) wt: 4314.0 maxWt: 1485.0
+...| | | [LPM lpm_BD0c4yBMR] wt: 1485.0
+...(MCB) wt: 15467.0 maxWt: 1965.0
+...| | | [NJP njp_n2H] wt: 123.0
+...| | (NWN) wt: 1754.0 maxWt: 1224.0
+...| | | | [QWN qwn_gkIz-LUi3V] wt: 1224.0
+...| | | (RNF) wt: 1631.0 maxWt: 1224.0
+...| | | | [UXH uxh_kMyU8v] wt: 407.0
+...| (VHT) wt: 6586.0 maxWt: 1786.0
+...| | | | [VHT vht_jQKD-8J] wt: 1786.0
+...| | | (VRM) wt: 2804.0 maxWt: 1786.0
+...| | | | | [VRM vrm_1WArw6Xp8] wt: 1004.0
+...| | | | (WQZ) wt: 1018.0 maxWt: 1004.0
+...| | | | | [XGM xgm_Q3z3v] wt: 14.0
+...| | (ZNC) wt: 4832.0 maxWt: 1786.0
+...| | | | [ZNC znc_Nes-] wt: 876.0
+...| | | (ZPB) wt: 2028.0 maxWt: 1152.0
+...| | | | [ZPB zpb_g] wt: 1152.0
+delete(MTS): successful
+Tree: Deleting GKC
+...Tree after deletion and before rebalancing GKC
+...| | | [BAR bar_IBfL6Ovg] wt: 1740.0
+...| | (CSH) wt: 2602.0 maxWt: 1740.0
+...| | | [CSH csh_9mAyB] wt: 862.0
+...| (HJO) wt: 6916.0 maxWt: 1740.0
+...| | | | [JIX jix_aZO60] wt: 1406.0
+...| | | (LJH) wt: 2829.0 maxWt: 1423.0
+...| | | | [LJH ljh_oZLzAfA] wt: 1423.0
+...| | (LPM) wt: 4314.0 maxWt: 1485.0
+...| | | [LPM lpm_BD0c4yBMR] wt: 1485.0
+...(MCB) wt: 13502.0 maxWt: 1786.0
+...| | | [NJP njp_n2H] wt: 123.0
+...| | (NWN) wt: 1754.0 maxWt: 1224.0
+...| | | | [QWN qwn_gkIz-LUi3V] wt: 1224.0
+...| | | (RNF) wt: 1631.0 maxWt: 1224.0
+...| | | | [UXH uxh_kMyU8v] wt: 407.0
+...| (VHT) wt: 6586.0 maxWt: 1786.0
+...| | | | [VHT vht_jQKD-8J] wt: 1786.0
+...| | | (VRM) wt: 2804.0 maxWt: 1786.0
+...| | | | | [VRM vrm_1WArw6Xp8] wt: 1004.0
+...| | | | (WQZ) wt: 1018.0 maxWt: 1004.0
+...| | | | | [XGM xgm_Q3z3v] wt: 14.0
+...| | (ZNC) wt: 4832.0 maxWt: 1786.0
+...| | | | [ZNC znc_Nes-] wt: 876.0
+...| | | (ZPB) wt: 2028.0 maxWt: 1152.0
+...| | | | [ZPB zpb_g] wt: 1152.0
+...Checking node MCB balance-ratio = 0.5122204 max-ratio = 0.1322767 is balanced
+...Checking node HJO balance-ratio = 0.62377095 max-ratio = 0.25159052 is balanced
+...Checking node CSH balance-ratio = 0.6687164 max-ratio = 0.6687164 is balanced
+...Tree after rebalancing GKC
+...| | | [BAR bar_IBfL6Ovg] wt: 1740.0
+...| | (CSH) wt: 2602.0 maxWt: 1740.0
+...| | | [CSH csh_9mAyB] wt: 862.0
+...| (HJO) wt: 6916.0 maxWt: 1740.0
+...| | | | [JIX jix_aZO60] wt: 1406.0
+...| | | (LJH) wt: 2829.0 maxWt: 1423.0
+...| | | | [LJH ljh_oZLzAfA] wt: 1423.0
+...| | (LPM) wt: 4314.0 maxWt: 1485.0
+...| | | [LPM lpm_BD0c4yBMR] wt: 1485.0
+...(MCB) wt: 13502.0 maxWt: 1786.0
+...| | | [NJP njp_n2H] wt: 123.0
+...| | (NWN) wt: 1754.0 maxWt: 1224.0
+...| | | | [QWN qwn_gkIz-LUi3V] wt: 1224.0
+...| | | (RNF) wt: 1631.0 maxWt: 1224.0
+...| | | | [UXH uxh_kMyU8v] wt: 407.0
+...| (VHT) wt: 6586.0 maxWt: 1786.0
+...| | | | [VHT vht_jQKD-8J] wt: 1786.0
+...| | | (VRM) wt: 2804.0 maxWt: 1786.0
+...| | | | | [VRM vrm_1WArw6Xp8] wt: 1004.0
+...| | | | (WQZ) wt: 1018.0 maxWt: 1004.0
+...| | | | | [XGM xgm_Q3z3v] wt: 14.0
+...| | (ZNC) wt: 4832.0 maxWt: 1786.0
+...| | | | [ZNC znc_Nes-] wt: 876.0
+...| | | (ZPB) wt: 2028.0 maxWt: 1152.0
+...| | | | [ZPB zpb_g] wt: 1152.0
+delete(GKC): successful
+Tree: Deleting ZNC
+...Tree after deletion and before rebalancing ZNC
+...| | | [BAR bar_IBfL6Ovg] wt: 1740.0
+...| | (CSH) wt: 2602.0 maxWt: 1740.0
+...| | | [CSH csh_9mAyB] wt: 862.0
+...| (HJO) wt: 6916.0 maxWt: 1740.0
+...| | | | [JIX jix_aZO60] wt: 1406.0
+...| | | (LJH) wt: 2829.0 maxWt: 1423.0
+...| | | | [LJH ljh_oZLzAfA] wt: 1423.0
+...| | (LPM) wt: 4314.0 maxWt: 1485.0
+...| | | [LPM lpm_BD0c4yBMR] wt: 1485.0
+...(MCB) wt: 12626.0 maxWt: 1786.0
+...| | | [NJP njp_n2H] wt: 123.0
+...| | (NWN) wt: 1754.0 maxWt: 1224.0
+...| | | | [QWN qwn_gkIz-LUi3V] wt: 1224.0
+...| | | (RNF) wt: 1631.0 maxWt: 1224.0
+...| | | | [UXH uxh_kMyU8v] wt: 407.0
+...| (VHT) wt: 5710.0 maxWt: 1786.0
+...| | | | [VHT vht_jQKD-8J] wt: 1786.0
+...| | | (VRM) wt: 2804.0 maxWt: 1786.0
+...| | | | | [VRM vrm_1WArw6Xp8] wt: 1004.0
+...| | | | (WQZ) wt: 1018.0 maxWt: 1004.0
+...| | | | | [XGM xgm_Q3z3v] wt: 14.0
+...| | (ZNC) wt: 3956.0 maxWt: 1786.0
+...| | | [ZPB zpb_g] wt: 1152.0
+...Checking node MCB balance-ratio = 0.5477586 max-ratio = 0.14145415 is balanced
+...Checking node VHT balance-ratio = 0.6928196 max-ratio = 0.31278458 is balanced
+...Checking node ZNC balance-ratio = 0.70879674 max-ratio = 0.4514661 is balanced
+...Tree after rebalancing ZNC
+...| | | [BAR bar_IBfL6Ovg] wt: 1740.0
+...| | (CSH) wt: 2602.0 maxWt: 1740.0
+...| | | [CSH csh_9mAyB] wt: 862.0
+...| (HJO) wt: 6916.0 maxWt: 1740.0
+...| | | | [JIX jix_aZO60] wt: 1406.0
+...| | | (LJH) wt: 2829.0 maxWt: 1423.0
+...| | | | [LJH ljh_oZLzAfA] wt: 1423.0
+...| | (LPM) wt: 4314.0 maxWt: 1485.0
+...| | | [LPM lpm_BD0c4yBMR] wt: 1485.0
+...(MCB) wt: 12626.0 maxWt: 1786.0
+...| | | [NJP njp_n2H] wt: 123.0
+...| | (NWN) wt: 1754.0 maxWt: 1224.0
+...| | | | [QWN qwn_gkIz-LUi3V] wt: 1224.0
+...| | | (RNF) wt: 1631.0 maxWt: 1224.0
+...| | | | [UXH uxh_kMyU8v] wt: 407.0
+...| (VHT) wt: 5710.0 maxWt: 1786.0
+...| | | | [VHT vht_jQKD-8J] wt: 1786.0
+...| | | (VRM) wt: 2804.0 maxWt: 1786.0
+...| | | | | [VRM vrm_1WArw6Xp8] wt: 1004.0
+...| | | | (WQZ) wt: 1018.0 maxWt: 1004.0
+...| | | | | [XGM xgm_Q3z3v] wt: 14.0
+...| | (ZNC) wt: 3956.0 maxWt: 1786.0
+...| | | [ZPB zpb_g] wt: 1152.0
+delete(ZNC): successful
+Tree: Deleting XGM
+...Tree after deletion and before rebalancing XGM
+...| | | [BAR bar_IBfL6Ovg] wt: 1740.0
+...| | (CSH) wt: 2602.0 maxWt: 1740.0
+...| | | [CSH csh_9mAyB] wt: 862.0
+...| (HJO) wt: 6916.0 maxWt: 1740.0
+...| | | | [JIX jix_aZO60] wt: 1406.0
+...| | | (LJH) wt: 2829.0 maxWt: 1423.0
+...| | | | [LJH ljh_oZLzAfA] wt: 1423.0
+...| | (LPM) wt: 4314.0 maxWt: 1485.0
+...| | | [LPM lpm_BD0c4yBMR] wt: 1485.0
+...(MCB) wt: 12612.0 maxWt: 1786.0
+...| | | [NJP njp_n2H] wt: 123.0
+...| | (NWN) wt: 1754.0 maxWt: 1224.0
+...| | | | [QWN qwn_gkIz-LUi3V] wt: 1224.0
+...| | | (RNF) wt: 1631.0 maxWt: 1224.0
+...| | | | [UXH uxh_kMyU8v] wt: 407.0
+...| (VHT) wt: 5696.0 maxWt: 1786.0
+...| | | | [VHT vht_jQKD-8J] wt: 1786.0
+...| | | (VRM) wt: 2790.0 maxWt: 1786.0
+...| | | | [VRM vrm_1WArw6Xp8] wt: 1004.0
+...| | (ZNC) wt: 3942.0 maxWt: 1786.0
+...| | | [ZPB zpb_g] wt: 1152.0
+...Checking node MCB balance-ratio = 0.5483666 max-ratio = 0.14161116 is balanced
+...Checking node VHT balance-ratio = 0.6920646 max-ratio = 0.31355336 is balanced
+...Checking node ZNC balance-ratio = 0.70776254 max-ratio = 0.4530695 is balanced
+...Checking node VRM balance-ratio = 0.6401434 max-ratio = 0.6401434 is balanced
+...Tree after rebalancing XGM
+...| | | [BAR bar_IBfL6Ovg] wt: 1740.0
+...| | (CSH) wt: 2602.0 maxWt: 1740.0
+...| | | [CSH csh_9mAyB] wt: 862.0
+...| (HJO) wt: 6916.0 maxWt: 1740.0
+...| | | | [JIX jix_aZO60] wt: 1406.0
+...| | | (LJH) wt: 2829.0 maxWt: 1423.0
+...| | | | [LJH ljh_oZLzAfA] wt: 1423.0
+...| | (LPM) wt: 4314.0 maxWt: 1485.0
+...| | | [LPM lpm_BD0c4yBMR] wt: 1485.0
+...(MCB) wt: 12612.0 maxWt: 1786.0
+...| | | [NJP njp_n2H] wt: 123.0
+...| | (NWN) wt: 1754.0 maxWt: 1224.0
+...| | | | [QWN qwn_gkIz-LUi3V] wt: 1224.0
+...| | | (RNF) wt: 1631.0 maxWt: 1224.0
+...| | | | [UXH uxh_kMyU8v] wt: 407.0
+...| (VHT) wt: 5696.0 maxWt: 1786.0
+...| | | | [VHT vht_jQKD-8J] wt: 1786.0
+...| | | (VRM) wt: 2790.0 maxWt: 1786.0
+...| | | | [VRM vrm_1WArw6Xp8] wt: 1004.0
+...| | (ZNC) wt: 3942.0 maxWt: 1786.0
+...| | | [ZPB zpb_g] wt: 1152.0
+delete(XGM): successful
+Tree: Deleting LJH
+...Tree after deletion and before rebalancing LJH
+...| | | [BAR bar_IBfL6Ovg] wt: 1740.0
+...| | (CSH) wt: 2602.0 maxWt: 1740.0
+...| | | [CSH csh_9mAyB] wt: 862.0
+...| (HJO) wt: 5493.0 maxWt: 1740.0
+...| | | [JIX jix_aZO60] wt: 1406.0
+...| | (LPM) wt: 2891.0 maxWt: 1485.0
+...| | | [LPM lpm_BD0c4yBMR] wt: 1485.0
+...(MCB) wt: 11189.0 maxWt: 1786.0
+...| | | [NJP njp_n2H] wt: 123.0
+...| | (NWN) wt: 1754.0 maxWt: 1224.0
+...| | | | [QWN qwn_gkIz-LUi3V] wt: 1224.0
+...| | | (RNF) wt: 1631.0 maxWt: 1224.0
+...| | | | [UXH uxh_kMyU8v] wt: 407.0
+...| (VHT) wt: 5696.0 maxWt: 1786.0
+...| | | | [VHT vht_jQKD-8J] wt: 1786.0
+...| | | (VRM) wt: 2790.0 maxWt: 1786.0
+...| | | | [VRM vrm_1WArw6Xp8] wt: 1004.0
+...| | (ZNC) wt: 3942.0 maxWt: 1786.0
+...| | | [ZPB zpb_g] wt: 1152.0
+...Checking node MCB balance-ratio = 0.5090714 max-ratio = 0.15962106 is balanced
+...Checking node HJO balance-ratio = 0.5263062 max-ratio = 0.3167668 is balanced
+...Checking node LPM balance-ratio = 0.5136631 max-ratio = 0.5136631 is balanced
+...Tree after rebalancing LJH
+...| | | [BAR bar_IBfL6Ovg] wt: 1740.0
+...| | (CSH) wt: 2602.0 maxWt: 1740.0
+...| | | [CSH csh_9mAyB] wt: 862.0
+...| (HJO) wt: 5493.0 maxWt: 1740.0
+...| | | [JIX jix_aZO60] wt: 1406.0
+...| | (LPM) wt: 2891.0 maxWt: 1485.0
+...| | | [LPM lpm_BD0c4yBMR] wt: 1485.0
+...(MCB) wt: 11189.0 maxWt: 1786.0
+...| | | [NJP njp_n2H] wt: 123.0
+...| | (NWN) wt: 1754.0 maxWt: 1224.0
+...| | | | [QWN qwn_gkIz-LUi3V] wt: 1224.0
+...| | | (RNF) wt: 1631.0 maxWt: 1224.0
+...| | | | [UXH uxh_kMyU8v] wt: 407.0
+...| (VHT) wt: 5696.0 maxWt: 1786.0
+...| | | | [VHT vht_jQKD-8J] wt: 1786.0
+...| | | (VRM) wt: 2790.0 maxWt: 1786.0
+...| | | | [VRM vrm_1WArw6Xp8] wt: 1004.0
+...| | (ZNC) wt: 3942.0 maxWt: 1786.0
+...| | | [ZPB zpb_g] wt: 1152.0
+delete(LJH): successful
+Tree: Deleting QWN
+...Tree after deletion and before rebalancing QWN
+...| | | [BAR bar_IBfL6Ovg] wt: 1740.0
+...| | (CSH) wt: 2602.0 maxWt: 1740.0
+...| | | [CSH csh_9mAyB] wt: 862.0
+...| (HJO) wt: 5493.0 maxWt: 1740.0
+...| | | [JIX jix_aZO60] wt: 1406.0
+...| | (LPM) wt: 2891.0 maxWt: 1485.0
+...| | | [LPM lpm_BD0c4yBMR] wt: 1485.0
+...(MCB) wt: 9965.0 maxWt: 1786.0
+...| | | [NJP njp_n2H] wt: 123.0
+...| | (NWN) wt: 530.0 maxWt: 407.0
+...| | | [UXH uxh_kMyU8v] wt: 407.0
+...| (VHT) wt: 4472.0 maxWt: 1786.0
+...| | | | [VHT vht_jQKD-8J] wt: 1786.0
+...| | | (VRM) wt: 2790.0 maxWt: 1786.0
+...| | | | [VRM vrm_1WArw6Xp8] wt: 1004.0
+...| | (ZNC) wt: 3942.0 maxWt: 1786.0
+...| | | [ZPB zpb_g] wt: 1152.0
+...Checking node MCB balance-ratio = 0.5512293 max-ratio = 0.17922729 is balanced
+...Checking node VHT balance-ratio = 0.8814848 max-ratio = 0.3993739 is balanced
+...Checking node NWN balance-ratio = 0.76792455 max-ratio = 0.76792455 is balanced
+...Tree after rebalancing QWN
+...| | | [BAR bar_IBfL6Ovg] wt: 1740.0
+...| | (CSH) wt: 2602.0 maxWt: 1740.0
+...| | | [CSH csh_9mAyB] wt: 862.0
+...| (HJO) wt: 5493.0 maxWt: 1740.0
+...| | | [JIX jix_aZO60] wt: 1406.0
+...| | (LPM) wt: 2891.0 maxWt: 1485.0
+...| | | [LPM lpm_BD0c4yBMR] wt: 1485.0
+...(MCB) wt: 9965.0 maxWt: 1786.0
+...| | | [NJP njp_n2H] wt: 123.0
+...| | (NWN) wt: 530.0 maxWt: 407.0
+...| | | [UXH uxh_kMyU8v] wt: 407.0
+...| (VHT) wt: 4472.0 maxWt: 1786.0
+...| | | | [VHT vht_jQKD-8J] wt: 1786.0
+...| | | (VRM) wt: 2790.0 maxWt: 1786.0
+...| | | | [VRM vrm_1WArw6Xp8] wt: 1004.0
+...| | (ZNC) wt: 3942.0 maxWt: 1786.0
+...| | | [ZPB zpb_g] wt: 1152.0
+delete(QWN): successful
+Tree: Deleting LPM
+...Tree after deletion and before rebalancing LPM
+...| | | [BAR bar_IBfL6Ovg] wt: 1740.0
+...| | (CSH) wt: 2602.0 maxWt: 1740.0
+...| | | [CSH csh_9mAyB] wt: 862.0
+...| (HJO) wt: 4008.0 maxWt: 1740.0
+...| | [JIX jix_aZO60] wt: 1406.0
+...(MCB) wt: 8480.0 maxWt: 1786.0
+...| | | [NJP njp_n2H] wt: 123.0
+...| | (NWN) wt: 530.0 maxWt: 407.0
+...| | | [UXH uxh_kMyU8v] wt: 407.0
+...| (VHT) wt: 4472.0 maxWt: 1786.0
+...| | | | [VHT vht_jQKD-8J] wt: 1786.0
+...| | | (VRM) wt: 2790.0 maxWt: 1786.0
+...| | | | [VRM vrm_1WArw6Xp8] wt: 1004.0
+...| | (ZNC) wt: 3942.0 maxWt: 1786.0
+...| | | [ZPB zpb_g] wt: 1152.0
+...Checking node MCB balance-ratio = 0.5273585 max-ratio = 0.2106132 is balanced
+...Checking node HJO balance-ratio = 0.6492016 max-ratio = 0.43413174 is balanced
+...Tree after rebalancing LPM
+...| | | [BAR bar_IBfL6Ovg] wt: 1740.0
+...| | (CSH) wt: 2602.0 maxWt: 1740.0
+...| | | [CSH csh_9mAyB] wt: 862.0
+...| (HJO) wt: 4008.0 maxWt: 1740.0
+...| | [JIX jix_aZO60] wt: 1406.0
+...(MCB) wt: 8480.0 maxWt: 1786.0
+...| | | [NJP njp_n2H] wt: 123.0
+...| | (NWN) wt: 530.0 maxWt: 407.0
+...| | | [UXH uxh_kMyU8v] wt: 407.0
+...| (VHT) wt: 4472.0 maxWt: 1786.0
+...| | | | [VHT vht_jQKD-8J] wt: 1786.0
+...| | | (VRM) wt: 2790.0 maxWt: 1786.0
+...| | | | [VRM vrm_1WArw6Xp8] wt: 1004.0
+...| | (ZNC) wt: 3942.0 maxWt: 1786.0
+...| | | [ZPB zpb_g] wt: 1152.0
+delete(LPM): successful
+Tree: Deleting BAR
+...Tree after deletion and before rebalancing BAR
+...| | [CSH csh_9mAyB] wt: 862.0
+...| (HJO) wt: 2268.0 maxWt: 1406.0
+...| | [JIX jix_aZO60] wt: 1406.0
+...(MCB) wt: 6740.0 maxWt: 1786.0
+...| | | [NJP njp_n2H] wt: 123.0
+...| | (NWN) wt: 530.0 maxWt: 407.0
+...| | | [UXH uxh_kMyU8v] wt: 407.0
+...| (VHT) wt: 4472.0 maxWt: 1786.0
+...| | | | [VHT vht_jQKD-8J] wt: 1786.0
+...| | | (VRM) wt: 2790.0 maxWt: 1786.0
+...| | | | [VRM vrm_1WArw6Xp8] wt: 1004.0
+...| | (ZNC) wt: 3942.0 maxWt: 1786.0
+...| | | [ZPB zpb_g] wt: 1152.0
+...Checking node MCB balance-ratio = 0.6635015 max-ratio = 0.26498517 is balanced
+...Checking node HJO balance-ratio = 0.61992943 max-ratio = 0.61992943 is balanced
+...Tree after rebalancing BAR
+...| | [CSH csh_9mAyB] wt: 862.0
+...| (HJO) wt: 2268.0 maxWt: 1406.0
+...| | [JIX jix_aZO60] wt: 1406.0
+...(MCB) wt: 6740.0 maxWt: 1786.0
+...| | | [NJP njp_n2H] wt: 123.0
+...| | (NWN) wt: 530.0 maxWt: 407.0
+...| | | [UXH uxh_kMyU8v] wt: 407.0
+...| (VHT) wt: 4472.0 maxWt: 1786.0
+...| | | | [VHT vht_jQKD-8J] wt: 1786.0
+...| | | (VRM) wt: 2790.0 maxWt: 1786.0
+...| | | | [VRM vrm_1WArw6Xp8] wt: 1004.0
+...| | (ZNC) wt: 3942.0 maxWt: 1786.0
+...| | | [ZPB zpb_g] wt: 1152.0
+delete(BAR): successful
+Tree: Deleting CSH
+...Tree after deletion and before rebalancing CSH
+...| [JIX jix_aZO60] wt: 1406.0
+...(MCB) wt: 5878.0 maxWt: 1786.0
+...| | | [NJP njp_n2H] wt: 123.0
+...| | (NWN) wt: 530.0 maxWt: 407.0
+...| | | [UXH uxh_kMyU8v] wt: 407.0
+...| (VHT) wt: 4472.0 maxWt: 1786.0
+...| | | | [VHT vht_jQKD-8J] wt: 1786.0
+...| | | (VRM) wt: 2790.0 maxWt: 1786.0
+...| | | | [VRM vrm_1WArw6Xp8] wt: 1004.0
+...| | (ZNC) wt: 3942.0 maxWt: 1786.0
+...| | | [ZPB zpb_g] wt: 1152.0
+...Checking node MCB balance-ratio = 0.760803 max-ratio = 0.30384484 is balanced
+...Tree after rebalancing CSH
+...| [JIX jix_aZO60] wt: 1406.0
+...(MCB) wt: 5878.0 maxWt: 1786.0
+...| | | [NJP njp_n2H] wt: 123.0
+...| | (NWN) wt: 530.0 maxWt: 407.0
+...| | | [UXH uxh_kMyU8v] wt: 407.0
+...| (VHT) wt: 4472.0 maxWt: 1786.0
+...| | | | [VHT vht_jQKD-8J] wt: 1786.0
+...| | | (VRM) wt: 2790.0 maxWt: 1786.0
+...| | | | [VRM vrm_1WArw6Xp8] wt: 1004.0
+...| | (ZNC) wt: 3942.0 maxWt: 1786.0
+...| | | [ZPB zpb_g] wt: 1152.0
+delete(CSH): successful
+Preorder list:
+  (MCB) wt: 5878.0
+  [JIX jix_aZO60] wt: 1406.0
+  (VHT) wt: 4472.0
+  (NWN) wt: 530.0
+  [NJP njp_n2H] wt: 123.0
+  [UXH uxh_kMyU8v] wt: 407.0
+  (ZNC) wt: 3942.0
+  (VRM) wt: 2790.0
+  [VHT vht_jQKD-8J] wt: 1786.0
+  [VRM vrm_1WArw6Xp8] wt: 1004.0
+  [ZPB zpb_g] wt: 1152.0
+Tree structure:
+  | [JIX jix_aZO60] wt: 1406.0
+  (MCB) wt: 5878.0
+  | | | [NJP njp_n2H] wt: 123.0
+  | | (NWN) wt: 530.0
+  | | | [UXH uxh_kMyU8v] wt: 407.0
+  | (VHT) wt: 4472.0
+  | | | | [VHT vht_jQKD-8J] wt: 1786.0
+  | | | (VRM) wt: 2790.0
+  | | | | [VRM vrm_1WArw6Xp8] wt: 1004.0
+  | | (ZNC) wt: 3942.0
+  | | | [ZPB zpb_g] wt: 1152.0
+Tree: Deleting NJP
+...Tree after deletion and before rebalancing NJP
+...| [JIX jix_aZO60] wt: 1406.0
+...(MCB) wt: 5755.0 maxWt: 1786.0
+...| | [UXH uxh_kMyU8v] wt: 407.0
+...| (VHT) wt: 4349.0 maxWt: 1786.0
+...| | | | [VHT vht_jQKD-8J] wt: 1786.0
+...| | | (VRM) wt: 2790.0 maxWt: 1786.0
+...| | | | [VRM vrm_1WArw6Xp8] wt: 1004.0
+...| | (ZNC) wt: 3942.0 maxWt: 1786.0
+...| | | [ZPB zpb_g] wt: 1152.0
+...Checking node MCB balance-ratio = 0.7556907 max-ratio = 0.31033882 is balanced
+...Checking node VHT balance-ratio = 0.9064153 max-ratio = 0.41066912 is balanced
+...Tree after rebalancing NJP
+...| [JIX jix_aZO60] wt: 1406.0
+...(MCB) wt: 5755.0 maxWt: 1786.0
+...| | [UXH uxh_kMyU8v] wt: 407.0
+...| (VHT) wt: 4349.0 maxWt: 1786.0
+...| | | | [VHT vht_jQKD-8J] wt: 1786.0
+...| | | (VRM) wt: 2790.0 maxWt: 1786.0
+...| | | | [VRM vrm_1WArw6Xp8] wt: 1004.0
+...| | (ZNC) wt: 3942.0 maxWt: 1786.0
+...| | | [ZPB zpb_g] wt: 1152.0
+delete(NJP): successful
+Tree: Deleting VRM
+...Tree after deletion and before rebalancing VRM
+...| [JIX jix_aZO60] wt: 1406.0
+...(MCB) wt: 4751.0 maxWt: 1786.0
+...| | [UXH uxh_kMyU8v] wt: 407.0
+...| (VHT) wt: 3345.0 maxWt: 1786.0
+...| | | [VHT vht_jQKD-8J] wt: 1786.0
+...| | (ZNC) wt: 2938.0 maxWt: 1786.0
+...| | | [ZPB zpb_g] wt: 1152.0
+...Checking node MCB balance-ratio = 0.7040623 max-ratio = 0.37592086 is balanced
+...Checking node VHT balance-ratio = 0.8783259 max-ratio = 0.53393126 is balanced
+...Checking node ZNC balance-ratio = 0.6078965 max-ratio = 0.6078965 is balanced
+...Tree after rebalancing VRM
+...| [JIX jix_aZO60] wt: 1406.0
+...(MCB) wt: 4751.0 maxWt: 1786.0
+...| | [UXH uxh_kMyU8v] wt: 407.0
+...| (VHT) wt: 3345.0 maxWt: 1786.0
+...| | | [VHT vht_jQKD-8J] wt: 1786.0
+...| | (ZNC) wt: 2938.0 maxWt: 1786.0
+...| | | [ZPB zpb_g] wt: 1152.0
+delete(VRM): successful
+Tree: Deleting ZPB
+...Tree after deletion and before rebalancing ZPB
+...| [JIX jix_aZO60] wt: 1406.0
+...(MCB) wt: 3599.0 maxWt: 1786.0
+...| | [UXH uxh_kMyU8v] wt: 407.0
+...| (VHT) wt: 2193.0 maxWt: 1786.0
+...| | [VHT vht_jQKD-8J] wt: 1786.0
+...Checking node MCB balance-ratio = 0.6093359 max-ratio = 0.49624896 is balanced
+...Checking node VHT balance-ratio = 0.8144095 max-ratio = 0.8144095 is balanced
+...Tree after rebalancing ZPB
+...| [JIX jix_aZO60] wt: 1406.0
+...(MCB) wt: 3599.0 maxWt: 1786.0
+...| | [UXH uxh_kMyU8v] wt: 407.0
+...| (VHT) wt: 2193.0 maxWt: 1786.0
+...| | [VHT vht_jQKD-8J] wt: 1786.0
+delete(ZPB): successful
+Tree: Deleting JIX
+...Tree after deletion and before rebalancing JIX
+...| [UXH uxh_kMyU8v] wt: 407.0
+...(VHT) wt: 2193.0 maxWt: 1786.0
+...| [VHT vht_jQKD-8J] wt: 1786.0
+...Checking node VHT balance-ratio = 0.8144095 max-ratio = 0.8144095 is balanced
+...Tree after rebalancing JIX
+...| [UXH uxh_kMyU8v] wt: 407.0
+...(VHT) wt: 2193.0 maxWt: 1786.0
+...| [VHT vht_jQKD-8J] wt: 1786.0
+delete(JIX): successful
+Tree: Deleting UXH
+...Tree after deletion and before rebalancing UXH
+...[VHT vht_jQKD-8J] wt: 1786.0
+...Tree after rebalancing UXH
+...[VHT vht_jQKD-8J] wt: 1786.0
+delete(UXH): successful
+Preorder list:
+  [VHT vht_jQKD-8J] wt: 1786.0
+Tree structure:
+  [VHT vht_jQKD-8J] wt: 1786.0
+clear: successful
+...Inserting FOC wt: 612.0
+...Tree after insertion and before rebalancing FOC
+...[FOC foc_jvNRcH] wt: 612.0
+...Tree after rebalancing FOC
+...[FOC foc_jvNRcH] wt: 612.0
+insert(FOC): successful {foc_bD1iMnvu9qlNS8nxfQ, foc_jvNRcH, RwOST2i, (14.922989,-13.411667)} wt: 612.0
+...Inserting NWN wt: 1370.0
+...Tree after insertion and before rebalancing NWN
+...| [FOC foc_jvNRcH] wt: 612.0
+...(NWN) wt: 1982.0 maxWt: 1370.0
+...| [NWN nwn_5uAJ] wt: 1370.0
+...Checking node NWN balance-ratio = 0.691221 max-ratio = 0.691221 is balanced
+...Tree after rebalancing NWN
+...| [FOC foc_jvNRcH] wt: 612.0
+...(NWN) wt: 1982.0 maxWt: 1370.0
+...| [NWN nwn_5uAJ] wt: 1370.0
+insert(NWN): successful {nwn_4t IMXiu62 AV, nwn_5uAJ, ln-5R, (-44.98845,-29.131664)} wt: 1370.0
+...Inserting NJP wt: 123.0
+...Tree after insertion and before rebalancing NJP
+...| | [FOC foc_jvNRcH] wt: 612.0
+...| (NJP) wt: 735.0 maxWt: 612.0
+...| | [NJP njp_n2H] wt: 123.0
+...(NWN) wt: 2105.0 maxWt: 1370.0
+...| [NWN nwn_5uAJ] wt: 1370.0
+...Checking node NWN balance-ratio = 0.65083134 max-ratio = 0.65083134 is balanced
+...Checking node NJP balance-ratio = 0.83265305 max-ratio = 0.83265305 is balanced
+...Tree after rebalancing NJP
+...| | [FOC foc_jvNRcH] wt: 612.0
+...| (NJP) wt: 735.0 maxWt: 612.0
+...| | [NJP njp_n2H] wt: 123.0
+...(NWN) wt: 2105.0 maxWt: 1370.0
+...| [NWN nwn_5uAJ] wt: 1370.0
+insert(NJP): successful {njp_aZrjy-24pS9Yadq8Rm31K, njp_n2H, addp28alm, (111.480255,-72.52627)} wt: 123.0
+get-min: found [foc_jvNRcH]
+get-max: found [nwn_5uAJ]
+Preorder list:
+  (NWN) wt: 2105.0
+  (NJP) wt: 735.0
+  [FOC foc_jvNRcH] wt: 612.0
+  [NJP njp_n2H] wt: 123.0
+  [NWN nwn_5uAJ] wt: 1370.0
+Tree structure:
+  | | [FOC foc_jvNRcH] wt: 612.0
+  | (NJP) wt: 735.0
+  | | [NJP njp_n2H] wt: 123.0
+  (NWN) wt: 2105.0
+  | [NWN nwn_5uAJ] wt: 1370.0
+Tree: Deleting NWN
+...Tree after deletion and before rebalancing NWN
+...| [FOC foc_jvNRcH] wt: 612.0
+...(NJP) wt: 735.0 maxWt: 612.0
+...| [NJP njp_n2H] wt: 123.0
+...Checking node NJP balance-ratio = 0.83265305 max-ratio = 0.83265305 is balanced
+...Tree after rebalancing NWN
+...| [FOC foc_jvNRcH] wt: 612.0
+...(NJP) wt: 735.0 maxWt: 612.0
+...| [NJP njp_n2H] wt: 123.0
+delete(NWN): successful
+Tree: Deleting NJP
+...Tree after deletion and before rebalancing NJP
+...[FOC foc_jvNRcH] wt: 612.0
+...Tree after rebalancing NJP
+...[FOC foc_jvNRcH] wt: 612.0
+delete(NJP): successful
+Tree: Deleting FOC
+...Tree after deletion and before rebalancing FOC
+null
+...Tree after rebalancing FOC
+null
+delete(FOC): successful
+get-min: not found
+get-max: not found
+Preorder list:
+Tree structure:

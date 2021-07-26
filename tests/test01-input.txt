@@ -1,0 +1,34 @@
+01:insert:IAD:Washington Dulles International:Washington:USA:38:-77:1
+02:preorder
+03:insert:BWI:Baltimore Washington International:Baltimore:USA:39:-76:1
+04:preorder
+05:insert:SFO:San Francisco International:San Francisco:USA:37:-122:1
+06:preorder
+07:insert:DCA:Ronald Reagan Washington National:Washington:USA:38:-77:2
+08:preorder
+09:insert:ATL:The William B Hartsfield Atlanta International:Atlanta:USA:33:-84:2
+10:preorder
+11:insert:JFK:John F Kennedy International:New York:USA:40:-73:1
+12:preorder
+13:insert:LAX:Los Angeles International:Los Angeles:USA:33:-118:2
+14:preorder
+15:find:IAD
+16:find:XXX
+17:find-down:XXX
+18:find-up:XXX
+19:clear
+20:find:JFK
+21:insert:ATL:The William B Hartsfield Atlanta International:Atlanta:USA:33:-84:2
+22:preorder
+23:insert:BWI:Baltimore Washington International:Baltimore:USA:39:-76:1
+24:preorder
+25:insert:DCA:Ronald Reagan Washington National:Washington:USA:38:-77:2
+26:preorder
+27:insert:IAD:Washington Dulles International:Washington:USA:38:-77:1
+28:preorder
+29:insert:JFK:John F Kennedy International:New York:USA:40:-73:1
+30:preorder
+31:insert:LAX:Los Angeles International:Los Angeles:USA:33:-118:2
+32:preorder
+33:insert:SFO:San Francisco International:San Francisco:USA:37:-122:1
+34:preorder
